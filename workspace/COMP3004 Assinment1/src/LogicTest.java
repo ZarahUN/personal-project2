@@ -45,6 +45,24 @@ public class LogicTest
         
         boolean m3 = rulesEngine.isWounded("Smash", "Dodge");
         assertEquals(m3, false);
+        
+        boolean c1 = rulesEngine.checkSpeed(1,2);
+        assertEquals(c1, false);
+        
+        boolean c2 = rulesEngine.checkSpeed(1,3);
+        assertEquals(c2, false);
+        
+        boolean c3 = rulesEngine.checkSpeed(2,1);
+        assertEquals(c3, true);
+        
+        boolean c4 = rulesEngine.checkSpeed(2,3);
+        assertEquals(c4, false);
+        
+        boolean c5 = rulesEngine.checkSpeed(3,1);
+        assertEquals(c5, true);
+        
+        boolean c6 = rulesEngine.checkSpeed(3,2);
+        assertEquals(c6, true);
 	}
 
 	@Test

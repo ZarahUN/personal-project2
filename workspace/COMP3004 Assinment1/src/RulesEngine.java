@@ -66,8 +66,15 @@ public class RulesEngine
 	 }
   }
   
-  /*public boolean checkspeed(int P1, int P2)
+  public boolean checkSpeed(int P1, int P2)
   {
-	  return P1 > P2;
-  }*/
+	  if(P1 > P2)
+	  {
+		  return true;
+	  }
+	  else 
+	  {
+		  return false;
+	  }
+  }
 }
