@@ -66,9 +66,9 @@ public class RulesEngine
 	 }
   }
   //function to determine if player is wounded based on speed
-  public boolean checkSpeed(int P1, int P2)
+  public boolean checkSpeed(int P1attack, int P2defense)
   {
-	  if(P1 > P2)
+	  if(P1attack > P2defense)
 	  {
 		  return true;
 	  }
@@ -78,6 +78,7 @@ public class RulesEngine
 	  }
   }
   
+  //makes sure the total number of attack and defense is < 4
   public boolean checkTotalNum(int attackNum, int defenseNum)
   {
     int total = attackNum + defenseNum;
@@ -90,5 +91,19 @@ public class RulesEngine
     {
     	return true;
     }
+  }
+  
+  //makes sure the total number of players playing the game 
+  //is between 2-4
+  public boolean checkNumPlayers(int total)
+  {
+	if(total < 2 || total > 4)
+	{
+		return false;
+	}
+	else
+	{
+	  return true;
+	}
   }
 }

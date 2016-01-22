@@ -157,5 +157,22 @@ public class LogicTest
 		assertEquals(r9, true);
 	}
 	
-	
+	@Test
+	public void isGameReady()
+	{
+		boolean r1 = rulesEngine.checkNumPlayers(1);
+		assertEquals(r1, false);
+		
+		boolean r2 = rulesEngine.checkNumPlayers(2);
+		assertEquals(r2, true);
+		
+		boolean r3 = rulesEngine.checkNumPlayers(3);
+		assertEquals(r3, true);
+		
+		boolean r4 = rulesEngine.checkNumPlayers(4);
+		assertEquals(r4, true);
+		
+		boolean r5 = rulesEngine.checkNumPlayers(5);
+		assertEquals(r5, false);
+	}
 }
