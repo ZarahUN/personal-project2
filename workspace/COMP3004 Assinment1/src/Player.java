@@ -7,5 +7,6 @@ public class Player
 	  String Defense;
 	  int attackSpeed;
 	  int defenseSpeed;
+	  int depofense;
 
 }
