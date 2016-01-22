@@ -125,4 +125,37 @@ public class LogicTest
 		String m6 = rulesEngine.getAttack("Smash", 6);
 		assertEquals(m6, "Thrust");
 	}
+	
+	@Test
+	public void testTotal()
+	{
+		boolean r1 = rulesEngine.checkTotalNum(1, 1);
+		assertEquals(r1, false);
+		
+		boolean r2 = rulesEngine.checkTotalNum(1, 2);
+		assertEquals(r2, false);
+		
+		boolean r3 = rulesEngine.checkTotalNum(1, 3);
+		assertEquals(r3, true);
+		
+		boolean r4 = rulesEngine.checkTotalNum(2, 1);
+		assertEquals(r4, false);
+		
+		boolean r5 = rulesEngine.checkTotalNum(2, 2);
+		assertEquals(r5, true);
+		
+		boolean r6 = rulesEngine.checkTotalNum(2, 3);
+		assertEquals(r6, true);
+		
+		boolean r7 = rulesEngine.checkTotalNum(3, 1);
+		assertEquals(r7, true);
+		
+		boolean r8 = rulesEngine.checkTotalNum(3, 2);
+		assertEquals(r8, true);
+		
+		boolean r9 = rulesEngine.checkTotalNum(3, 3);
+		assertEquals(r9, true);
+	}
+	
+	
 }

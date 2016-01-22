@@ -65,7 +65,7 @@ public class RulesEngine
 	     return false;
 	 }
   }
-  
+  //function to determine if player is wounded based on speed
   public boolean checkSpeed(int P1, int P2)
   {
 	  if(P1 > P2)
@@ -76,5 +76,19 @@ public class RulesEngine
 	  {
 		  return false;
 	  }
+  }
+  
+  public boolean checkTotalNum(int attackNum, int defenseNum)
+  {
+    int total = attackNum + defenseNum;
+    
+    if(total < 4)
+    {
+    	return false;
+    }
+    else
+    {
+    	return true;
+    }
   }
 }
