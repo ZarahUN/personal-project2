@@ -1,6 +1,12 @@
 
 public class RulesEngine 
 {
+  Player player1;
+  Player player2;
+  public static void main(String[] args)
+  {
+	  
+  }
   /*
    * gets the changes attack after the dice has been rolled
    * depends on the number on the rolled dice
@@ -48,8 +54,9 @@ public class RulesEngine
 	//this function determines if a player is wounded after a round
   public boolean isWounded(String attack, String defense)
   {
-	 if(attack.equalsIgnoreCase("Thrust") && defense.equalsIgnoreCase("charge"))
+	 if(attack.equalsIgnoreCase("Thrust") && defense.equalsIgnoreCase("Charge"))
 	 {
+		 
 		 return true;
 	 }
 	 else if(attack == "Swing" && defense == "Dodge")
@@ -97,9 +104,10 @@ public class RulesEngine
   //is between 2-4
   public boolean checkNumPlayers(int total)
   {
+    
 	if(total < 2 || total > 4)
 	{
-		return false;
+	    return false;
 	}
 	else
 	{
