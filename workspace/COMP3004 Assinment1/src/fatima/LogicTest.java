@@ -1,3 +1,4 @@
+package fatima;
 import static org.junit.Assert.*;
 
 import org.junit.Before;
@@ -6,7 +7,7 @@ import org.junit.Test;
 public class LogicTest
 {
   private RulesEngine rulesEngine;
-  
+
   Player player1;
   Player player2;
   Player player3;
@@ -51,33 +52,33 @@ public class LogicTest
 	public void testWounded() 
 	{
 		//when attack is thrust
-		boolean t1 = rulesEngine.isWounded("Thrust", "Charge");
+		boolean t1 = RulesEngine.isWounded("Thrust", "Charge");
         assertEquals(t1, true);
         
-        boolean t2 = rulesEngine.isWounded("Thrust", "Dodge");
+        boolean t2 = RulesEngine.isWounded("Thrust", "Dodge");
         assertEquals(t2, false);
         
-        boolean t3 = rulesEngine.isWounded("Thrust", "Duck");
+        boolean t3 = RulesEngine.isWounded("Thrust", "Duck");
         assertEquals(t3, false);
         
         //when attack is swing
-        boolean s1 = rulesEngine.isWounded("Swing", "Dodge");
+        boolean s1 = RulesEngine.isWounded("Swing", "Dodge");
         assertEquals(s1, true);
         
-        boolean s2 = rulesEngine.isWounded("Swing", "Charge");
+        boolean s2 = RulesEngine.isWounded("Swing", "Charge");
         assertEquals(s2, false);
         
-        boolean s3 = rulesEngine.isWounded("Swing", "Duck");
+        boolean s3 = RulesEngine.isWounded("Swing", "Duck");
         assertEquals(s3, false);
       
         //when attack is smash
-        boolean m1 = rulesEngine.isWounded("Smash", "Duck");
+        boolean m1 = RulesEngine.isWounded("Smash", "Duck");
         assertEquals(m1, true);
         
-        boolean m2 = rulesEngine.isWounded("Smash", "Charge");
+        boolean m2 = RulesEngine.isWounded("Smash", "Charge");
         assertEquals(m2, false);
         
-        boolean m3 = rulesEngine.isWounded("Smash", "Dodge");
+        boolean m3 = RulesEngine.isWounded("Smash", "Dodge");
         assertEquals(m3, false);
         
         boolean c1 = rulesEngine.checkSpeed(1,2);
@@ -108,60 +109,60 @@ public class LogicTest
 	public void testRolls()
 	{
 		//testing thrust
-		String t1 = rulesEngine.getAttack("Thrust", 1);
+		String t1 = RulesEngine.getAttack("Thrust", 1);
 		assertEquals(t1, "Thrust");
 		
-		String t2 = rulesEngine.getAttack("Thrust", 2);
+		String t2 = RulesEngine.getAttack("Thrust", 2);
 		assertEquals(t2, "Thrust");
 		
-		String t3 = rulesEngine.getAttack("Thrust", 3);
+		String t3 = RulesEngine.getAttack("Thrust", 3);
 		assertEquals(t3, "Smash");
 		
-		String t4 = rulesEngine.getAttack("Thrust", 4);
+		String t4 = RulesEngine.getAttack("Thrust", 4);
 		assertEquals(t4, "Smash");
 		
-		String t5 = rulesEngine.getAttack("Thrust", 5);
+		String t5 = RulesEngine.getAttack("Thrust", 5);
 		assertEquals(t5, "Swing");
 		
-		String t6 = rulesEngine.getAttack("Thrust", 6);
+		String t6 = RulesEngine.getAttack("Thrust", 6);
 		assertEquals(t6, "Swing");
 		
 		//testing swing
-		String s1 = rulesEngine.getAttack("Swing", 1);
+		String s1 = RulesEngine.getAttack("Swing", 1);
 		assertEquals(s1, "Swing");
 		
-		String s2 = rulesEngine.getAttack("Swing", 2);
+		String s2 = RulesEngine.getAttack("Swing", 2);
 		assertEquals(s2, "Swing");
 		
-		String s3 = rulesEngine.getAttack("Swing", 3);
+		String s3 = RulesEngine.getAttack("Swing", 3);
 		assertEquals(s3, "Thrust");
 		
-		String s4 = rulesEngine.getAttack("Swing", 4);
+		String s4 = RulesEngine.getAttack("Swing", 4);
 		assertEquals(s4, "Thrust");
 		
-		String s5 = rulesEngine.getAttack("Swing", 5);
+		String s5 = RulesEngine.getAttack("Swing", 5);
 		assertEquals(s5, "Smash");
 		
-		String s6 = rulesEngine.getAttack("Swing", 6);
+		String s6 = RulesEngine.getAttack("Swing", 6);
 		assertEquals(s6, "Smash");
 		
 		//testing smash
-		String m1 = rulesEngine.getAttack("Smash", 1);
+		String m1 = RulesEngine.getAttack("Smash", 1);
 		assertEquals(m1, "Smash");
 		
-		String m2 = rulesEngine.getAttack("Smash", 2);
+		String m2 = RulesEngine.getAttack("Smash", 2);
 		assertEquals(m2, "Smash");
 		
-		String m3 = rulesEngine.getAttack("Smash", 3);
+		String m3 = RulesEngine.getAttack("Smash", 3);
 		assertEquals(m3, "Swing");
 		
-		String m4 = rulesEngine.getAttack("Smash", 4);
+		String m4 = RulesEngine.getAttack("Smash", 4);
 		assertEquals(m4, "Swing");
 		
-		String m5 = rulesEngine.getAttack("Smash", 5);
+		String m5 = RulesEngine.getAttack("Smash", 5);
 		assertEquals(m5, "Thrust");
 		
-		String m6 = rulesEngine.getAttack("Smash", 6);
+		String m6 = RulesEngine.getAttack("Smash", 6);
 		assertEquals(m6, "Thrust");
 	}
 	
@@ -197,33 +198,14 @@ public class LogicTest
 	}
 	
 	@Test
-	public void isGameReady()
-	{
-		boolean r1 = rulesEngine.checkNumPlayers(1);
-		assertEquals(r1, false);
-		
-		boolean r2 = rulesEngine.checkNumPlayers(2);
-		assertEquals(r2, true);
-		
-		boolean r3 = rulesEngine.checkNumPlayers(3);
-		assertEquals(r3, true);
-		
-		boolean r4 = rulesEngine.checkNumPlayers(4);
-		assertEquals(r4, true);
-		
-		boolean r5 = rulesEngine.checkNumPlayers(5);
-		assertEquals(r5, false);
-	}
-	
-	@Test
 	public void test2PlayerAttack()
 	{
 		//player1 attacking
-		boolean r1 = rulesEngine.isWounded(player1.getAttack(), player2.getDefense());
+		boolean r1 = RulesEngine.isWounded(player1.getAttack(), player2.getDefense());
 		assertEquals(r1, false);
 		
 		//player2 attacking
-		boolean r2 = rulesEngine.isWounded(player2.getAttack(), player1.getDefense());
+		boolean r2 = RulesEngine.isWounded(player2.getAttack(), player1.getDefense());
 		assertEquals(r2, false);
 	}
 	
@@ -243,24 +225,24 @@ public class LogicTest
 	public void test3PlayerAttack()
 	{
 		//player1 attacking
-		boolean r1 = rulesEngine.isWounded(player1.getAttack(), player2.getDefense());
+		boolean r1 = RulesEngine.isWounded(player1.getAttack(), player2.getDefense());
 		assertEquals(r1, false);
 		
-		boolean r2 = rulesEngine.isWounded(player1.getAttack(), player3.getDefense());
+		boolean r2 = RulesEngine.isWounded(player1.getAttack(), player3.getDefense());
 		assertEquals(r2, false);
 		
 		//player2 attacking
-		boolean r3 = rulesEngine.isWounded(player2.getAttack(), player1.getDefense());
+		boolean r3 = RulesEngine.isWounded(player2.getAttack(), player1.getDefense());
 		assertEquals(r3, false);
 		
-		boolean r4 = rulesEngine.isWounded(player2.getAttack(), player3.getDefense());
+		boolean r4 = RulesEngine.isWounded(player2.getAttack(), player3.getDefense());
 		assertEquals(r4, false);
 		
 		//player3 attacking
-		boolean r5 = rulesEngine.isWounded(player3.getAttack(), player1.getDefense());
+		boolean r5 = RulesEngine.isWounded(player3.getAttack(), player1.getDefense());
 		assertEquals(r5, false);
 		
-		boolean r6 = rulesEngine.isWounded(player3.getAttack(), player2.getDefense());
+		boolean r6 = RulesEngine.isWounded(player3.getAttack(), player2.getDefense());
 		assertEquals(r6, false);
 	}
 	
@@ -293,43 +275,43 @@ public class LogicTest
 	public void test4PlayerAttack()
 	{
 		//player1 attacking
-		boolean r1 = rulesEngine.isWounded(player1.getAttack(), player2.getDefense());
+		boolean r1 = RulesEngine.isWounded(player1.getAttack(), player2.getDefense());
 		assertEquals(r1, false);
 		
-		boolean r2 = rulesEngine.isWounded(player1.getAttack(), player3.getDefense());
+		boolean r2 = RulesEngine.isWounded(player1.getAttack(), player3.getDefense());
 		assertEquals(r2, false);
 		
-		boolean r3 = rulesEngine.isWounded(player1.getAttack(), player4.getDefense());
+		boolean r3 = RulesEngine.isWounded(player1.getAttack(), player4.getDefense());
 		assertEquals(r3, true);
 		
 		//player2 attacking
-		boolean r4 = rulesEngine.isWounded(player2.getAttack(), player1.getDefense());
+		boolean r4 = RulesEngine.isWounded(player2.getAttack(), player1.getDefense());
 		assertEquals(r4, false);
 		
-		boolean r5 = rulesEngine.isWounded(player2.getAttack(), player3.getDefense());
+		boolean r5 = RulesEngine.isWounded(player2.getAttack(), player3.getDefense());
 		assertEquals(r5, false);
 		
-		boolean r6 = rulesEngine.isWounded(player2.getAttack(), player4.getDefense());
+		boolean r6 = RulesEngine.isWounded(player2.getAttack(), player4.getDefense());
 		assertEquals(r6, false);
 		
 		//player3 attacking
-		boolean r7 = rulesEngine.isWounded(player3.getAttack(), player1.getDefense());
+		boolean r7 = RulesEngine.isWounded(player3.getAttack(), player1.getDefense());
 		assertEquals(r7, false);
 		
-		boolean r8 = rulesEngine.isWounded(player3.getAttack(), player2.getDefense());
+		boolean r8 = RulesEngine.isWounded(player3.getAttack(), player2.getDefense());
 		assertEquals(r8, false);
 		
-		boolean r9 = rulesEngine.isWounded(player3.getAttack(), player4.getDefense());
+		boolean r9 = RulesEngine.isWounded(player3.getAttack(), player4.getDefense());
 		assertEquals(r9, false);
 		
 		//player4 attacking
-		boolean r10 = rulesEngine.isWounded(player4.getAttack(), player1.getDefense());
+		boolean r10 = RulesEngine.isWounded(player4.getAttack(), player1.getDefense());
 		assertEquals(r10, true);
 		
-		boolean r11 = rulesEngine.isWounded(player4.getAttack(), player2.getDefense());
+		boolean r11 = RulesEngine.isWounded(player4.getAttack(), player2.getDefense());
 		assertEquals(r11, false);
 		
-		boolean r12 = rulesEngine.isWounded(player4.getAttack(), player3.getDefense());
+		boolean r12 = RulesEngine.isWounded(player4.getAttack(), player3.getDefense());
 		assertEquals(r12, false);
 	}
 	

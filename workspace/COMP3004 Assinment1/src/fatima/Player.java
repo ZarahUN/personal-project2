@@ -1,3 +1,4 @@
+package fatima;
 
 public class Player 
 {
@@ -8,9 +9,23 @@ public class Player
 	  String Defense;
 	  int attackSpeed;
 	  int defenseSpeed;
-	  int numWounds;
+	  int numWounds = 0;
+	  Player opponent;
 	  
-	  public int getNumWounds() {
+	  Player (int id) {
+		this.id = id;  
+	  }
+	  
+	  public Player() {
+	}
+
+	public Player getOpponent() {
+		return opponent;
+	}
+	public void setOpponent(Player opponent) {
+		this.opponent = opponent;
+	}
+	public int getNumWounds() {
 		return numWounds;
 	}
 	public void setNumWounds(int numWounds) {
@@ -63,6 +78,30 @@ public class Player
 		this.defenseSpeed = defenseSpeed;
 	}
 	  
-	  
+	// player to Attack | Attack Move | Attack Speed | Defense Move | Defense Speed
+		public void setMove (Player opponent, String input) {
+			String[] tokens = input.split(" ");
+			
+			this.opponent = opponent;
+			this.Attack = tokens[1];
+			this.attackSpeed = Integer.parseInt(tokens[2]);		
+			this.Defense = tokens[3];
+			this.defenseSpeed = Integer.parseInt(tokens[4]);
+			
+		}
+		
+		String result;
+		public void setResult (String result) {
+			this.result = result;
+		}
+		
+		public void setWounded () {
+			this.numWounds += 1;
+		}
+		
+		public String getResult () {
+			return String.format("%s attacked %s : won attack %s : number of wounds %d\n", name, opponent.getName(), result, numWounds );
+		}
+
 	  
 }

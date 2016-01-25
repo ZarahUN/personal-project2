@@ -1,17 +1,13 @@
+package fatima;
 
 public class RulesEngine 
 {
-  Player player1;
-  Player player2;
-  public static void main(String[] args)
-  {
-	  
-  }
+	 public static void main(String[] args){}
   /*
    * gets the changes attack after the dice has been rolled
    * depends on the number on the rolled dice
    */
-  public String getAttack(String attack, int roll)
+  public static String getAttack(String attack, int roll)
   {
 	  if(roll == 1 || roll == 2)
 	  {
@@ -52,11 +48,10 @@ public class RulesEngine
 	  return attack;
   }
 	//this function determines if a player is wounded after a round
-  public boolean isWounded(String attack, String defense)
+  public static boolean isWounded(String attack, String defense)
   {
 	 if(attack.equalsIgnoreCase("Thrust") && defense.equalsIgnoreCase("Charge"))
 	 {
-		 
 		 return true;
 	 }
 	 else if(attack == "Swing" && defense == "Dodge")
@@ -100,18 +95,40 @@ public class RulesEngine
     }
   }
   
-  //makes sure the total number of players playing the game 
-  //is between 2-4
-  public boolean checkNumPlayers(int total)
+  //checking connection of clients to server
+  public boolean checkConnection(Player[] players)
   {
-    
-	if(total < 2 || total > 4)
-	{
-	    return false;
-	}
-	else
-	{
-	  return true;
-	}
+	  int counter= 0;
+	  for(Player p : players)
+	  {
+		  if(p.getId() != 0)
+		  {
+			counter++;
+		  }
+	  }
+	  if(counter == Config.MAX_CLIENTS)
+	  {
+		  return true;
+	  }
+	  else
+	  {
+		  return false;
+	  }
   }
+  
+  //processes the attack for each player
+  public static void process (Player[] players) {
+		for (Player p : players) {
+			processAttack (p, p.getOpponent());
+		}
+	}
+	
+  //calls the isWounded function to process the attack and sets the result of the round for each player
+	private static Boolean processAttack ( Player attacker, Player defender) {
+		isWounded(attacker.getAttack(), defender.getDefense());
+		attacker.setResult("");
+		defender.setResult("");
+		return true;
+	}
+
 }
