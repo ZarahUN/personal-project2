@@ -1,9 +1,34 @@
 package fatima;
 
+import java.util.ArrayList;
+
 public class Player 
 {
-	  String name;
-	  int id;
+	  private String name;
+	  private int id;
+	  private int numPoints;
+      private ArrayList<Card> hand;
+      //private RulesEngine rulesEngine;
+      
+      public Player (int id) {
+  		this.id = id;  
+  	  }
+  	  
+  	  public Player() {	}
+	  
+  	  public String getName() { return name; }
+  	  public void setName(String name) { this.name = name; }
+	
+  	  public int getId() { return id;	}
+  	  public void setId(int id) { this.id = id; }
+  	  
+  	  public int getNumPoints() {	return numPoints; }
+	  public void setNumPoints(int numPoints) { this.numPoints = numPoints; }
+
+	  public ArrayList<Card> getHand() { return hand; }
+	  public void setHand(ArrayList<Card> hand) { this.hand = hand; }
+	  
+     //this part is just here so the rest of the program will work
 	  int roll;
 	  String Attack;
 	  String Defense;
@@ -12,13 +37,19 @@ public class Player
 	  int numWounds = 0;
 	  Player opponent;
 	  
-	  Player (int id) {
-		this.id = id;  
-	  }
 	  
-	  public Player() {
-	}
+	  int numokens;
+	     public int getNumokens() {
+			return numokens;
+		}
 
+		public void setNumokens(int numokens) {
+			this.numokens = numokens;
+		}
+
+		
+	  
+	  
 	public Player getOpponent() {
 		return opponent;
 	}
@@ -31,20 +62,7 @@ public class Player
 	public void setNumWounds(int numWounds) {
 		this.numWounds = numWounds;
 	}
-	RulesEngine rulesEngine;
-	  
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
+	
 	
 	public int getRoll() {
 		return roll;
