@@ -6,14 +6,18 @@ public class Player
 {
 	  private String name;
 	  private int id;
-	  public ServerThread serverThread;
+	  ServerThread serverThread;
 	  private int numPoints;
       private ArrayList<Card> hand;
       private RulesEngine rulesEngine;
+      private String[] shields;
       
       public Player (int id, ServerThread serverThread) {
   		this.id = id;  
   		this.serverThread = serverThread;
+  		shields = new String[5];
+  		for (int i = 0; i < shields.length; i++) 
+  			shields[i] = " "; 
   	  }
   	  
   	  public Player() {	}
@@ -40,7 +44,6 @@ public class Player
 	  int numWounds = 0;
 	  Player opponent;
 	  
-	  
 	  int numokens;
 	     public int getNumokens() {
 			return numokens;
@@ -66,6 +69,18 @@ public class Player
 		this.numWounds = numWounds;
 	}
 	
+	public boolean addShield(String s) {
+		int count = 0;
+		for (int i = 0; i < shields.length; i++) {
+			if (shields[i].equals(" "))
+				shields[i] = s;
+			else
+				count++;
+		}
+		if (count == 5)
+			return true;
+		return false;
+	}
 	
 	public int getRoll() {
 		return roll;

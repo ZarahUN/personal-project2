@@ -353,13 +353,28 @@ public class Server implements Runnable
 		  		else {
 		  			thread.send("You will not be added to the tournament.\n");
 		  			holder++;
+		  			/*enter = false;
+		  			for (i = 0; i < Config.MAX_CLIENTS; i++)
+		  			{
+		  				if (players[i].getId() == id)
+		  				{
+		  					Player player = new Player(players[i].getId(), players[i].serverThread);
+		  					player.setName(players[i].getName());
+		  					player.setHand(players[i].getHand());
+		  					player.setNumPoints(0);
+		  					tournamentPlayers[holder] = player;
+		  				}
+		  			}*/
 		  		}	
 		  		System.out.println("Holder: " + holder);
 	        }
 	    }
         if (holder == Config.MAX_CLIENTS) {
         	holder = 0;
-        	tournament_1(tournamentPlayers[curPlayer]); //gameState = GameState.PROCESS_1;
+        	//if (enter) 
+        	  tournament_1(tournamentPlayers[curPlayer]);
+        	/*else 
+        		withdrawTournament(id, "W");*/
         }
 	}
 	
@@ -413,6 +428,7 @@ public class Server implements Runnable
 	public boolean removePlayer(Player player) 
 	{
 		int numPlayers = tournamentPlayers.length;
+		int count = 0;
 		Player[] result = new Player[numPlayers - 1];
         for (int i = 0; i < numPlayers; i++) 
         {
@@ -422,7 +438,8 @@ public class Server implements Runnable
 				p.setName(tournamentPlayers[i].getName());
 				p.setHand(tournamentPlayers[i].getHand());
 				p.setNumPoints(0);
-	        	result[i] = p;
+	        	result[count] = p;
+	        	count++;
             }
         }
         tournamentPlayers = null; 
@@ -431,8 +448,8 @@ public class Server implements Runnable
      }
 	
 	public void tournament_1(Player p) {
-			ServerThread thread = p.serverThread;
-			
+		ServerThread thread = p.serverThread;
+
 			if (tournamentPlayers.length >= 2)	//there are still 2 players in the tournament
 			{
 				//Player picks up a  card
@@ -459,15 +476,25 @@ public class Server implements Runnable
 					
 				//Ask player which card(s) they want to play
 				thread.send("Which card(s) do you want to play? Enter the IDs, separated by commas\n");
+				gameState = GameState.PROCESS_1;
+
 			}
 			else 
 			{
 				game.setWinner(p);
-				logger.info(String.format("Winner is asked to pick the colour of the game"));
-				thread.send("You won the tournament!! What colour would you like the game to be?\n :");
-				gameState = GameState.SET_GAME_COLOUR;
+				if (p.addShield(game.getColour()) == true) {
+					logger.info("Game Winner");
+					for (int i = 0; i < players.length; i++) {
+						players[i].serverThread.send(String.format("Winner of the game is %s", game.getWinner()));
+						gameState = GameState.FINISHED;
+					}
+				}
+				else {
+					logger.info(String.format("Winner is asked to pick the colour of the game"));
+					thread.send("You won the tournament!! What colour would you like the game to be?\n :");
+					gameState = GameState.SET_GAME_COLOUR;
+				}
 			}
-			gameState = GameState.PROCESS_1;
 	}
 	
 	public void tournament_2(int id, String input) {
@@ -509,15 +536,10 @@ public class Server implements Runnable
 				}
 			}
 		}
-		
-		//if (holder == Config.MAX_CLIENTS)
-		//{
-			curPlayer++; 
-			if (curPlayer == tournamentPlayers.length)
-				curPlayer = 0;
-			//tournament_1(tournamentPlayers[curPlayer]);
-			tournament_3(tournamentPlayers[curPlayer]);
-	//	}
+		curPlayer++; 
+		if (curPlayer == tournamentPlayers.length)
+			curPlayer = 0;
+		tournament_3(tournamentPlayers[curPlayer]);
 	}
 	
 	public void tournament_3(Player p) {
