@@ -7,13 +7,38 @@ import org.junit.Test;
 public class LogicTest
 {
 
+	private Server server;
+	private ServerThread serverThread;
+	
+	Player[] players;
+	Player player1;
+	Player player2;
+	
+	  String input = "y";
+	int id;
+		  
   @Before
   public void setUp()
   {
-	  
+	  System.out.println("IN SETUP");
+	  server = new Server(Config.DEFAULT_PORT);
 	  //Game.setPrevColour("purple");
 	  
+	  //player1.setId(0);
+		//id = player1.getId();
+		
+		//player2.setId(1);
+	  
+	  player1 = new Player();
+	  player2 = new Player();
+	  
+	  players = new Player[2];
+		players[0] = player1;
+		players[1] = player2;
+		
+	  
   }
+  
   
   @Test
   public void test2NumPlayers()
@@ -112,5 +137,7 @@ public class LogicTest
 	  //boolean t = 
 	  //assertEquals(t, true);	  
   }
+  
+  
 }
   

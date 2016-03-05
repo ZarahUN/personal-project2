@@ -6,12 +6,14 @@ public class Player
 {
 	  private String name;
 	  private int id;
+	  public ServerThread serverThread;
 	  private int numPoints;
       private ArrayList<Card> hand;
-      //private RulesEngine rulesEngine;
+      private RulesEngine rulesEngine;
       
-      public Player (int id) {
+      public Player (int id, ServerThread serverThread) {
   		this.id = id;  
+  		this.serverThread = serverThread;
   	  }
   	  
   	  public Player() {	}
@@ -27,6 +29,7 @@ public class Player
 
 	  public ArrayList<Card> getHand() { return hand; }
 	  public void setHand(ArrayList<Card> hand) { this.hand = hand; }
+	  public void addHand(Card card) { hand.add(card);}
 	  
      //this part is just here so the rest of the program will work
 	  int roll;
