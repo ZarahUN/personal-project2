@@ -604,6 +604,7 @@ public class Server implements Runnable
 		logger.info(String.format("Testing tournament_3"));
 		ServerThread thread = p.serverThread;
 
+		logger.info(String.format("Testing tournament_3: %s is asked if the want to play, or withdraw", p.getName()));
 		thread.send(String.format("Do you want to withdraw (w) or play a card? (p) Current value to beat is %d\n", tournamentValue));
 		
 		gameState = GameState.PROCESS_2;
