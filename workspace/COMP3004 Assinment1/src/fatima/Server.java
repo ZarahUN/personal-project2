@@ -134,10 +134,17 @@ public class Server implements Runnable
 		logger.info(String.format("Number of registered players          %d",players.length));
 		for (int i = 0; i < Config.MAX_CLIENTS; i++) {
 			if (players[i] != null) {
-					System.out.println(String.format("%d %d\n", portId, players[i].getId()));
+				
+				    //testing: testing portIDs
+					System.out.println(String.format("TESTING: portID is %d and Player %d portID is %d\n", portId, i+1, players[i].getId()));
+					
 					logger.info(String.format("Checking players port id %d",players[i].getId()));
 					if (players[i].getId() == portId) {
 						players[i].setName(name);
+						
+						//testing: making sure the correct players name have been set based on the clients input
+						System.out.println(String.format("TESTING: players %d name set to %s \n", i+1, players[i].getName()));
+						
 						logger.info(String.format("Players name set to %d %s",portId, players[i].getName()));
 						ServerThread thread = clients.get(portId);			
 						logger.info(String.format("Sending message back to player on port %d",thread.getID()));
@@ -353,18 +360,7 @@ public class Server implements Runnable
 		  		else {
 		  			thread.send("You will not be added to the tournament.\n");
 		  			holder++;
-		  			/*enter = false;
-		  			for (i = 0; i < Config.MAX_CLIENTS; i++)
-		  			{
-		  				if (players[i].getId() == id)
-		  				{
-		  					Player player = new Player(players[i].getId(), players[i].serverThread);
-		  					player.setName(players[i].getName());
-		  					player.setHand(players[i].getHand());
-		  					player.setNumPoints(0);
-		  					tournamentPlayers[holder] = player;
-		  				}
-		  			}*/
+		  
 		  		}	
 		  		System.out.println("Holder: " + holder);
 	        }
@@ -447,6 +443,7 @@ public class Server implements Runnable
      return true;
      }
 	
+	
 	public void tournament_1(Player p) {
 		ServerThread thread = p.serverThread;
 
@@ -490,6 +487,8 @@ public class Server implements Runnable
 					}
 				}
 				else {
+					tournamentPlayers = null;
+					tournamentPlayers = new Player[Config.MAX_CLIENTS];
 					logger.info(String.format("Winner is asked to pick the colour of the game"));
 					thread.send("You won the tournament!! What colour would you like the game to be?\n :");
 					gameState = GameState.SET_GAME_COLOUR;
