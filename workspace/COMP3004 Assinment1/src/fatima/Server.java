@@ -488,6 +488,7 @@ public class Server implements Runnable
         }
         tournamentPlayers = null; 
         tournamentPlayers = result.clone();
+        logger.info(String.format("Testing removePlayer: %s has been removed", player.getName()));
      return true;
      }
 	
