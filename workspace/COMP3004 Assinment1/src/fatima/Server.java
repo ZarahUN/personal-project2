@@ -418,6 +418,7 @@ public class Server implements Runnable
 	
 	public void withdrawTournament(int id, String input)
 	{
+		logger.info(String.format("Testing withdrawTournament: in withdrawTournamnet function"));
 		if (input.equalsIgnoreCase("W"))
 		{
 			for (int i = 0; i < players.length; i++)	
@@ -425,14 +426,16 @@ public class Server implements Runnable
 				if (players[i].getId() == id) {
 					ServerThread thread = players[i].serverThread;
 					thread.send("You will be removed from the tournament");
+					logger.info(String.format("Testing withdrawTournament: %s has choosen to withdraw from the tournament", players[i].getName()));
 					//removes all cards from players hand and sets value of card in deck to 0
 					for(int k = 0; k < deck.size(); k++)
 					{
 						for(int j = 0; j < players[i].getHand().size(); j++)
 						{
-							System.out.println("I: " + i);
-							System.out.println("J: " + j);
-							System.out.println("K: " + k);
+							logger.info(String.format("Testing withdrawTournament: removing cards from players hand and puts it back in deck"));
+							System.out.println("player I: " + i);
+							System.out.println("checking cards in players hand J: " + j);
+							System.out.println("checking cards in deckK: " + k);
 							System.out.println("Player card: " + players[i].getHand().get(j).getID());
 							System.out.println("Deck Card: " + deck.get(k).getID());
 							
@@ -443,11 +446,14 @@ public class Server implements Runnable
 					}
 					
 					//call distributeHands
+					logger.info(String.format("Testing withdrawTournament: cards are distributed between players again"));
 					distributeHands(deck, players[i]);
 					int nextPlayer = 0;
 					for (int j = 0; j < tournamentPlayers.length; j++) {
 						if (players[i].getId() == tournamentPlayers[j].getId()) {
+							
 							removePlayer(tournamentPlayers[j]);
+							logger.info(String.format("Testing withdrawTournament: %s has been removed", tournamentPlayers[j].getName()));
 							nextPlayer = j + 1;
 						}
 					}
