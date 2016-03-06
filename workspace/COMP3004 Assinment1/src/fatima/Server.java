@@ -495,10 +495,11 @@ public class Server implements Runnable
 	
 	public void tournament_1(Player p) {
 		ServerThread thread = p.serverThread;
-
+		logger.info(String.format("Testing tournament_1: first tournament begins"));
 			if (tournamentPlayers.length >= 2)	//there are still 2 players in the tournament
 			{
 				//Player picks up a  card
+				logger.info(String.format("Testing tournament_1: player picks a card from deck"));
 				for (int j = 0; j < deck.size(); j++)
 				{
 					if (deck.get(j).getState() == 0) {
@@ -520,6 +521,7 @@ public class Server implements Runnable
 				}
 				thread.send(String.format("Current value to beat is %d\n", tournamentValue));
 					
+				logger.info(String.format("Testing tournament_1: asking player which card(s) they want"));
 				//Ask player which card(s) they want to play
 				thread.send("Which card(s) do you want to play? Enter the IDs, separated by commas\n");
 				gameState = GameState.PROCESS_1;
@@ -528,6 +530,7 @@ public class Server implements Runnable
 			else 
 			{
 				game.setWinner(p);
+				logger.info(String.format("Testing tournament_1: winner of first tournament is %s", game.getWinner()));
 				if (p.addShield(game.getColour()) == true) {
 					logger.info("Game Winner");
 					for (int i = 0; i < players.length; i++) {
@@ -538,7 +541,7 @@ public class Server implements Runnable
 				else {
 					tournamentPlayers = null;
 					tournamentPlayers = new Player[Config.MAX_CLIENTS];
-					logger.info(String.format("Winner is asked to pick the colour of the game"));
+					logger.info(String.format("Testing tournament_1: Winner is asked to pick the colour of the game"));
 					thread.send("You won the tournament!! What colour would you like the game to be?\n :");
 					gameState = GameState.SET_GAME_COLOUR;
 				}
