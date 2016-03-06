@@ -363,7 +363,9 @@ public class Server implements Runnable
 	
 	public void joinTournament(int id, String input) {
 		int j; 
+		
 		tournamentValue = 0; //reset 
+		logger.info(String.format("Testing joinTournament: tournament value has been reset"));
 		
         for (int i = 0; i < Config.MAX_CLIENTS; i++) 
         {
@@ -372,9 +374,11 @@ public class Server implements Runnable
         	if (players[i].getId() == id) {
 		  		if (input.equalsIgnoreCase("Y"))
 		  		{
+		  			logger.info(String.format("Testing joinTournament: player %d answers yes", i+1));
 		  			while (j < players[i].getHand().size()) {
 		  				if (players[i].getHand().get(j).getColour().equals(game.getColour()) || players[i].getHand().get(j).getColour() == "white") 
 		  				{
+		  					logger.info(String.format("Testing joinTournament: checking if player has the right colour card in hand"));
 		  					if (players[i].equals(game.getWinner()))
 		  						curPlayer = holder;
 		  					Player player = new Player(players[i].getId(), players[i].serverThread);
@@ -384,7 +388,9 @@ public class Server implements Runnable
 		  					tournamentPlayers[holder] = player;
 					  		holder++;
 			  				thread.send("You have successfully entered the tournament.\n");
-							System.out.println("Player " + i + ": " + tournamentPlayers[i].getName());
+			  				//player that has joined the tournament
+							System.out.println("Player " + i + " named : " + tournamentPlayers[i].getName() + "has sunccessfully joined the tournament");
+							logger.info(String.format("Testing joinTournament: %s has successfully joined the tournament", tournamentPlayers[i].getName()));
 			  				j = players[i].getHand().size();
 			  				//if player has at least one card of the specified game color or a white card, they can enter
 		  				}
@@ -403,6 +409,7 @@ public class Server implements Runnable
         if (holder == Config.MAX_CLIENTS) {
         	holder = 0;
         	//if (enter) 
+        	logger.info(String.format("Testing joinTournament: Maximum  number of players to enter tournament reached. Tournament 1 has begun"));
         	  tournament_1(tournamentPlayers[curPlayer]);
         	/*else 
         		withdrawTournament(id, "W");*/
