@@ -337,15 +337,17 @@ public class Server implements Runnable
 		{
         	ServerThread thread = players[i].serverThread;//entity.getValue();
 
-			logger.info(String.format("Asking players if they want to join tournament"));
+			logger.info(String.format("TESTING setGAmeColour: Asking players if they want to join tournament"));
 	        thread.send(String.format("Would you like to join the tournament (Y or N)? Tournament colour is:%s\n", game.getColour()));
 	        thread.send(String.format("Your hand is: \n"));
+	        logger.info(String.format("Testing setGameColour: showing players their hand"));
 	        for(int k = 0; k < players[i].getHand().size(); k++)
 			{
 				thread.send(String.format("%s: %s card of value %d\n",players[i].getName(), players[i].getHand().get(k).getColour(), players[i].getHand().get(k).getValue()));
 			}
 		}
 	   	
+	   	logger.info(String.format("Testing setGameColour: Exiting"));
 	   	gameState = GameState.JOIN_TOURNAMENT;
 	}
 		
