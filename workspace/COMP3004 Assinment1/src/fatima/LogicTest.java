@@ -35,10 +35,54 @@ public class LogicTest
 	  players = new Player[2];
 		players[0] = player1;
 		players[1] = player2;
+		Game.setPrevColour("purple");
 		
 	  
   }
   
+  @Test
+  public void testCheckGameColour1()
+  {
+	  boolean t = Server.checkGameColour("green");
+	  assertEquals(t, true);
+  }
+  
+  @Test
+  public void testCheckGameColour2()
+  {
+	  boolean t = Server.checkGameColour("blue");
+	  assertEquals(t, true);
+  }
+
+  
+  @Test
+  public void testCheckGameColour3()
+  {
+	  boolean t = Server.checkGameColour("red");
+	  assertEquals(t, true);
+  }
+
+  @Test
+  public void testCheckGameColour4()
+  {
+	  boolean t = Server.checkGameColour("white");
+	  assertEquals(t, true);
+  }
+
+  @Test
+  public void testCheckGameColour5()
+  {
+	  boolean t = Server.checkGameColour("purple");
+	  assertEquals(t, false);
+  }
+
+  @Test
+  public void testCheckGameColour6()
+  {
+	  boolean t = Server.checkGameColour("yellow");
+	  assertEquals(t, true);
+  }
+
   
   @Test
   public void test2NumPlayers()
