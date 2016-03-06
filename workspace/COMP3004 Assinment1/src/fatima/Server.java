@@ -286,7 +286,7 @@ public class Server implements Runnable
 			d.add(new Card(i, "white", 3));
 		
 	
-		logger.info(String.format("testing makeDeck: Deck has been made"));
+		logger.info(String.format("testing makeDeck: Deck has been successfully made"));
 		return d;
 	}
 	
@@ -312,6 +312,7 @@ public class Server implements Runnable
 		
 		
 		logger.info(String.format("Testing StartNewGame: Winner of previous game is %s", players[0].getName()));
+		
 		for(int i=0; i < Config.MAX_CLIENTS; i++)
 		{
 			ServerThread thread = players[i].serverThread; //entity.getValue();
@@ -324,6 +325,7 @@ public class Server implements Runnable
 			else
 				thread.send("Waiting for winner to select colour.\n");
 		  }
+		logger.info(String.format("Testing StartNewGame: exiting startNewGame"));
 	}
 	
 	void setGameColour(String input) 
