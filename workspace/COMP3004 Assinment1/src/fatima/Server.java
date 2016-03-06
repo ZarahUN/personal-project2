@@ -136,14 +136,14 @@ public class Server implements Runnable
 			if (players[i] != null) {
 				
 				    //testing: testing portIDs
-					System.out.println(String.format("TESTING: portID is %d and Player %d portID is %d\n", portId, i+1, players[i].getId()));
+					System.out.println(String.format("TESTING setPlayersName: portID is %d and Player %d portID is %d\n", portId, i+1, players[i].getId()));
 					
 					logger.info(String.format("Checking players port id %d",players[i].getId()));
 					if (players[i].getId() == portId) {
 						players[i].setName(name);
 						
 						//testing: making sure the correct players name have been set based on the clients input
-						System.out.println(String.format("TESTING: players %d name set to %s \n", i+1, players[i].getName()));
+						System.out.println(String.format("TESTING setPlayersName: players %d name set to %s \n", i+1, players[i].getName()));
 						
 						logger.info(String.format("Players name set to %d %s",portId, players[i].getName()));
 						ServerThread thread = clients.get(portId);			
@@ -163,6 +163,7 @@ public class Server implements Runnable
 		{
 			int count = 0;
 			Collections.shuffle(d); //this should shuffle the deck
+			logger.info(String.format("The deck has been shuffled"));
 			for (int i = start; i < end + 1; i++)
 			{
 				if (d.get(i).getState() == 0)
@@ -170,6 +171,7 @@ public class Server implements Runnable
 			}
 			if (count == 8) 
 				goodDeck = true;
+			logger.info(String.format("Hand distributed to %s", p.getName()));
 		}
 		
 		//distribute cards
@@ -177,77 +179,95 @@ public class Server implements Runnable
 		for(int j = start; j < end+1; j++)
 		{
 			d.get(j).setState(1); //change state to "in player hand"
+			logger.info(String.format("The state of %s hand has been changed to 1", p.getName()));
 		}
 	}
 	
 	protected ArrayList<Card> makeDeck(ArrayList<Card> d)
 	{
+		logger.info(String.format("testing makeDeck: Making purple cards of value 3"));
 		int i;
 		//purple cards
 		//1 - 4: 4 purple of value 3
 		for (i = 0; i < 4; i++)
 			d.add(new Card(i, "purple", 3));
 		
+		
+		logger.info(String.format("testing makeDeck: Making purple cards of value 4"));
 		//5 - 8: 4 purple of value 4
 		for (i = 4; i < 8; i++)
 			d.add(new Card(i, "purple", 4));
 		
+		logger.info(String.format("testing makeDeck: Making purple cards of value 5"));
 		//9 - 13: 4 purple of value 5
 		for (i = 8; i < 12; i++)
 			d.add(new Card(i, "purple", 5));
 		
+		logger.info(String.format("testing makeDeck: Making purple cards of value 7"));
 		//13 - 14: 2 purple of value 7
 		for (i = 12; i < 14; i++)
 			d.add(new Card(i, "purple", 7));
 		
+		logger.info(String.format("testing makeDeck: Making red cards of value 3"));
 		//red cards
 		//15 - 20: 6 red of value 3
 		for (i = 14; i < 20; i++)
 			d.add(new Card(i, "red", 3));
 		
+		logger.info(String.format("testing makeDeck: Making red cards of value 4"));
 		//20 - 25: 6 red of value 4
 		for (i = 20; i < 26; i++)
 			d.add(new Card(i, "red", 4));
 		
+		logger.info(String.format("testing makeDeck: Making red cards of value 5"));
 		//26 - 27: 2 red of value 5
 		for (i = 26; i < 28; i++)
 			d.add(new Card(i, "red", 5));
 		
+		logger.info(String.format("testing makeDeck: Making blue cards of value 2"));
 		//blue cards
 		//28 - 31: 4 blue of value 2
 		for (i = 28; i < 32; i++)
 			d.add(new Card(i, "blue", 2));
 		
+		logger.info(String.format("testing makeDeck: Making blue cards of value 3"));
 		//32 - 35: 4 blue of value 3
 		for (i = 32; i < 36; i++)
 			d.add(new Card(i, "blue", 3));
 		
+		logger.info(String.format("testing makeDeck: Making blue cards of value 4"));
 		//36 - 39: 4 blue of value 4
 		for (i = 36; i < 40; i++)
 			d.add(new Card(i, "blue", 4));
 		
+		logger.info(String.format("testing makeDeck: Making blue cards of value 5"));
 		//40 - 41: 2 blue of value 5
 		for (i = 40; i < 42; i++)
 			d.add(new Card(i, "blue", 5));
 		
+		logger.info(String.format("testing makeDeck: Making yellow cards of value 2"));
 		//yellow cards
 		//42 - 45: 4 yellow of value 2
 		for (i = 42; i < 46; i++)
 			d.add(new Card(i, "yellow", 2));
 		
+		logger.info(String.format("testing makeDeck: Making yellow cards of value 3"));
 		//46 - 53: 8 yellow of value 3
 		for (i = 46; i < 54; i++)
 			d.add(new Card(i, "yellow", 3));
 		
+		logger.info(String.format("testing makeDeck: Making yellow cards of value 4"));
 		//54 - 55: 2 yellow of value 4
 		for (i = 54; i < 56; i++)	
 			d.add(new Card(i, "yellow", 4));
 		
+		logger.info(String.format("testing makeDeck: Making green cards of value 1"));
 		//Green cards
 		//56 - 70: 14 green of value 1
 		for (i = 56; i < 70; i++)
 			d.add(new Card(i, "green", 1));
 		
+		logger.info(String.format("testing makeDeck: Making white cards of value 6"));
 		//supporter
 		//71 - 74: 4 white of value 6
 		//These are the maidens - there are reprecussions for using this and then
@@ -255,33 +275,43 @@ public class Server implements Runnable
 		for (i = 70; i < 74; i++)
 			d.add(new Card(i, "white", 6));
 		
+		logger.info(String.format("testing makeDeck: Making white cards of value 2"));
 		//75 - 82: 8 white of value 2
 		for (i = 74; i < 82; i++)
 			d.add(new Card(i, "white", 2));
 		
+		logger.info(String.format("testing makeDeck: Making white cards of value 3"));
 		//83 - 90: 8 white of value 3
 		for (i = 82; i < 90; i++)
 			d.add(new Card(i, "white", 3));
 		
 	
-		
+		logger.info(String.format("testing makeDeck: Deck has been made"));
 		return d;
 	}
 	
 	protected void startNewGame (int ID, String input) {
-		System.out.println("START NEW GAME");
+		
+		//testing the startNewGame
+		System.out.println("Testing: START NEW GAME");
 		if (input.equalsIgnoreCase("N"))
 			shutdown();
 		deck = makeDeck(deck);
-			
+		
+		logger.info(String.format("TESTING Start New Game: Deck has been made"));	
+		
 		for (int i = 0; i < Config.MAX_CLIENTS; i++)
 		{
 			distributeHands(deck, players[i]);
+			logger.info(String.format("testing Start New Game: cards has been distributed to player %s", players[i].getName()));
 		}
 		//We're going to have to do something like this elsewhere too for the next round
 		//Tournament?
 		
 		game.setWinner(players[0]);
+		
+		
+		logger.info(String.format("Testing StartNewGame: Winner of previous game is %s", players[0].getName()));
 		for(int i=0; i < Config.MAX_CLIENTS; i++)
 		{
 			ServerThread thread = players[i].serverThread; //entity.getValue();
@@ -299,6 +329,7 @@ public class Server implements Runnable
 	void setGameColour(String input) 
 	{
 		game.setColour(input);
+		logger.info(String.format("testing setGameColour: Colour of the game has been set to: %s", game.getColour()));
 		
 	   	for (int i = 0; i < Config.MAX_CLIENTS; i++) 
 		{
