@@ -549,18 +549,23 @@ public class Server implements Runnable
 	}
 	
 	public void tournament_2(int id, String input) {
+		logger.info(String.format("Testing tournament_2"));
 		for (int i = 0; i < tournamentPlayers.length; i++)	//cycles through turns
 		{
+			logger.info(String.format("Testing tournament_2: %s turn", tournamentPlayers[i].getName()));
 			int valueHolder = tournamentValue;
+			logger.info(String.format("Testing tournament_2: value of tournament is %d", valueHolder));
 			ServerThread thread = players[i].serverThread;
 			if (players[i].getId() == id) {
 				String[] cardIds = input.split(",");
 				
+				logger.info(String.format("Testing tournament_2: checking if %s cards are appropriate",tournamentPlayers[i].getName() ));
 				//check that the cards are appropriate
 				for (int j = 0; j < cardIds.length; j++) {
 					for (int k = 0; k < deck.size(); k++) {
 						if (Integer.valueOf(cardIds[j]).equals(deck.get(k).getID()) && (deck.get(k).getColour().equals(game.getColour()) || deck.get(k).getColour() == "white")) {
 							//if cards are appropriate, add their values.
+							logger.info(String.format("Testing tournament_2: values of approrpate cards are added"));
 							tournamentPlayers[curPlayer].setNumPoints(tournamentPlayers[curPlayer].getNumPoints() + deck.get(k).getValue());
 							deck.get(k).setState(3);
 							for (int m = 0; m < tournamentPlayers[curPlayer].getHand().size(); m++) {
@@ -570,6 +575,7 @@ public class Server implements Runnable
 						}
 						else if (Integer.valueOf(cardIds[j]).equals(deck.get(k).getID()) && (!deck.get(k).getColour().equals(game.getColour()) || deck.get(k).getColour() != "white")) {
 							tournamentValue = valueHolder;
+							logger.info(String.format("Testing tournament_2: card of ID %d cannot be used", cardIds[j]));
 							thread.send(String.format("You cannot use card of ID %s\n", cardIds[j]));
 							tournament_1(players[i]);
 						}
@@ -582,6 +588,7 @@ public class Server implements Runnable
 				}
 				else {
 					tournamentValue = valueHolder;
+					logger.info(String.format("Testing tournament_2: %s card are not high enough to beat opponent", tournamentPlayers[i].getName()));
 					thread.send("Your card values are not high enough to beat the other players\n");
 					tournament_1(players[i]);
 				}
@@ -594,6 +601,7 @@ public class Server implements Runnable
 	}
 	
 	public void tournament_3(Player p) {
+		logger.info(String.format("Testing tournament_3"));
 		ServerThread thread = p.serverThread;
 
 		thread.send(String.format("Do you want to withdraw (w) or play a card? (p) Current value to beat is %d\n", tournamentValue));
