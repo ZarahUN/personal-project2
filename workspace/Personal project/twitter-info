@@ -1,0 +1,32 @@
+Consumer Key (API Key)			NFZQY8qZBHUE1mMXzqOCrs0fN
+Consumer Secret (API Secret)	fi202V2jV1saZgRVLByUS48dEdfrJERZ0DaSsiobXld1E993nl
+Access Level					Read and write (modify app permissions)
+
+Owner		hsneedham
+Owner ID	700708945912926210
+
+UserName: 	hsneedham
+Password: 	4Tune5@@
+
+Callback URL			None
+Callback URL 			Locked	No
+Sign in with Twitter	Yes
+
+App-only authentication	https://api.twitter.com/oauth2/token
+Request token URL		https://api.twitter.com/oauth/request_token
+Authorize URL			https://api.twitter.com/oauth/authorize
+Access token URL		https://api.twitter.com/oauth/access_token
+
+
+Access Token	700708945912926210-ByUGBgdcMTUwQKS8pyyYXYgDqPGcQRZ
+Access Token 	Secret	nSJUsbIj8ZS0jfLQxkIPGIt6VPGEKRmQquOIUz6cYwcSc
+Access Level	Read, write, and direct messages
+Owner			hsneedham
+Owner ID		700708945912926210
+
+
+
+https://dev.twitter.com/oauth/pin-based
+https://dev.twitter.com/oauth/reference/get/oauth/authenticate
+
+//private static final String hateBaseKey = "e65a71effd8af81fc633f0761143a0dd";
