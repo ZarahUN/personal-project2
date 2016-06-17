@@ -1,0 +1,70 @@
+C	ABCD	Indians	Means American Born Confused Desi (pronounced day-see). Used by Indians to describe American-born Indians who are confused about their culture. (Desi is slang for an 'countryman'). Also BBCD - British Born Confused Desi.
+C	Apna	Indians	"Hindi/Punjabi slang meaning ""our guy,"" and referring to a male of their own race. ""Apni"" refers to Indian females. Used in areas of Punjabi immigrants."
+K	Apu	Indians	"Hindu character from The Simpsons. Before that, one of the most famous films out of India was the ""Apu Trilogy."""
+C	Babar	Indians	"From the character Babar the Elephant. First appeared in the book ""Babar the King"" published in 1963 and made into a popular animated HBO show in the early 90's. It's about an Indian elephant character growing up."
+C	Babu	Indians	"Means ""child"" in Hindi."
+#	Bhindu	Indians	"Similar to ""hillbilly"" or simpleton. Bindu is a Sanskrit word meaning drop. The word bindi, which is the typical ""red dot"" worn on the forehead of Indian men and women, comes from this word."
+#	Bhrempti	Indians	Their pronunciation of the number 20.
+C	Binder	Indians	slang for turbin
+C	Bindi	Indians	From the dot that Hindu women wear on their foreheads.
+#	Bipty	Indians	"When an Indian gives you change at 7-11, they sound like they're saying, ""Here is one dollar and bipty cents."""
+C	Boojie	Indians	Pronounced 'boo-jee'; refers to all the 7-11 workers of the world.
+#	Buttonhead	Indians	Due to the red dot on many Hindu's foreheads.
+K	Chara	Indians	A South African term for Indians. Not as derogatory as coolie
+#	Cow-Kisser	Indians	For the worship of cows in India.
+C	Curry	Indians	Derivative of Curry Muncher etc.
+#	Curry-Muncher	Indians	They eat Curry.
+C	D.I.P.	Indians	Dumb Idiotic Punjab
+K	Desi	Indians	"Refers to native Indians, non-derogatory even humorous, ""des"" means ""country"" and ""desi"" means fellow countrymen"
+#	Dot Knot	Indians	Dot (red dot on forehead) Knot (turbins on Punjabs)
+#	Dot-Head	Indians	"Refers to the ""bindi"" (dot) on their foreheads. The dot's significance relates to the marital status of an indian female. Red dot: married; Black dot: single."
+C	Dottie	Indians	"Indians are the smart ones that put the ""dot"" in "".com"""
+#	Elephant Jockey	Indians	Elephants were a popular mode of transport in Victorian and Pre-Victorian Asia
+C	Etch	Indians	Some say their music sounds like etch-a-sketch.
+C	Gandhi	Indians	Famous Indian.
+C	Ganesh	Indians	A hindu god.
+K	Gas Pumper	Indians	Most gas station are owned and operated by Indians
+#	Ghinder	Indians	"Origins are unknown. The generally accepted derivative is from the ultimate ghinder, Mahatma Gandhi."
+C	Gupta	Indians	A former Hindu dynasty.
+C	Habib	Indians	Indian name. Used in the TV show Married With Children where a gas attendant was an Indian.
+C	Hadji	Indians	"Reference to a youthful East Indian side-kick character named Hadji from the '70s Saturday-morning cartoon, ""Johnny Quest"""
+#	Halee Halaa	Indians	Manner in which they speak used by Latin Americans
+C	Hamilton	Indians	Rhyming slang in Scotland from a Scottish soccer team called Hamilton Academicals. This is shortened to Hamilton Accies (Akkies) a derogatory name for Indians.
+K	Higger	Indians	Hindus who act Black.
+#	Indonigger	Indians	"Indian who tries to be black, or is darker in skin."
+C	Jab	Indians	"Short for Punjab, a region of India."
+#	Julab	Indians	"Means ""wet shit"" in Hindi/Punjabi"
+#	Kaek	Indians	"Thais, living in Thailand, refer to the Indians (who have been in Thailand for at least 200 years, I think) as Kaeks, which means ""guest"" in Thai. Take a hint, already, guys! The word may also be spelled ""kak"" or any other way you like, since Thais use a different ""alphabet."" However, ""kaek"" is pronounced to rhyme with ""crack."""
+#	Kaliali	Indians	"Malu is actually short for ""Maliali"" which is spelled Malayalee. Specifically South Indians from the state of Kerala in India"
+C	Kalu	Indians	Indian acting like a black person
+C	Kumar	Indians	"From the movie 'Harlad and Kumar go to White Castle', Kumar is the Indian character"
+K	Kuthi	Indians	Means 'Bitch' In Punjabi
+K	Macaca	Indians	"Derived from the word ""monkey."" Famously used by Republican U.S. Senator George Allen during his 2006 re-election campaign."
+#	Madrasis	Indians	The biggest city in South India used to be called Madras(now Chennai).
+K	Mahout	Indians	"Literally means ""Elephant Driver"" but was turned into a popular racial slur around 1997 when a lot of Indains began to move onto Long Island."
+C	Mangosteen	Indians	The mangosteen is a fruit that grows in the East Indies and is black on the outside but white on the inside. Refers to Indians who have forgotten their heritage.
+C	My Friend	Indians	Started by the constant greetings of the clerks of a deli as they greet customers.
+#	Napkin Nigger	Indians	Obvious reasons.
+K	Paki	Indians	Short for Pakistani. Often not derogatory when used. In The UK many Indians and Pakistanis have been lumped under the same term. It's *much* more of a slur to Indians
+C	Patel	Indians	"Means ""Innkeeper"" or ""Motel Owner"". Pal is a name of rich, land owning Indians. It means landowner. It's a slur because only the rich Indians would come to western countries years ago, a flood of patels."
+#	Pindunderjip	Indians	From the joke; What is an East Indian that got hit by a truck called? Answer; Pindunbderjip or Pinned under jeep.
+C	Pull-Start	Indians	Reference to pulling their turbans off their heads.
+C	Punjab	Indians	"Punjab is the Indian character from ""Little Orphan Annie."" Also represents the Punjab region of India (near the Punjab river). When the British took over India, they used it as a derogatory term for the natives there."
+C	Push-Button	Indians	Refers to the caste-mark (dot) on their foreheads. Push-Start also.
+C	Reset	Indians	"Comes from the common red dot on an Indian's forehead, resembling the reset button on many electronics"
+C	Sambo	Indians	"Derives from the traditional children's story, ""The Story of Little Black Sambo"" about an Asian Indian who had dark skin."
+C	Sanjay	Indians	Apu's co-worker on the Simpsons is named Sanjay
+#	Slurpee Jockey	Indians	Reference to convenience store franchises
+#	Spice Rubber	Indians	Because they use massive spices in their cuisine and they rub them on their bodies.
+C	Swami	Indians	A Hindu religious teacher.
+C	Target	Indians	The dot on their head looks like a laser sight.
+C	Taxi Driver	Indians	The famous New York taxi drivers
+C	Thank You Come Again	Indians	A phrase made popular by stereotypical Indian convenience store owner Apu on The Simpsons.
+#	Turbinator	Indians	Seekh Indians wear turbans because their religion dictates that they may not cut hair
+K	Wog	Indians	"British Imperialists commonly referred to Indians as a ""WOG"" since they were commonly used as security, it stood for ""Warden on Guard""."
+#	Kerpal	Pakistanis	From the famous prank phone calls.
+C	Pac Man	Pakistanis	Sounds similar to pac-man (the early 80s arcade game)
+#	Pigger	Pakistanis	Pakistanis trying to act black.
+C	TP	Pakistanis	"Means Typical Paki. Insult used by western born Pakistanis against other Pakistanis who are acting like they are ""straight off the boat"""
+#	Waki	Pakistanis	Pakistanis who try to act white
+#	Waki Paki	Pakistanis	Wacky Pakistanis.

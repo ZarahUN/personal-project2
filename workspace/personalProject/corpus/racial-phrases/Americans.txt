@@ -1,0 +1,615 @@
+K	AA	Blacks	"African American. Could also refer to double-A batteries, which you use for a while then throw away."
+K	Abeed	Blacks	"Arabic term that means Black, many Middle Eastern immigrants to the United States use this"
+C	Ace Of Spades	Blacks	Self Explanatory
+C	African	Blacks	Home continent.
+#	Afrikan	Blacks	Alternate spelling.
+#	Afrikkkan	Blacks	Alternate spelling.
+K	African't	Blacks	Unemployed/lazy Blacks
+#	Africoon	Blacks	Combination of African and Coon.
+C	Afro	Blacks	Referring to hairstyle
+#	Americoon	Blacks	Combination of American and Coon.
+C	Angus	Blacks	Angus are a black breed of beef cattle.
+#	Antique Farm Equipment	Blacks	Slaves being used for labor.
+C	Ape	Blacks	Self Explanatory.
+C	Apple	Blacks	"Has to do with ""hanging from a tree""."
+C	Arf	Blacks	African Rock Fish. Jones Beach (NYC) term for Blacks due to their poor swimming abilities.
+C	Ashy	Blacks	When their skin gets dry it can tend to look ashy.
+C	Aunt Jemima	Blacks	"After the stereotypically Black trademark picture on ""Aunt Jemima"" brand breakfast foods."
+#	Baboomba	Blacks	"From the ""booming"" of their car stereos."
+C	Baboon	Blacks	Another simian reference
+#	Baluba	Blacks	Name belonging to a tribe that killed Irish soldiers in Africa.
+#	Baluga	Blacks	"Filipino equiv. to Nigger, known by all Filipinos"
+#	Banjo Lips	Blacks	Big lips
+K	Bantu	Blacks	Comes from the apartheid racial classification for Blacks. Rarely used today. Derogatory
+C	BAP	Blacks	"Means ""Black American Princess"". Arrogant female blacks who flaunt their money around and demand the finest things in life."
+C	BBK	Blacks	"Big Black Cocks. Spelled with a K, as in the Korn song of the same title."
+C	BDN	Blacks	"Big Dummy Nigger Comes from the movie ""The Green Mile"". A white prisoner calls a black prisoner a Big Dummy Nigger."
+C	Bear	Blacks	Black Educated And Rich
+#	Bebe's Kids	Blacks	Reference to a stand up comic's famous bit about Bebe's kids that inspired a movie years later.
+C	Beggar	Blacks	"Black people often want ""something for nothing."""
+K	Bergie	Blacks	Originally referring to the primarily coloured hobos who live on Table Mountain near Cape Town.
+C	BET	Blacks	Black Entertainment Television
+C	BFI	Blacks	"BFI, the name of a waste disposal company, is on the side of their dumpsters. Stands for Black Family Inside."
+#	Billy Reuben	Blacks	"The pigment that makes feces brown is called ""bilirubin"""
+#	Bingo-Bongo	Blacks	Italian wordplay of African names/language
+#	Biscuit Lip	Blacks	Reference to large lips.
+K	Bix Nood	Blacks	"From a racist cartoon spread on the internet where a black man is breaking into a house saying ""mup da doo ditta po mo BIX NOOD"""
+K	Black Barbie	Blacks	Refers to a black woman when she wears her hair and makeup to try and look like a white woman.
+C	Black Magic	Blacks	"It has always fascinated researchers how the black folk manage to get there hands on grog money daily. Specific words of the original submitter, of which I am fascinated by."
+C	Black Time	Blacks	Perceived tendency for Blacks to be late
+K	Blackie	Blacks	Self-explanatory.
+#	Blacky Chan	Blacks	Blacks who practice martial arts
+C	Bleck	Blacks	"Sounds like the word ""black"" said with a South African accent. "
+C	Blockbuster	Blacks	"A real estate agent who sells a home in an upper-class white neighborhood to a black family, thus lowering the values of other homes in the neighborhood. (This can be stretched to include inviting a black or minority friend over for dinner.)"
+C	Blood	Blacks	LA-based gang. Can be used offensively towards non-gang members.
+C	Blow	Blacks	Originated from blacks originally living in Africa and using blow guns.
+C	BLT	Blacks	"Big-Lipped Tyrone, or for female version ""Big-Lipped Tyreesha."" Inspired from the 8#'s version of Degrassi Jr. High where the black guy wore a shirt with the phrase ""BLT,"" his initials."
+#	Blue Gums	Blacks	"Old myth that if one were bitten by a nigger with blue gums, they would die."
+C	BMW	Blacks	"Black Mans Wish, referring to BMW automobiles. "
+K	Bo-Bo	Blacks	Sounds like a monkeys name or implies stupidty.
+K	Bobblehead	Blacks	Black women have a tendency to violently shake their heads in heated conversations.
+#	Boffer	Blacks	The Hawaiians or Polynesians call Blacks this name. Same as nigger in the United States.
+C	Boofer	Blacks	The Hawaiians or Polynesians call Blacks this name. Same as nigger in the United States.
+#	Bomb	Blacks	Bombs in cartoons are typically black
+#	Bonky	Blacks	Name for blacks who act or talk white
+#	Boogat	Blacks	"Comes from the similar idea of calling a black person a ""Spook."" C. 194#s"
+C	Boogie	Blacks	"Referring to ""Boogie Woogie"" form of jazz? Could come from W. African ""Buuker"" or ""Buckra"", meaning ""Devil"", ""Boogie man"" or ""White Man"". Turned around and used against Blacks by Whites."
+C	Boon	Blacks	"Probably a derivation of ""Baboon"" or the black ""Boon Bug"" beetle."
+#	Bootlip	Blacks	"During the Industrial boom of the auto industry and OSHA'a requirement of safety precautions, workers were required to wear steel-toed boots. Common steel-toed boots are black in color and have large, bulky toes - referencing the size of black's lips."
+C	Bounty Bar	Blacks	"The Bounty Bar is a coconut filled chocolate bar, so it's brown on the outside but white on the inside. An insult to (for example) black police officers in England."
+#	Bourbon	Blacks	Bourbon are brown coloured brown cream filled biscuits. Possibly a variant of eggplant. Bourbon is also a dark alchoholic drink
+C	Boy	Blacks	Originated during slavery. Used to belittle blacks.
+K	Bozak	Blacks	"Pronounced (bow-zack) southern term for a big black man. ""thats one black bozak"""
+C	Branch Manager	Blacks	Monkeys climb trees.
+C	Brillo Pad	Blacks	Hair reminiscent of a Brillo Pad.
+C	Bro	Blacks	"Contraction of brother, see: Brother."
+C	Brother	Blacks	Used by blacks in an effort to help unify their race. Also used by non-black races to poke fun at or try to identify with the black race.
+#	Brown Trumpet	Blacks	Represents Black American jazz musicians.
+C	Brownie	Blacks	"Skin color, like the favorite treat."
+K	Bubb Rubb	Blacks	Wooooo Wooooo.
+K	Bubba	Blacks	"When referring to prison, the big guy who takes advantage of all the new prisoners is derogatorily called Bubba."
+C	Bubbles	Blacks	Big Black man from the film Lilo and Stitch
+#	Buck Nigger	Blacks	This word has been used since the 17th century to refer to a male Negro - no matter whether slave or not.
+K	Buckwheat	Blacks	"Refers to Buckwheat, a Black character on ""The Little Rascals."""
+C	Buffalo Soldier	Blacks	"When the U.S. government was clearing the West of Native Americans, they sent many black units to hunt them down. The Indians thought they looked like buffalo."
+#	Bumper Lips	Blacks	Self-explanatory.
+C	Bun	Blacks	Big Ugly Nigger.
+#	Buppie	Blacks	"A (young) black upwardly professional person. Like yuppie, but refers to blacks."
+C	Burnt Cracker	Blacks	Used as a response to Blacks who call Whites crackers.
+#	Burnt Match	Blacks	Self-explanatory.
+C	Burnt Toast	Blacks	Skin color can resemble that of a burnt piece of bread.
+#	Burr Head	Blacks	Hair Texture.
+#	Bush-Boogie	Blacks	Derived from their jungle origins.
+C	Butter	Blacks	Alternative to Nigger.
+K	Caffre	Blacks	"Derogatory term used by South African whites during the apartheid era, now considered an offense and beeped out from the media (like an ordinary curse in USA)"
+#	Calpurnia	Blacks	"Black women that are nannies. Comes from the character Calpurnia in the book ""To Kill a Mocking Bird."""
+#	Camel Lips	Blacks	Self Explanatory
+C	Canadian	Blacks	Used as a masked replacement for 'Nigger.'
+C	Candy Man	Blacks	"Named after Sammy Davis Jr.'s famous song, the ""Candy Man."""
+#	Canigger	Blacks	Combination of Canadian and Nigger for black Canadians.
+C	Cargo	Blacks	Slave ship reference.
+C	Carl Winslow	Blacks	"Obese black males. Reference to character from ""Family Matters"" TV show."
+#	Carlton Banks	Blacks	"Black males who behave like whites or talk very proper. ""Fresh Prince of Bel-Air"" reference."
+C	Casabooboo	Blacks	From 196#s African leader Casavubu.
+C	Cast Iron	Blacks	"The color of cast iron after weathering or ""black"" pipe - plumber's term for ungalvanized cast/ductile iron."
+C	Chad	Blacks	Chad is the country next to Niger in Africa
+#	Chain Dragger	Blacks	Refers to being on a prison chain gang.
+C	Chalky	Blacks	"Heard throughout Ireland, extremely derogatory word for blacks, who have an increasing number in the Irish population."
+K	Chango	Blacks	Used by Hispanics. Spanish word meaning monkey.
+#	Charcoal Briquette	Blacks	Used by Tony Soprano from The Sopranos to represent his daughter's half black boyfriend.
+#	Chernozhopyi	Blacks	Russian term literally translating as 'Black-Assed'. Found here
+C	Cheshire Cat	Blacks	From Alice In Wonderland. The only way you see them in the dark is if they open their eyes and smile.
+#	Chicago Navajo	Blacks	Heavy concentration of blacks in Chicago
+#	Chicken Bandit	Blacks	Refers to one of their favorite foods.
+C	Chiquita	Blacks	The chiquita bananas have the black woman on the sticker
+C	Choco	Blacks	"Short for chocolate, in reference to skin color."
+C	Chocolate Drop	Blacks	Chocolate is brown.
+#	Chocolate-Covered Marshmallow	Blacks	A black guy who acts white.
+#	Chombo	Blacks	Panamanian derogatory jargon.
+C	CHUD	Blacks	"From the monster movie ""C.H.U.D."", starring primitive dark creatures that lived in sewers"
+C	Clicker	Africans	"Some African tribes communicate by ""clicking."""
+C	Clicky	Blacks	From that African language that all it is is clicks and whistles
+#	Cliff Ape	Blacks	Black/Simian/Primate eference
+#	Clocker	Blacks	A street term for lowest level crack dealer.
+C	Clyde	Blacks	Perhaps comes from the name of the monkey in the Clint Eastwood films
+C	Coal-Miner	Blacks	"A Russian term for blacks, which originated because of their dark skin which looks like it is covered in coal dust. Pronounced ""shahktor"" in Russian."
+C	Cocoa	Blacks	"From southwestern area of the US, called blacks ""cocoa"" for very much disrespect. See Cocoa Puff."
+C	Cocoa Puff	Blacks	Blacks with afros or puffy hair
+K	Cocolo	Blacks	"Dominicans used this term for Blacks because they look like ""Coco""nuts and it sounds really African."
+C	Coconut	Blacks	"Blacks, Hispanics, Filipino, Arabs, etc. Mainly used to describe dark-skinned people who are perceived as trying to be ""white""...brown on the outside, white on the inside."
+C	Cocoon	Blacks	It's what you call a black guy that stutters
+C	Cold Drink	Blacks	"In the South, some Blacks refer to all beverages as ""Cold Drinks."" For example, ""I want some cold drink!"""
+C	Colin	Blacks	Black who act white: Colin Powell.
+#	Colonel's Kids	Blacks	Refers to Colonel Sanders. Blacks are thought to love Kentucky Fried Chicken.
+C	Colored	Blacks	"Skin color. Probably not a very good slur, as it's one of the words of NAACP."
+C	Coltrane	Blacks	"In reference to John Coltrane, the famous Jazz saxophonist. Used in the film ""The Royal Tenenbaum's"""
+C	Congo	Blacks	Dark African Americans who act better than White people
+#	Congo Lip	Blacks	In reference to the ring-shaped objects primitive peoples from the South American jungles insert into their lips.
+K	Conky	Blacks	"Derived from ""conk"", a lye-straightened hairdo popularized in the 192#s by Cab Calloway."
+C	Conquistador	Blacks	Refers to the Spanish conquerors who took over areas against the will of the current inhabitants.
+C	Convict	Blacks	Two-thirds of American inmates are Black.
+C	Cookie	Blacks	"One of the few jobs blacks were allowed to do after enlisting in the U.S. Navy was food preparation. Referenced in ""Men of Honor."""
+K	Coon	Blacks	"Probably refers to the Portuguese word for slave pens or barracks ""baracoons"". Could also have meaning as a shortening of ""raccoon"", as raccoons have a tendency to steal."
+#	Coonadian	Blacks	Black people from Canada
+K	Cooner	Blacks	Black actor who sells out to get laughs from white people.
+#	Coontang	Blacks	"Whenever a White man fucks a Black woman, he gets some Coontang"
+C	Cordon	Blacks	Derivative of the name of a champagne; Cordon Negro.
+C	Cornbread	Blacks	"It was in the movie ""Shaft."" Apparently Black people like Corn Bread."
+C	Cornelius	Blacks	Planet Of The Apes reference.
+C	Cosby	Blacks	Sitcom named the Cosby's. A family of all blacks.
+C	Cotton Ball	Blacks	Nappy/frizzy hair esp. the 7#'s Afro style; bought to pick cotton in the Old South
+C	Cotton-Picker	Blacks	"Fondness of ""CRAW""dads."
+C	Craw	Blacks	"Black people are colored, as in crayons."
+C	Crayola	Blacks	A famous black person in the world of advertising is the man on the Cream of Wheat box.
+C	Cream Of Wheat	Blacks	"Color of skin vs. cricket's color (brown/black). Pure blooded Blacks having ""large fish eyes, dark brown skin, and long legs like a cricket."" Could also refer to Blacks that stay up all night playing loud thumping music, real common in the industrial Midwest."
+C	Cricket	Blacks	The high crime rate among Blacks.
+C	Crime	Blacks	Refers to an African American woman who has an abortion
+#	Crimestopper	Blacks	"Refers to pregnant black women, thought to be breeding future criminals."
+#	Criminal Factory	Blacks	Brazilian slur for black people
+#	Crioulo	Blacks	Very dark black people are refered to as crispy
+C	Crispy	Blacks	"Relatively large black bird. Could also be a reference to ""Jim Crow"", a popular 19th-century minstrel song that stereotyped African Americans, which later was used as the name of the Jim Crow laws, which enforced racial segregation in the South."
+C	Crow	Blacks	Look like cartoon bear cubs.
+C	Cubs	Blacks	"Heard used by white southern Georgia farmers to describe blacks. The origin is that blacks are always being arrested and being hand""cuffed"" by the police."
+C	Cuff	Blacks	"Having someone bite the curb and kicking him in the back of the head is a painful way to kill someone. Often, as in the movie American History X, it is used as punishment for insubordinate blacks."
+#	Curb-Biter	Blacks	In Polish 'black' (as a color) is 'czarny'. Strongly derogatory.
+#	D.F.N.	Blacks	Dumb Fucking Nigger
+#	Czarnuch	Blacks	In Polish 'black' (as a color) is 'czarny'. Strongly derogatory.
+C	DAN	Blacks	Dumb Ass Nigger. Used to conceil racially discrimative remarks towards blacks when present.
+K	Darkie	Blacks	Skin color.
+C	Darkness	Blacks	Self Explanatory. Often used to describe a crowd of African Americans.
+C	Dawg	Blacks	"Some blacks call other ""Dawgs"". See: Homie"
+C	Defendant	Blacks	They are known often as this in a court of law
+C	Democrats	Blacks	A popular political affiliation among African Americans. Also in reference to always wanting stuff for free.
+C	Destro	Blacks	Destro is the evil Cobra character from G.I. Joe.
+C	Deuce	Blacks	"On the Philadelphia police form, 1=white, 2=black"
+C	Ding Dong	Blacks	"Black on the outside, white on the inside. Blacks who act white"
+C	Dinge	Blacks	"Used in the novel ""To Kill a Mockingbird""."
+C	Do-Da	Blacks	"Black people stand by the mail box and ask the mailman, ""Do 'da, do 'da welfare check come today?"""
+C	Donkey Kong	Blacks	Donkey Kong was a large ape.
+#	Dootie	Blacks	Refers to their dootie-brown skin.
+C	Dorito	Blacks	Blacks have a fondness for Doritos.
+#	Double A	Blacks	Shorter version of 'African American.'
+C	Double Dip	Blacks	"Used for extra-dark Blacks, appearing as if they were dipped in chocolate twice."
+C	Doujin	Blacks	"Japanese slur for blacks. Dou means dirt, jin means person."
+#	DWB	Blacks	Driving While Black. Police-type term referring to blacks driving through white neighborhoods.
+#	Egglet	Blacks	"Black Children -- ""little eggplant."""
+#	Eggot	Blacks	Tagalog word for black (Phillipines)
+C	Eggplant	Blacks	Slur used mainly by Italians. See: Moolie.
+#	Egot	Blacks	"A derogatory term used by Filipinos meaning ""nigger""."
+C	Egoy	Blacks	Filipino racial slang for Black people
+K	Eight Ball	Blacks	Color of the eight ball in pool
+C	Elevator Operator	Blacks	Non-demanding job for education-less/trade-less person.
+#	Eraser Head	Blacks	"During the late 80's and early 90's it was popular for blacks to cut their hair at an angle, forming a bevel that look similar to those pink erasers that you used in grade school."
+C	Es-obe	Blacks	"Meaning ""Apes Obey!"" Used by British Colonial masters in Africa commanding the African workers to get to work. The early colonized Africans, not knowing the meaning of the command also cultivated it into their language- using it among themselves to gather themselves to work efficiently."
+C	Extra Crispy	Blacks	"A southern exspression that represents their burnt appearence, as well as their stereotypical love of fried chicken."
+C	Fahim	Blacks	Arabs use this word meaning charcoal to describe blacks and very dark arabs
+#	Fakey Jamaikey	Blacks	"Blacks who try to act Jamaican, but actually aren't. Mostly used on TV or for musical purposes. For example, Miss Cleo: psychic advisor and tarot card reader."
+#	Fat Albert	Blacks	"Used against overweight African American males in reference to a popular 1980's cartoon created by Bill Cosby (for example, saying ""hey hey hey"" around a fat black man could be considered offensive by some)"
+K	Feargal	Blacks	Short for Feargal Sharkey (a UK Pop singer from late 70's and 80's) which rhymes with Darkie.
+C	Feb	Blacks	February is Black history month.
+X	Field Nigger	Blacks	"Field nigger is the term used to label blacks who choose not to identify with popular white society and culture, as opposed to house niggers--blacks who bend over backwards to win or maintain favor with whites while relishing in the fact that they at least reside in the house with the master rather then outside with the majority of blacks."
+K	FILA	Blacks	"Finally I Left Africa, popular clothing brand"
+C	Floppy	Blacks	"In Zimbabwe, the blacks are referred to as floppies because of the floppy hats they wear on their heads."
+#	Foedy	Blacks	"Black people are known to drink ""40""oz beers"
+#	Franklin	Blacks	The only black kid from the Peanuts series.
+C	Frasier	Blacks	"Term that represents people with big ""packages."""
+#	FroBro	Blacks	From Afro hair style and Bro for brother.
+C	Frostbite	Blacks	"when one gets frostbite, their skin becomes dark"
+K	FUBU	Blacks	"As in the clothing line F.U.B.U., or known by African Americans as ""For Us, By Us."" Racially translated to ""Farmers Used to Buy (or Beat) Us"""
+C	Future Inmate	Blacks	Two-thirds of American inmates are Black.
+C	Gee	Blacks	"Shortened from Gangster or OG (Original Gangster). Used as a greeting between gang members (""Yo, G, what up?""). Used in a derogatory fashion by members of other races or non-gang members."
+C	Gar	Blacks	"Redneck term. Short for nig-GAR. Could also refer to the Gar, a fish similar to the piranha, found in streams in the Southern US and eating by many Southern Blacks."
+#	Gatorbait	Blacks	Dark meat of the chicken that was fed to alligators.
+C	GED	Blacks	The highest level of education many Blacks get to.
+#	Geechee	Blacks	Specifically a derogatory term referring to the Gullah culture of African ex-slaves on the Atlantic coast of South Carolina/Georgia/Northern Florida.
+C	Ghetto	Blacks	"Many Black people are forced into poor, crowded neighborhoods, like Jews were during the Holocaust. The crowded, poor Jewish neighborhoods were called ""Ghettoes."" So are the poor, crowded neighborhoods that Blacks are forced into."
+#	Ghetto Hamster	Blacks	Black Children. A disposable pet.
+#	Ghetto Monkey	Blacks	Blacks tend to live in ghettos.
+C	Ghost Rider	Blacks	Blacks who have sex with whites.
+C	Gimpy	Blacks	It is an often stereotype that most people who collect unemployment are black. And blacks pretend they are injured so they can collect.
+#	Glocky	Blacks	Always carry Glocks when the go dealing
+K	Golliwog	Blacks	Refers to an old black caricature doll.
+C	Gor	Blacks	Rodney Gor (ney-gor)
+C	Gorilla	Blacks	Another Black-primate reference.
+#	Grapico	Blacks	It is said that blacks have an affinity for grape soda. Grapico is a popular brand in the South.
+#	Greaser	Blacks	Refers to the oily nature of a black person's hair.
+K	Gro	Blacks	From neGRO.
+#	Groid	Blacks	Short for Negroid.
+#	Gronesha	Blacks	Black Women. Used at the Battle of Valley Forge to describe the Black women who prepared the cannons.
+C	GTA	Blacks	Grand Theft Auto games are said to represent the lifestyle of black males.
+#	Guttermonkey	Blacks	Monkeys that live in the gutter.
+#	Hagwei	Blacks	"Cantonese for ""black ghost."""
+#	Hayquay	Blacks	"Cantonese for ""black ghost."""
+#	Hakui	Blacks	Word means 'burnt' in Chinese
+C	Half-Human	Blacks	Reference to when blacks were counted as half a human for voting purposes.
+C	Hambone	Blacks	Refers to overweight black men.
+C	Harlem	Blacks	Harlem's (NY) residents are primarily Black.
+C	Haunt	Blacks	See: Spook
+C	Hendrix	Blacks	Black people who are able to play an electric guitar. Found offensive among certain groups.
+C	High Yellow	Blacks	"Light-skinned black person. Adjective, generally used by blacks in describing blacks with a light complexion"
+K	HNIC	Blacks	"Acronym for ""Head Nigger In Charge."" Used by Morgan Freeman's character in ""Lean on Me."""
+#	Ho Baas	Blacks	"Words uttered when a gun is pointed at Blacks in old South Africa. ""Baas"" being Afrikaans for boss."
+#	Ho De Doz	Blacks	"They work in large hotels and ""hold the door"" to let white folks in"
+C	Holy Shit	Blacks	Black Priests only
+K	Homey	Blacks	"Synonymous with friend in the black community, used by other races to poke fun at that."
+K	Homie	Blacks	"Synonymous with friend in the black community, used by other races to poke fun at that."
+C	Hoopty	Blacks	"Black people in the United States and Canada use this term to refer to an older, beaten up, junky car."
+C	Hootie	Blacks	From the pop band of the 1980's Hootie and the Blowfish. The lead singer was black (obviously Hootie). The other members of the band were white (Blowfish).
+#	Horse-Gums	Blacks	Self-explanatory.
+C	Hotel	Blacks	"Ebonics: ""I gave the bitch crabs and the hotel everybody."""
+#	Hotnot	Blacks	"Probably derived from Afrikaans ""Hottentot"", a name for a very traditional Khoisan group generally recognized as among the most primitive on earth."
+X	House Nigger	Blacks	"The slaves called the butlers house niggers, basic Uncle Tom reference."
+C	Huey	Blacks	Black Panther founder Huey P. Newton
+C	Hutch	Blacks	Used by some southern people to refer to black people. May reference the type of cage used to keep small animals.
+C	Huxtable	Blacks	Taken from the Cosby show. A commentary on rich black people living like whites.
+C	I P's	Blacks	stands for Indigenous Population
+#	Inky	Blacks	Referring to the color of skin. Used mainly by darker-skinned Blacks to lighter-skinned Blacks. Also Ink Baby or Inkspot.
+#	Jackamammy	Blacks	"A goofy black guy, like the guy from Good Times."
+V	Jackpot	Blacks	Combination of 'jack rabbit' and 'Aunt Jemima.' People have said that jack rabbits looked like 'lynched' black people.
+K	Jambo	Blacks	Cause they always want to hit the jackpot
+C	Jar Jar	Blacks	Refers to Blacks from Africa who are considered by other Blacks as unsophisticated. Comes from 'Jambo Kenya' in the Kenya National Anthem
+C	Jellybean	Blacks	"In Star Wars Episode 1, the computer-generated character Jar Jar Binks was filled with stereotypical black behavior. The actor who did the voice was also Black."
+C	Jerry Curl	Blacks	Everyone hates the black ones.
+#	Jersey-Dweller	Blacks	Popular black hairstyle.
+C	Jet	Blacks	"New Jersey = the arm pit of America, this does not mean that African Americans live in Jersey. However, in any city in America, African Americans can be found in the worst parts (or arm pits) of that city. Therefore making them Jersey-dwellers."
+#	Jiffy Pop	Blacks	"For their ""jet black"" skin. Also for the black-orienied weekly magazine JET."
+C	Jig	Blacks	Specifically Rastifarians. The traditional Rastafarian hat resembles a popped container of Jiffy Pop popcorn
+#	Jig And A Pig	Blacks	Short for Jigaboo.
+K	Jigaboo	Blacks	Black men go for fat white chicks
+K	Jigga	Blacks	"Very dark-skinned Black people. Usually used among lighter-skinned African-Americans to refer to ones of very dark complexion. Made popular in the 1975 movie ""Cooley High."" Often shortened to ""Jig."""
+C	Jim	Blacks	"Shortening of Jigaboo used in pop culture today,"
+C	Jim Crow	Blacks	"Heard it used by Renko on Hill Street Blues. He called an older black man ""Jim"" and the guy flipped out and roared, ""Who are you callin' Jim?"" Most likely comes from the old Black slave character Jim in the book _Tom Sawyer_."
+C	Jr. Mint	Blacks	"Used a lot during the Civil War. He was a stereotypical minstrel show character, history described here. Also used to describe segregationist laws in the south, but I recently read about a bus driver who was fired for using the term to describe a black person."
+#	Juba	Blacks	"White on inside, black on outside."
+#	July Ham	Blacks	"The black slave from the movie ""Gladiator."""
+C	June Bug	Blacks	July Ham is a Watermelon
+K	Jungle Bunny	Blacks	"They come out in great numbers in the summer, and sit in the middle of the road."
+#	Justin Igger	Blacks	Jungle is referred to their jungle origins and bunny is referred to some people saying that jack rabbits looked like 'lynched' black people.
+#	Kaffer	Blacks	"Ie. ""Hey I know that guy, he's Justin Igger"""
+K	Kaffir	Blacks	"Afrikaaner word for blacks, very derogatory. Made popular by Lethal Weapon 2."
+K	Kafir	Blacks	"Referring to Black Africans. Kafir is an Arabic word with meanings similar to Goy or Goyim of the Jews, only describing any non-Muslim person in a derogatory way. S. African Kaffir possibly imported during the Boer War by British soldiers who had fought in the Sudanese campaign. It just means those who are not in whatever religion the Arabic speaker adheres to (Christianity or Islam). It can be negative if someone uses a negative, derogatory tone of voice, but the word itself isn't ""bad"" used that way."
+K	Kala	Blacks	Indian word for the color black. Used by Indians as a slur for black people.
+C	KFC	Blacks	Black people like fried chicken.
+C	Kingfish	Blacks	"From Amos & Andy. Usually in reference to a poor, older black man."
+C	Kirby	Blacks	Cuban slur for blacks. Kirby is a popular black bean manufacturer amongst cubans.
+C	Kizzy	Blacks	Kunta Kinte's daughter from the movie Roots.
+#	Knees Grow	Blacks	Comes from Negro.
+C	Knuckle-Dragger	Blacks	Often believed that black people have longer arms than other races and therefore their knuckles would drag.
+C	Kobe	Blacks	The popular black basketball player recently embroiled in a rape trial.
+#	Koku-jin	Blacks	Japanese term for Blacks or anyone of African descent.
+C	Koolaid	Blacks	Black people are stereotypically partial to the red Koolaid.
+#	Kooshi	Blacks	Hebrew word for Africa or a black person
+#	Kunta Kinte	Blacks	"From Kunta Kinte in the book/movie ""Roots."""
+#	Kurochan	Blacks	"Japanese derogatory term-""kuro""=black color; ""chan""=suffix used for children or someone younger"
+#	Kurombo	Blacks	"Used in Japan; considered very derogatory. Comes from ""kuro"" (=black color) and ""bo"" (casual suffix meaning young man)."
+C	Kushi	Blacks	Israelis call black ethiopians kushi and blacks period. Means nigger. Originated from Cush.
+C	Lando	Blacks	"Lando is the token Black character in both the original Star Wars Trilogy, and in Clerks: The Animated Series (Which lampoons that aspect of Star Wars)"
+K	Latifah	Blacks	Reference to famous black actor/singer.
+#	Lawn Jockey	Blacks	"Most all Lawn Jockeys are Black, sometimes also known as Porch Monkey. Author Ralph Ellison used the term to describe black people who felt/were treated as if they were speaking on behalf of the black race."
+#	Leprecoon	Blacks	Combination of Leprechaun and Coon for blacks of Irish descent.
+C	Leroy	Blacks	"A stereotypically black name. Typically used as the name of a character is a racial joke, e.g."
+#	LeRoy Rogers	Blacks	Black cowboys.
+C	Levar	Blacks	"Educated blacks. Refers to Levar Burton of ""Reading Rainbow"" and ""Star Trek: The Next Generation"" fame."
+#	Lincoln's Mistake	Blacks	US President Abraham Lincoln is known to have freed the slaves.
+#	Little (Black) Sambo	Blacks	"As with the Golliwog, originated as a relatively benign though mildly offensive characterization and was adapted by other writers to embody many black stereotypes of the time. Currently embodies stereotypes of docility, laziness, stupidity, and disloyalty."
+K	Liver Lips	Blacks	Self Explanatory
+#	Liverlips	Blacks	because it looks like they have liver on thier faces (originates in the southern US)
+C	Lucius	Blacks	"Commonly used on poor black people. During the period prior to the Civil War, many blacks were named after famous Romans (e.g. Lucius, Marcus, Scipio, etc.)"
+K	Lugz	Blacks	Named after the brand of footwear who's ad campaign is targeted towards blacks.
+#	Ma Se Poes	Blacks	"Comes from the general curse used by Afrikaans-speaking South Africans (mainly coloureds in Cape Town), ""Jou ma se poes"", which means ""Your mother's cunt"". Not that common anymore"
+#	Magila Gorilla	Blacks	"Term for a Huge, Fat, Black man."
+C	Mammy	Blacks	"Similar to Aunt Jemima. Stereotype of black women as nannies to white children, especially overweight black women - see ""Gone With The Wind""."
+K	Mandingo	Blacks	In reference to the 1975 blacksploitation movie with the same name.
+#	Mandinka	Blacks	"Reference to the motion picture ""Roots"": A Mandinka warrior was a 'Big Black Buck'."
+#	Mangro-Monkey	Blacks	Monkeys live in mangroves.
+C	Maroon	Blacks	When the slave ships had a troublemaking slave-to-be they would drop him off on a small island or rock in the middle of the ocean thus 'marooning' him.
+K	MARTA	Blacks	Metro Atlanta Regional Transit Authority. Or as it's sometimes known: Moving Africans Rapidly Through Atlanta.
+C	Mavro	Blacks	Greek word for black
+#	Mayate	Blacks	Hispanic term for 'Nigger.'
+#	McNigga	Blacks	Reference to McDonald's new line of advertising campaigns marketed towards blacks.
+C	Mechanical	Blacks	English rhyming slang - Mechanical digger = Nigger
+#	Melanzana	Blacks	"Italian for ""eggplant"" - very dark black people have a purplish tint to their skin, so does eggplant."
+#	Mellanoid	Blacks	Dictionary: one having dark pigmentation.
+#	Melon Johnny	Blacks	Italian slang for Blacks.
+#	Meshky	Blacks	"Translated into Farsi (Persian language) means ""black"". Used commonly among young white boys as undercover means of saying ""nigger"""
+K	Mi Dang	Blacks	The Vietnamese term for African Americans.
+C	Midnight	Blacks	Self-explanatory.
+C	Milk Dud	Blacks	A black person with a shaved head.
+C	Milkman	Blacks	Black men who prefer white women. Used by blacks.
+#	Mishwa	Blacks	"Means ""barbequed"" or ""grilled"" in Arabic, blacks for their dark skin. Mishweya for females."
+C	Miss Cleo	Blacks	A reference to the (in)famous commercial personality.
+#	Missippi Tree Emblem	Blacks	Due to when they were hung in the Southern states.
+#	Mississippi Blue Lip	Blacks	Old redneck term.
+#	Miyate	Blacks	"Mexican/Latino slang for ""minority""."
+C	MLK	Blacks	"Pronouced ""milk,"" made due to misrepresentation of national holidays"
+C	Mo And Yo	Blacks	2 of the more common sounds they make in their general street slang.
+#	Moanback	Blacks	"From Southern black garbage men giving the driver directions on when to back up (Come on back, or 'mon back)."
+C	Monday	Blacks	Nobody likes Mondays.
+K	Monkey	Blacks	Similar appearance/genetics.
+#	Monkeyboy	Blacks	"People once believed, because of their high cranium, blacks were close cousins to primates."
+C	Mono	Blacks	A hispanic term for blacks meaning monkey in most dialects.
+#	Montu	Blacks	Old African word that refers to tribes people.
+#	Mooliachi	Blacks	Female version of Mooley. Used in The Godfather.
+#	Moolie	Blacks	"Shortened from Melanzane, meaning ""eggplant"" in Italian. Eggplants have black skin."
+#	Moolignon	Blacks	Italian for eggplant (technically Mulignane). Could be combination of Moolie and hooligan.
+K	Moon Cricket	Blacks	"See Cricket. Possibly derived from the ""MC"" often used after many black nicknames. Also a possible reference to the minoral aspect of the African race in the United States. A black person(cricket) in a sea of white(the moon)."
+#	Mottisa	Blacks	"Back in slave days the Black servants would ask ""Mo tee Sah"", which in proper English translates to ""More tea Sir?"""
+K	Mow-Mow	Blacks	"Refers to the Mau Mau movement in Kenya , that rose up in protest to the theft of their land by the British. Mau Mau is european-invented name; the Gikuyu people is the Kenyan name."
+C	Mr. Big	Blacks	"From Yaphet Kotto's Character in the Bond film ""Live and Let Die."""
+#	Mr. Bojangles	Blacks	"William ""Bojangles"" Robinson was a famous black dancer."
+#	Muckadoo	Blacks	"Shawnee, Native American term for ""Mud person"""
+K	Mud Duck	Blacks	Dark skin. See Mud People.
+C	Mud Flaps	Blacks	Black people who have large lips.
+K	Mud People	Blacks	"Sentiment that only Wasps are born with souls, everyone else God made from mud. Also suggests life without meaning, value or worth. Used by the church that was attended by Mr. Smith - the hate killer that shot up a bunch of Jews and Blacks in the summer of '99."
+#	Mud Turtle	Blacks	"Being bottom-feeders; Mud ""musk"" turtles have a distinct odor and are mud-colored"
+C	Mufasa	Blacks	James Earl Jones' character from The Lion King.
+#	Muffin-head	Blacks	Reference to the popular black hair style of afro's.
+#	N'er	Blacks	"Italian word for egg plant, which is black when uncooked."
+#	Mulunyan	Blacks	"Rhodesian. Comes from the African word for ""person"""
+K	Munt	Blacks	"Nonchalant way of saying ""nigger."""
+K	Naca	Blacks	North American Concrete Ape
+K	NAGA	Blacks	North American Ground Ape; Affectionately used by the LAPD during the Watts riot in Los Angeles.
+#	Nagur	Blacks	"The Irish-Americans called black people ""Nagurs"" because they could not pronounce the word ""Nigger"" with their accent."
+K	NAHA	Blacks	North American Hairless Apes
+K	Nanner	Blacks	Banana/Monkey/etc related. Also a way to mask the word Nigger
+C	NAPA	Blacks	Nother American Pavement Apes.
+C	Nappy Head	Blacks	Refers to hair type.
+C	Nappy-headed Ho	Blacks	"Black female basketball players (Thanks Don Imus, you racist douchebag)"
+#	Nekru	Blacks	"Finnish for ""nigger."""
+#	Neekeri	Blacks	"Finnish for ""nigger."""
+C	Negative	Blacks	South African - Referred to as undeveloped (as in film negatives).
+K	Negress	Blacks	"Black female. Adapted from ""nigger""."
+K	Negro	Blacks	"Once acceptable, it is now often taken derogatorily by Blacks."
+K	Negroid	Blacks	Negro + oid; +oid being a general english suffix meaning related to.
+C	Nelly	Blacks	Like Mammy. Common black name/character in Antebellum South.
+C	NFT	Blacks	"NFT is the name of the MetroBus system in Buffalo, the initials came to represent Nigger Freight Train"
+K	Ni-ni	Blacks	"Used instead of ""nigger"" in potentially sensitive company, to avoid being overheard, or to appear politically correct."
+C	Niche	Blacks	Used by Cubans regarding Blacks.
+K	Nig-nog	Blacks	"Used in England. Probably from the Dutch ""niknok"" (nigger) by way of South Africa."
+#	Niggabyte	Blacks	A computer geek who happens to be Black.
+#	Niggapotomous	Blacks	An extremely fat nigger.
+K	Nigger	Blacks	"Most likely originates with the Latin word ""niger"" which translates to ""black"". Similar words for ""black"" exist in other languages (Spanish, for example, is ""negro""). Also somewhat relates to the African country Nigeria, which is primarily black. Many variations exist, including ""Nig"", ""Nigel"", ""Niggy"", ""Niggly"", etc. Some interesting history."
+#	Nigger mortis	Blacks	"It's like rigor mortis, except you're just too lazy to move."
+#	Niggerachi	Blacks	Black person who acts Hispanic
+K	Niggerette	Blacks	"Black women. Adapted from: Nigger, See: Nigger."
+#	Niggerino	Blacks	A little nigger
+#	Niggeroid	Blacks	Usually light skinned mixed breed black and any other race.
+K	Nigglet	Blacks	Black children. Adapted from mixing Nigger with the word piglet (a baby pig)
+C	Nightcrawler	Blacks	"Out at night,"
+#	Niglige	Blacks	"This describes the snow that piles up on the side of the street that turns black. To make a black snowman, you use niglige."
+#	Nigloo	Blacks	"In northern Canada, it refers to Blacks living way up north in the cold with the Eskimos."
+#	Nignorant	Blacks	Nigger + ignorant.
+#	Nigonometry	Blacks	Blacks who are scholars at math.
+K	Nigra	Blacks	"Used by Whites in the Jim Crow South who were too lace-curtain to say ""nigger"" but too racist to say ""Negro."""
+#	Nigress	Blacks	Black women. Nigress is to Nigger as Tigris is to Tiger.
+#	Niknok	Blacks	Dutch version of Nigger.
+#	Nineteens	Blacks	"When choosing an exterior color for a Cadillac, a popular car amongst Blacks, the color code for black is 19."
+C	Ninja	Blacks	Ninjas wear black clothing.
+C	Nitch	Blacks	The females. Nigger-Bitch.
+K	Nog	Blacks	"Stands for ""Nigger Out of Gas"". Used by White police officers to describe Blacks who run out of gas and wait for the police to supply them some, which, supposedly, by law they have to do."
+C	NOLA	Blacks	Hurricane Katrina evacuees
+#	Nonswimmer	Blacks	You don't often see Black swimming
+#	Nooc	Blacks	Coon backwards
+C	November	Blacks	"In the phonetic alphabet, ""nigger"" is spelled: November - India - Golf - Golf - Echo - Romeo"
+C	Nubian Princess	Blacks	"Originally was a compliment for Black women, grew popularity from the movie ""Friday"" then was commonly used mockingly under mentality that a Nubian meaning African even with a title of princess is still a Nigger."
+C	Number 2	Blacks	Usually when checking off racial or ethnic background African-American is the second choice.
+K	Nurple	Blacks	"African Blacks, specifically. ""So black they appear purple."""
+C	O.J.	Blacks	From the football star/accused murderer O.J. Simpson.
+C	O.T.W.	Blacks	Other Than White. Could be used for any non-caucasian race
+#	Oar Tuggers	Blacks	Self explanatory
+C	OBG	Blacks	Original Blue Gums. Refering to the color of thier gums
+#	Oil Slick	Blacks	"A very dark skinned black person who is sweaty, making his skin slippery."
+#	Old Brown Tucker	Blacks	Slur for an old African American man. Comes from a popular song during the time of the Civil War.
+#	Omarosa	Blacks	"Bitchy black woman from the TV show ""The Apprentice"""
+C	Orb	Blacks	The word 'bro' backwards.
+C	Oreo	Blacks	"A black person who acts white. Black on the outside, white on the inside. Or a person who half black/half white."
+C	Orlando	Blacks	Used by other black people to refer to the 'old-school' blacks who do not keep current with the 'gansta' styles of music or clothing.
+C	Othello	Blacks	Refers to black men who only date white women. Reference to the Shakespearean play of the same title about a black man named Othello married to a white woman.
+C	P.O.A.	Blacks	Previously Owned American
+K	Palta	Blacks	"Means avocado in south american spanish, referring to the color of a ripe avocado"
+#	Papolo	Blacks	"Hawaiian word for ""purple."""
+#	Patio Primate	Blacks	"Politically-correct version of ""Porch Monkey"""
+C	Pez Dispenser	Blacks	Used to refer to black women who have a great deal of children.
+C	Pickaninny	Blacks	"From the days of slavery. Three possible origins: The slave owners would ""pick a nincompoop"" from the lineup of slaves; or the slave children who couldn't pick cotton ""ain't pickaninny""; in some parts of the south, breasts are referred to as ninnys, so pickaninny was a reference to blacks being used as wetnurses."
+C	Pine Sol	Blacks	A fat black woman - inspired by the Pine Sol commercials.
+#	Pine Tree Ornament	Blacks	Pine trees were the tree of choice to hang blacks
+C	Pineapple	Blacks	"Blacks who act like Asians, or is very into Asian culture. Black on the outside, yellow on the inside"
+C	Pink-Heel	Blacks	Color of heel is pink.
+C	Pit	Blacks	Black Children. Stands for 'Perpetrator In Training.'
+#	Platneus	Blacks	Afrikaans. Means flat nose
+#	Plow Jockey	Blacks	Blacks used to work the plows before the Civil War.
+C	POC	Blacks	Person Of Color
+#	Point-Six	Blacks	"Reference to the 3/5ths Compromise, where the US Gov't decided that slaves (Blacks) only counted as 3/5ths of a person for population reasons. (3/5=.6)"
+C	Pontiac	Blacks	"Stands for ""poor old nigger thinks it's a Cadillac"""
+C	Poo	Blacks	Poo-Poo (Feces are black or brown in color.)
+C	Pookie	Blacks	"In the movie ""New Jack City"" Chris Rock played a black/crack-head named Pookie"
+K	Popolo	Blacks	Hawaiian for 'black person.'
+K	Porch Monkey	Blacks	"Low-income housing with no air conditioning led to many blacks in the projects sitting on the porch to stay cool. It was said that they looked like monkeys at the zoo. The adults were called ""porch monkeys,"" and the children were ""yard apes."""
+#	Prapper	Blacks	"A Gang known as the Bloods, say PRAAAAAP! sounding like a machine gun. It is used when 2 Bloods meet and greet."
+C	Pretzel	Blacks	"Used in situations when saying the word ""Nigger"" would be inappropriate"
+K	Prieto	Blacks	"Used by hispanics in conjunction with nigger, but not just for black people."
+C	Primate	Blacks	Ape reference
+C	Property	Blacks	Blacks were regarded as property and openly bought or traded before the Yankees won.
+C	Pube Head	Blacks	Black persons hair appears to be pubic.
+#	Pubie	Blacks	Refers to the pubic-like hair on blacks' heads.
+C	Puddle Duck	Blacks	"From ""Jemima Puddle Duck,"" a Peter Rabbit character"
+C	Pusher-Man	Blacks	Drug dealing is the popular occupation in urban ghettos.
+#	Quashee	Blacks	"Used by British to refer to blacks (originally slaves) in the West Indies; derived from Quassi, name of slave from Surinam who became famous"
+#	Ragoona	Blacks	"New Orleans white slang refering to the ""doo-rag"" which blacks frequently wear to keep their hair in place."
+#	Raisinhead	Blacks	"Used on the TV show ""Rescue Me"""
+K	Re-nigg	Blacks	Explains a shift change at any of your local popular fast food establishments.
+K	Redbone	Blacks	Used by darker-colored Blacks to refer to Blacks with a very light complexion. Origin unknown. Link
+C	Reggie	Blacks	"Common name, especially for famous Black sports stars."
+K	Reggin	Blacks	Nigger spelled backwards
+#	Reggina	Blacks	A Nigger spelled backwards
+C	Remote Control	Blacks	Remotes are black and they do things for you. (slavery)
+C	Roach	Blacks	They come out at night to raise hell - turn on the lights and they scatter
+C	Rock	Blacks	"Used by lifeguards, because they're always rescuing blacks; they sink like rocks."
+C	Rockfish	Blacks	"Plays on the stereotype that blacks cannot swim, and will ""sink like a rock."" Also: ""African rockfish."""
+C	Roid	Blacks	Short for Negroid.
+K	Rope-Head	Blacks	"Name for younger black women who use thick, braided hair weaves because the end result often looks like rope."
+#	Rope-Straightener	Blacks	Self explanatory
+C	Royal Hawaiian	Blacks	Blacks in Hawaii who attempt to pass themselves off as ethnically Hawaiian.
+C	Rufus	Blacks	"After the character ""Rufus Xavier Sasparilla"" from schoolhouse rock."
+C	"Runs, The"	Blacks	"The ""runs"" is a term commonly used to speak of diahrrea; also because black people are known to excel in running"
+C	Safe	Blacks	"Because the government gives them food, housing, money and protects them from ""hate""."
+C	Sailor	Blacks	"Because they constantly wear the clothing line Nauitica, yet very, very few own a boat."
+K	Sambo	Blacks	See Little (Black) Sambo.
+C	San	Blacks	(S)tupid (A)ss (N)igger .. see Dan
+C	Sanford	Blacks	From Sanford and Son.
+C	Satchmo	Blacks	"Originally Louis Armstrong's nickname. Can be heard amongst other slurs in the People Haters song, ""You're A Nigger"""
+K	Scat	Blacks	"Scat is also known as animal fecal matter, which is brown; also for Scat music which is from black origin"
+#	Schwartza	Blacks	"(sh-var-tza) Stems from the Yiddish word schvartz, or black. It is not derogatory in nature, but usually ends up being used in not the nicest of ways."
+#	Schwarzenigger	Blacks	A black man who is extremely muscular.
+#	Schwarzie	Blacks	'Schwarz' is German for 'black.'
+#	Schwoogie	Blacks	Believed to be contraction of Yiddish/German schwatrz (black) and boogie.
+#	Semi-Simian	Blacks	"Simian meaning of, relating to, or resembling monkeys or apes."
+C	Shade	Blacks	Old-fashioned term derived because blacks are dark like a shade
+C	Shadow	Blacks	Refers to color of skin
+#	Shadow-Smurf	Blacks	They the darkest of all Smurfs.
+C	Shaft	Blacks	"Black man, from black exploitation film ""Shaft"""
+X	Shaka Zulu	Blacks	Leader of the Zulu tribe in Africa located in present day Zimbabwe
+C	Shiner	Blacks	"In reference to the shine their skin can sometimes give off. Also a 1920's main occupation, shoe shiners."
+#	Shipping Cargo	Blacks	Refers to slave trading. Slaves to be shipped were packed inhumanly close.
+#	Shit-Slinger	Blacks	A typical behavior of monkeys is to throw feces.
+C	Shitheel	Blacks	Slang term for a Black servant. Southern origins.
+C	Shitskin	Blacks	Color of skin.
+#	Shoe Shiner	Blacks	Many shoe shiners in cities are black.
+#	Shuffalong	Blacks	"Supposed to mean ""shuffle along."" Refering to lazy slaves."
+#	Shvartz	Blacks	Yiddish (German origin) word for Black. Used neutrally and disparagingly.
+#	Shvatsa	Blacks	Yiddish word for nigger
+#	Shvooga	Blacks	Another word in Yiddish that means nigger
+C	Silverback	Blacks	Old Black. Silverbacks are the leaders in a pack of gorillas.
+C	Silvery	Blacks	Cockney rhyming slang for Coon - Silvery Moon - Silvery.
+K	Simian	Blacks	Primate
+C	Sir Mix A Lot	Blacks	They like big butts and they cannot lie...
+C	Six	Blacks	"In the times of political correctness this is a good way to say Nigger without getting jumped. I belive it has to do with 6 letters in the word nigger. To use in a sentence; ""Hey, look at that 6 over there."""
+C	Sixer	Blacks	"On the U.S. census, African American is code number six on the list of ethnicities."
+C	Skillet	Blacks	Refers to the color of iron skillets.
+C	Skinflint	Blacks	Skin appearance related.
+C	Slave	Blacks	Self-explanatory.
+#	Slave Ships	Blacks	Refers to pregnant black women. The idea is that they are carrying many children packed tightly inside. Similar to a slave ship.
+C	Sleestack	Blacks	"From ""Land of the Lost."" The Sleestacks were stupid, slow, and apparently very lazy. They could never catch Chaka."
+C	Slide	Blacks	"Used by some police. It was created so that they could refer to blacks in a derrogatory way and not get in trouble. Said because blacks 'slide' through everything - they're lazy. Also said, ""part of the White Castle family"" ('sliders')."
+#	Smigger	Blacks	"From the joke ""what do you call a Black Smurf?"""
+C	Smoke	Blacks	"From the similarity between their skin color and the color of smoke. Also from the way that they were said to be able to sneak around quietly, entering a room ""like smoke""."
+#	Smoked Irish	Blacks	"Irish, especially during the late 19th early 20th century, were thought of as no better than ""niggers,"" and conversely, blacks were associated with them."
+#	Smokefoot	Blacks	Color of feet.
+C	Smokestack	Blacks	Believed to originate in pre WW II Detroit. Comparison to the blackened smokestacks of the manufacturing plants.
+C	Smokey	Blacks	Self explanatory
+C	Sneakers	Blacks	They always come in pairs
+K	Snigger	Blacks	Snow nigger. Black people seen on the ski slopes; a stereotype that they generally don't go skiing because they dislike the cold.
+C	Snipes	Blacks	Wesley Snipes is the blackest of the Black people.
+C	Snob	Blacks	Blacks who can't afford cars and are always seen riding bikes: (S)illy (N)iggers (O)n (B)ikes
+C	Snowflake	Blacks	Was used to indicate an educated black man during the civil war; white collar blacks were pretty rare - only white people had desk jobs.
+C	Son	Blacks	"Refers to the way blacks speak Ebonics and append the word ""son"" to every phrase/sentence."
+C	Sooty	Blacks	Self-explanatory
+C	Soul Food	Blacks	"From the black drama ""Soul Food."""
+#	Southern Windchime	Blacks	During the days of the KKK many black people were hanged from th same tree.
+#	Spabook	Blacks	Used by Michael Jackson for some unknown reason
+C	Spade	Blacks	The spades in decks of cards are black.
+#	Spear-Chucker	Blacks	Comes from the hunting styles of African tribal natives.
+#	Splib	Blacks	Most likely origin comes from the 1960's as an acronym for: South Philadelphia Lower-Income Blacks.
+#	Spliv	Blacks	Washington DC area police term
+#	Spoda	Blacks	"How blacks talk (ex.) ""We ain't Spoda be here."" (we aren't supposed to be here)"
+#	Sponge Head	Blacks	"African's naturally bouncy/kinky hair, when uncut, tends to be big and poofy when dried out. When you sqeeze it it seems as if it would bounce back at release"
+K	Spook	Blacks	"Because of their dark skin, which can blend into the night, making them ghost-like."
+C	Spoon	Blacks	From the reflection you see when looking at a spoon. Originates from the shape of a Black person's nose
+#	Spoonbill	Blacks	A spoonbill is a type of bird. Look at one and the origin will be obvious.
+#	Spota	Blacks	"(Pronounced Spoh-tuh) Stereotype of dumb inner city blacks' slang for supposed to. ""Spota get a job. Spota take care of the kids. Spota not break the law."""
+C	Stacks	Blacks	"From the movie Goodfellas, character Stacks Edwards, the only black character, manages to fuck up the heist."
+#	Stepn Fetchit	Blacks	"Stage name of American actor Lincoln Perry, type cast as a slow, uneducated & easily frightened Black man. Derogatory term also used to suggest the toady behavior of Black civil servants."
+#	Stovelid	Blacks	"A book from the 1950's set in Florida (_The Lotus Eaters_) used Stovelid, which makes some sense if you've ever operated a big wood stove - the lids are the disks set into the big holes on top (these eventually became burners when the design was refined to use gas or electric)."
+C	Stovepipe	Blacks	"Stovepipes from wood-fired stoves get encrusted with black soot, hence the association."
+C	Strange Fruit	Blacks	Coined by Blacks during slavery to refer to other Blacks who were hanged from trees. Used in a Billie Holiday song during the Civil Rights movement. See: Apple (2).
+#	Strap Hangers	Blacks	"When the whites were sitting on the bus, the blacks had to stand and hold onto the strap."
+#	Street Cheetah	Blacks	"A reference to the ghetto, i.e. uneducated Black criminals hanging around the streets day and night, along with the speed of young black males, like Cheetahs, the fastest animals in the jungle."
+C	Sub-Human	Blacks	They are said to be the missing link between apes and humans.
+C	Suntan	Blacks	Refers to their dark skin color.
+C	Suspect	Blacks	Self-explanatory.
+K	Swamp Donkey	Blacks	Blacks from rural areas
+#	Swamp-Runner	Blacks	Blacks running from slavery
+#	Swamper	Blacks	"Refers to poor blacks who live in rural areas, especially if the area is predominantly white"
+C	Sway	Blacks	They tended to sway from trees back in the Civil War days.
+C	Sweaty	Blacks	Perception that blacks appear sweaty and greasy.
+C	Sweetback	Blacks	"Name of Black Pimp in Melvin Van Peebles movie who kills white police and gets away with it, common aspiration of black ghetto youths"
+C	Swinger	Blacks	Blacks being hung
+K	Tagger	Blacks	They often leave the tags on clothing.
+K	Tar Baby	Blacks	"Skin color. From the ""Uncle Remus"" (Br'er Rabbit) story."
+#	Ted Stevens	Blacks	A brand of candied chocolate in England; Quite dull and worthless.
+C	Terrence	Blacks	"Likely comes from the black singer Terence Trent D'Arby, who claimed that his debut album was the most important album since ""Sgt. Pepper"" and then bored his audience with self-important lyrics, losing major credibility in the process."
+C	The Element	Blacks	Used in reference to minorities in terms of location. Example: This neighborhhod was nice until the element moved in. Not necessarily specific to Blacks.
+C	The Missing Link	Blacks	The oldest living black person in a community.
+C	Thick Lips	Blacks	Originates from Shakespeare's Othello
+C	Thief	Blacks	Common stereotype
+#	Thing-a-manigger	Blacks	Used when talking about a third(black) person you don't know.
+#	Thirty-Six-Thirty	Blacks	The latitude line between slave and free states
+K	Three-Fifth	Blacks	The latitude line between slave and free states
+C	Thumper	Blacks	"Same vain as Point-Six. In reference to the 3/5ths Compromise, where the US Gov't decided that slaves (Blacks) only counted as 3/5ths of a person for population reasons."
+K	Tibbs	Blacks	"Blacks listen to loud ""thumping"" music in their cars."
+#	Tifuti	Blacks	"Reference to one of the cast members of ""In the Heat of the Night."""
+C	Tigger	Blacks	"Black Brazilians. Word for ""niggar"" in Brazil, pronounced CHEE-foo-CHEE"
+#	Tizzun	Blacks	"A ""typical nigger"""
+C	Toad	Blacks	Neapolitan derogatory term for black person.
+C	Toby	Blacks	"In prison, this is a widely used word for blacks."
+#	Toilet Swimmer	Blacks	"Reference to the character in ""Roots."""
+C	Token	Blacks	"When sitting on the toilet, reference to large genetalia"
+#	Tokenbump	Blacks	Indicates that a person is unqualified for his/her position and received it on racial grounds. One of the two black characters on the show South Park is named Token. Could be used for any race.
+C	Tom Robinson	Blacks	For blacks that ride in hoopties with loud systems and smoke marijuana
+C	Tootsie Rolls	Blacks	"Black criminals. Comes from ""To Kill a Mockingbird"""
+#	Tounge-Clicker	Blacks	Black children. Tootsie rolls are small and brown.
+#	Tree Hockey	Blacks	The Language for som African Peoples involves clicking of the tounge
+C	Tree Ornament	Blacks	Used by hockey players to make fun of blacks playing basketball.
+#	Tree-Jumper	Blacks	Hanging reference.
+#	Tree-Swinger	Blacks	"Mike Tyson in an interview referred to others calling him a ""tree jumper"", obviously because monkeys in the jungle jump between trees in the forest canopy"
+C	Trigger	Blacks	Either from monkeys or the victim of a lynching.
+C	Tripod	Blacks	Rerence to high murder rate. Sounds like Nigger
+K	Tutsoon	Blacks	Stereotypical large penises
+K	Tootsoon	Blacks	Origins in Chicago (particularly Italians).
+C	Tycoon	Blacks	A black man from Thailand
+C	Tyrone	Blacks	Popular Black name
+C	Tyvek	Blacks	"Refers to unusual names given to many black men; actually, a material used by Du Pont for large mailing envelopes."
+K	Ubangi	Blacks	A river in Africa.
+C	Uncle Ben	Blacks	Black man on the famous rice box.
+C	Uncle Tom	Blacks	"Blacks who suck up to white people. In reference to the Uncle Tom character in the famous 1852 book ""Uncle Tom's Cabin"" by Harriet Beecher Stowe."
+#	Unemployus Africanus	Blacks	Genus & species. Scientific name. self explanatory
+C	Urkel	Blacks	"Nerdy Blacks. Character from ""Family Matters"" TV show."
+C	Vacuum Cleaner	Blacks	"Their noses represent a vacuum. Also used because they ""vacuum up"" much cocaine."
+C	Vanilla Coke	Blacks	Black people with white personalities.
+#	Vanilla Gorilla	Blacks	"A black guy who acts white. Used mostly to describe unathletic blacks, who, according to stereotypes, should be naturally good at sports"
+#	Velcro-head	Blacks	Characteristics of the hair.
+#	Vinny Del	Blacks	Vinny del Negro was a basketball player
+C	Voodoo	Blacks	Stereotypical thought of blacks using voodoo.
+C	Water Buffalo	Blacks	Originally meant for noisy people but gained notoriety when a Jewish University of Pennsylvania student used it to describe members of a black sorority who held a loud party while he was trying to study. It turned into a hate crime case.
+C	Watermelon	Blacks	"For their fondness for watermelon. Used in the movie ""48 Hours""."
+C	Wayans	Blacks	"The whole ""Wayans"" family was on In Living Color"
+K	Webe	Blacks	"Pronounced ""we be"", this refers to the inability of most blacks to conjugate the ""be"" verb, thus resulting in ""we be"" instead of ""we are"" when making references to themselves."
+#	Welfare Monkey	Blacks	See Welfare Mother.
+#	Welfare Mother	Blacks	"Common stereotype representing that large, black, single-parent families are disproportionately represented on welfare rolls."
+#	Whale Turd	Blacks	Derived from the joke - Q. What do you call a black in the ocean? A. A whale turd.
+C	Whipping Post	Blacks	Black people were whipped while they were slaves.
+C	White Wall	Blacks	White wall tires have a thin line of white. Used for blacks who pretend to be white.
+#	Whose My Daddy	Blacks	Common question among black children.
+#	Wikki Wikki	Blacks	"DJ turntable scratching noise, often heard in rap music."
+C	Windchimes	Blacks	A common practice of southerners was to hang blacks. When the wind blew and swung them back and forth against each other southerners would refer to them as windchimes.
+K	Wog	Blacks	"British, short for Golliwogg, a stuffed doll that mimicked Blacks. Recently was dropped (ref) as the logo used on jars of Robertson's jams and marmalades."
+C	Wookie	Blacks	In reference to the big brown Chewbacca the Wookie
+#	Wool Head	Blacks	Self-explanatory.
+C	Yam	Blacks	"Term used extensively by the military in Robert O'Connors novel ""Buffalo Soldiers"" about US Soldiers stationed in Germany. Originates probably with the food which is a staple of southern cooking."
+#	Yard Ape	Blacks	"Low-income housing quite often has no air conditioning. Thus, people who live in housing projects often sit out front to keep cool. This slur originated in the 60's and 70's."
+C	YBM	Blacks	"Young Black Male, police terminology."
+C	Yen	Blacks	"Yellow Eyed Nigger. These are Blacks, usually male, that due to a life of hard substance abuse have the whites of their eyes turn a hepatitis yellow."
+C	Yo Yo	Blacks	Yo Yo's hang from strings.
+K	Yom	Blacks	In Brooklyn is short for melanzane.
+#	Yombo	Blacks	"The Yombo was a sandwich way back when that was the first to come in a styrofoam box. Spelled ""Yumbo"" or ""Yambo"""
+#	Yont'an Saram	Blacks	"Korean for ""coal person"""
+C	You People	Blacks	"Ross Perot, while at the 1992 NAACP convention in Nashville TN, frequently addressed his audience as ""you people."" Revitalized again in April, 2007 when Don Imus said ""I can't get any place with you people"" on the Rev. Al Sharpton's radio show."
+#	Ze Goggles	Blacks	They do nothing.
+#	Zigaboo	Blacks	Variant of Jigaboo.
+#	Zip Coon	Blacks	Black stereotypical character from Antebellum South.
+#	Zoo Ape	Blacks	Ape in a zoo = Nigger in jail
+K	Zoot	Blacks	Blacks in the 1930s/1940s used to wear snazzy suits called zoot suits.
+K	Zulu	Blacks	Tribe name in Africa
+K	Hapshi	Africans	"Animal like, originates in ancient India, when some slaves were imported from Africa. Still in use."
+K	Quadroon	Blacks	"A person who is 1/4 Black. Coined during the Civil War, referring to how White you had to be in order to serve in the army."
+C	NASA	Blacks	North American Street Ape

@@ -1,0 +1,64 @@
+K	Anchor Baby	Mexicans	"Children of parents who crossed the border illegally; A reference to their adulthood. At that time, they will be able to become the family ""anchor"" to legally bring in the rest of the family."
+C	Blue collar	Mexicans	Many illegal immigrants take manual labor jobs.
+C	BMW	Mexicans	Big Mexican Woman (or Women) - applied to heavy or obese Hispanic women.
+#	Border Bandit	Mexicans	"A Mexican who has crossed the border illegally. Also a ""BB"""
+K	Bracero	Mexicans	Spanish term for a Mexican migrant worker
+C	Brown Tractor	Mexicans	They sometimes do work tractors might normally be used for.
+#	Canned Labor	Mexicans	"Origin Unknown, Afri(can), Mexi(can), Etc. Labor"
+K	Carnie	Mexicans	A lot of mexicans are carnies.
+C	Chalupa	Mexicans	The popular Mexican food dish
+C	Cheech	Mexicans	Famous Mexican Cheech Marin
+#	Chili Choker	Mexicans	A term used in one of the Cheech & Chong movies
+K	Cholo	Mexicans	A term used to refer to Mexican gangsters.
+K	Chuco	Mexicans	Laredo Used to describe gang bangers. Comes from the word Pachuco
+K	Chunt	Mexicans	Comes from 'chuntaro' meaning bad-dressed Mexican
+#	Clown-Car	Mexicans	Used to describe the overcrowded vehicles of migrant workers.
+C	Corn	Mexicans	"From Mexi-Corn, from Southern California reference to Mexicans picking corn or other produce."
+#	DampBack	Mexicans	"Part Mexican, not quite wet."
+K	Dirty Sanchez	Mexicans	Common hispanic name.
+#	Fence Fairy	Mexicans	Reference to border crossing.
+#	Fence-Hopper	Mexicans	Mexicans hopping fences to get into the U.S.
+#	Fesskin	Mexicans	Fuckin' messkin (mexican)
+C	Field Rat	Mexicans	Working in Migrant Fields
+K	FOB	Mexicans	Fresh over the Border
+C	FOF	Mexicans	Fresh Over the Fence. Refrence to crossing the border from Mexico to US.
+#	Four Footer	Mexicans	"Ususally used when referring to illegal immigrant workers. ""I'm gonna go down to 7-11 tomorrow morning, to pick up a four-footer."" Because mexicans are short."
+C	Gordita	Mexicans	"Comes from the Taco Bell food. Means ""large"" or ""fat"" in Spanish."
+C	Grasshopper	Mexicans	They jump fences like grasshoppers
+C	Greaser	Mexicans	Used as early as the battle of the Alamo in 1836.
+C	Jumping Bean	Mexicans	Jumping beans are popular among Mexicans.
+C	Killer Bee	Mexicans	"Refers to the fact that like the insect, they too have been migrating out of Mexico into Texas."
+C	Landscaper	Mexicans	"Mexicans do a lot of landscaping. Similar to ""landscraper."""
+C	Lawnmower	Mexicans	A large portion of the landscapers are Mexican/Hispanic.
+#	Lubricano	Mexicans	Variant of greaser.
+#	Manuel Labor	Mexicans	Mexicans residing in the United States are used predominantly for manual labor. Manuel is a common hispanic name.
+#	Mexcrement	Mexicans	"Obvious combination of ""Mexican"" and ""excrement"""
+#	Mexi-Ho's	Mexicans	Term to describe Mexican girls who get pregnant at an early age.
+#	Mexican't	Mexicans	Based on the stereotype that Mexicans are lazy.
+#	Migger	Mexicans	Mexicans/Hispanics who act black.
+C	Miguel	Mexicans	Stereotypical name for Mexicans
+C	Mo	Mexicans	Acronym for Mexican Orderly: Used in jails to refer to mexican trustees.
+#	Modern Farm Equipment	Mexicans	"Many Mexicans work in agriculture today. Evolved from the ""Antique Farm Equipment"" slur for Blacks."
+C	Mudslide	Mexicans	What a jailbreak of Mexicans looks like.
+#	Olympican	Mexicans	"From the joke ""Why are there no Mexicans in the olympics? Because every Mexican who can run, jump, or swim is in this country!"""
+C	Pachuco	Mexicans	A gang of Mexicans living in California in the 1940s
+#	Pool-digger	Mexicans	Another reference to the manual labor many of them do in the States.
+C	Potato	Mexicans	A Mexican-American that has lost their heritage. Brown on the outside; White on the inside.
+K	River Nigger	Mexicans	Self-explanatory
+C	Roach	Mexicans	"They ""infest"" places"
+C	Roadblock	Mexicans	"Called this because some have a tendency to travel slow, pacing one another on the freeway not allowing anyone else to pass. Mostly a Texas term, though it may be heard in any other of the 'border' states."
+C	Scrap	Mexicans	Slur used by Mexican gang members to degrade other members.
+C	Soak	Mexicans	"Much like a wetback, when they cross the Rio Grande river their backs get soaked."
+#	Spicaninny	Mexicans	Young Mexican girls. Combination form of Spic and Picaninny.
+#	Spicet Fence	Mexicans	10 mexicans lined up side by side at the border.
+C	Spread	Mexicans	"They continue ""spreading"" across the United States."
+#	Taco Jockey	Mexicans	Self-explanatory
+C	Tex-mex	Mexicans	"A person of hispanic lineage, hopefully Mexican, that is from Texas."
+#	Texican	Mexicans	"Brown texans, usually illegal and doing drywall work. Technically: a Hispanic-American that lives in Texas"
+#	Tire-Hugger	Mexicans	"Method used to cross Rio Grande, floating on inner tubes and tires."
+C	Tonk	Mexicans	"Illegal Mexican immigrants. ""Tonk"" is the sound that is made when the illegals are hit over the head with the large flashlights/batons that the US border patrolmen carry."
+C	Triathlete	Mexicans	"Mexicans that can run, jump, or swim are already in the US."
+K	Vato	Mexicans	"Originates from Chicano slang. In Spanish it means ""guy"". Can be compared with ""dude""."
+#	Wadie	Mexicans	The Rio Grande is so shallow now that illegals just have to wade across.
+K	Wetback	Mexicans	"Comes from ""Operation Wetback"", a military operation devised in 1954 to stop the onslaught of illegal aliens entering the United States, primarily from Mexico. The operation was soon abandoned in part because of outcry of Mexican-Americans who were angered by the racial profiling. More info"
+#	Wetvac	Mexicans	A play on wetback. Many Mexicans who have illegaly entered the country take cleaning jobs.

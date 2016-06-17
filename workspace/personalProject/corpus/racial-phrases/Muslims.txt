@@ -1,0 +1,29 @@
+#	Bomb Watcher	Japanese	Refers to atom bombs the US dropped on Hiroshima and Nagasaki in WWII.
+#	Bukakke Warrior	Japanese	Refers to perverse Japanese sex fetish that involves a woman being the reciepent of several males ejaculation on her face.
+#	Butterhead	Japanese	"Used by U.S. Marines in the Pacific Theater of WWII, and some survivors of it to this day. Refers to yellow skin tone of Japanese soldiers. Expression appears in some U.S. movies made during the war."
+#	Cracker Jap	Japanese	A person of mixed Japanese/Caucasian descent
+C	Daikon	Japanese	The Dakion Radish is very popular is Japanese cooking.
+C	Fuji	Japanese	"Japanese tourists tend to wear cameras and take pictures 24/7. Mount Fuji is a mountain in Japan, and a brand of film."
+#	Godzilla Snack	Japanese	From the Godzilla movies
+#	Harbor-Bomber	Japanese	"The Japanese bombed Pearl Harbor in 1941, which caused the US to enter World War II."
+#	Hear-em-screama	Japanese	Hiroshima atomic bombing tragedy
+K	Hentai	Japanese	"Translates to something like ""pervert"" and is used primarily to refer to anime porn."
+K	Jank	Japanese	"Japanese living in America, Jap + yankee = Jank"
+K	Jap	Japanese	Short for Japanese.
+K	Japansy	Japanese	WWII (sneak attack)
+C	Jig	Japanese	Japanese Nig(ger). Japanese people who act black.
+C	Kamikaze	Japanese	Some Japanese pilots(called Kamikaze) were trained to make a suicidal crash attack durin World War II.
+#	Kotonk	Japanese	"Mainland-Born Japanese-Americans when a Buddhahead would beat a mainland kids head, the hollow sound coming from the head was ""kotonk, kotonk."" See: Buddhahead."
+C	Nagasaki	Japanese	Self explanatory
+C	Nip	Japanese	Shortened version of Nipponese(the former name for the Japanese.
+K	Nipper	Japanese	"Short for Nippon meaning ""Japan""."
+#	Niponese	Japanese	Used instead of 'Japanese.'
+#	Nippopotomus	Japanese	A Japanese person of robust proportions.
+C	Pikachu	Japanese	A popular Japanese cartoon character.
+C	Pocky	Japanese	Pocky is a popular Japanese treat.
+C	Pokemon	Japanese	They created that damn game
+K	Tojo	Japanese	"General Hideki Tojo, Japanese Prime Minister during WW2. Ordered the attack on Pearl Harbor."
+C	Viceroy	Japanese	"From Star Wars Episode One, trade federation people have similiar characteristics of Japanese buisness men."
+C	Yellow Cab	Japanese	Japanese women who only date non-Japanese. Also used to indicate Japanese women who are supposed to be easy. I.E. anyone can ride her.
+#	Yoko	Japanese	Yoko Ono broke up the Beatles.
+#	Yup-Boon-Jie	Japanese	"While all races in Chinese are refered to as a type of ghost/shadow (sub-human), the word for Japanese is unique in that it means child."

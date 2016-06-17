@@ -1,0 +1,354 @@
+C	8 Mile	Whites	"When white kids try to act ghetto or ""black"". From the 2002 movie ""8 Mile""."
+C	Abe Lincoln	Whites	Former United States president hailing from the caucasian sector of race.
+#	Afro-Saxon	Whites	Young white men who act black.
+K	Aibu	Whites	"Nigerian word for White people. Pronounced Oyee-bo. Not necessarily a slur nor derogatory, but rather a direct translation."
+C	Albino	Whites	Albinos are white.
+C	Anglo	Whites	A term used by Mexicans and other non whites in Texas to describe whites in a derogatory fashion.
+K	Aryan	Whites	"The name Hitler used to refer to his blonde-haired, blue-eyed ""Master Race."" Can be used towards racist whites who don't think they're racist."
+C	Bacon Bits	Whites	White Trailer Trash that have sex with Pigs
+K	Bai Tou	Whites	"Mandarin Chinese term meaning ""white head""."
+#	Baijo	Whites	"Japanese term meaing strangers, used in a hostile way."
+#	Bak Guiy	Whites	"Cantonese for ""white ghost."""
+#	Bat-gwai	Whites	"Bat-gwai is the Cantonese for ""white ghost;"" or as we more commonly hear it translated, ""white devil."" It may be worth noting that white is the color of death and mourning in China, as black is in Europe and America."
+#	Bai-guei	Whites	"Bat-gwai is the Cantonese for ""white ghost;"" or as we more commonly hear it translated, ""white devil."" It may be worth noting that white is the color of death and mourning in China, as black is in Europe and America."
+#	Beach-Nigger	Whites	Overly-tanned people/surfers.
+#	Bean Dipper	Whites	"White men, or any non-hispanic, who date hispanic women."
+C	Beecher	Whites	"For white people who kowtow to Black people or racist White People. Derived from the show ""Oz"" on HBO, where the character Beecher was raped and sodomized by Blacks and Racist whites."
+#	Belegana	Whites	"Navajo term which roughly translates to ""silly white person"""
+C	Betty Crocker	Whites	Refers to white women in general
+C	Big Nose	Whites	Term used by Asians when refering to westerners because of their larger noses
+C	Bird Shit	Whites	Because bird shit is mainly white
+#	Bird Turd	Whites	Bird shit is white.
+#	Blackrobe	Whites	White Missionaries. Native American term.
+C	Blanco	Whites	'Blanco' is Spanish for white or blank.
+C	Bleach Boy	Whites	Because bleach whitens things
+C	Blowfish	Whites	"From the pop band Hootie and the Blowfish. The lead singer was black (Hootie), the band was white (The Blowfish)."
+C	Blue-Eyed Devil	Whites	"Whites primarily with blue eyes are said to be the most evil. Especially since their skin is so pale, it looks scary to others as their blue eyes stare out at them."
+#	Bolillo	Whites	Mexicans use it to refer to white people: bolillo=white bread bun
+C	Boogie Man	Whites	"Enslaved African-Americans told tales to their children of a Boogie Man who would abduct you, kill you or otherwise cause harm to you if you were to leave the plantation. The Boogie man of which they spoke was in essence the white man. (Possible connection tot the ghost like appearance of the KKK)"
+C	Boss	Whites	"Commonly used by American minority groups (blacks, hispanics, asians) to refer to white people."
+C	Brady	Whites	"From TV show ""The Brady Bunch,"" especially used to make the point that whites are acting ""uncool."" A variation is to refer to someone by the names of one of the Brady Bunch children,i.e., Peter, Marsha, etc."
+C	Briar	Whites	Term probably comes from the briar bushes found in Appalachian states. Variant: briar-hopper. Applied locally to redneck Kentucky native or other southerner from Appalachia who resettled in Southwestern Ohio during or after WWII in search of factory jobs.
+C	Bro-ho	Whites	"A white woman who dates or has sex with black men. Bro = black man. Ho = short for ""whore."""
+C	Bubba	Whites	Common southern name Reference to any big dumb white guy.
+C	Bucket	Whites	"You ain't pale, you bucket"
+#	Buckra	Whites	Gullah language word meaning White Trash.
+C	Buffy	Whites	From Buffy the Vampire Slayer. A reference to teenage white girls who watch and identify with the show's main character.
+#	Buleh	Whites	Means Albino in Indonesian
+C	Bunker	Whites	"For the bigoted ""All In The Family"" character Archie Bunker."
+C	Cabbage	Whites	Small town farm trash that wore spotted welder beanie caps and carried concealed knives to school.
+C	Cancer	Whites	"Cancer causes the face to become white, and the blood to drain away."
+C	Casper	Whites	Casper the friendly ghost
+#	Caucazoid	Whites	A word used to belittle or poke fun at the caucasian designation for whites.
+#	Caulkie	Whites	Caulk is white.
+C	Caveman	Whites	Refers to the Neanderthals living in caves; used by rappers.
+C	Cheesehead	Whites	Wisconsin is the dairybelt; frequently used in a derogatory manner.
+C	Chirp	Whites	"Bird-like features, many english have big noses."
+#	Chite	Whites	White people trying to act Chinese or Asian.
+#	Chocolate-Dipper	Whites	White women who date Black men.
+#	Clamhand	Whites	"Probably used because many white males used to live in poverty, surviving by scavenging clams and the like."
+C	Clampett	Whites	"Originated on TV's ""The Beverly Hillbillies."""
+#	Clay-Eater	Whites	Similar to cracker in that it was in reference to poor southern whites who resorted to eating clay.
+C	Coal-Burner	Whites	"White Women. From the film 'Freeway', represents when a white woman dates a black man. Also used in the porn industry to refer to white actresses willing to fuck black men."
+#	Coalhauler	Whites	A white woman that has relations with black men.
+#	Cock-Asian	Whites	Play on words
+#	Cauc	Whites	Sort for Caucasian
+#	Cocksauce	Whites	Semen is white.
+C	Cocoa Puff	Whites	Represents a slang term for Blacks or a derogatory term for a White woman who sleeps or has children from Blacks. Originated from the cereal of the same name that turns white milk into chocolate milk.
+K	Confederate	Whites	"Many people in the southern U.S. supported the confederacy in the Civil War, and still display their support with confederate flags. Increasingly being used by the media to denote KKK members who sometimes display the Confederate Battle Flag. The KKK is condemned by most ""Confederate"" organizations."
+K	Conky	Whites	"Combination of ""caucasian"" (or ""cracker"") and ""honky."""
+C	Corky	Whites	"For kids with downs syndrome, Corky, on ""Life Goes On."""
+C	Cornfed	Whites	Refers to large white boys from rural areas (They are cornfed like premium cattle) Typically considered to be extremely strong but not too bright
+#	Cowfuck	Whites	Farmers in the fields getting intimate with their animals
+C	Cracker	Whites	"This term is said to have originated in England before the 16th century, refering to the lower class whose diet primarily consisted of ""crackers"", actually biscuits. Many of their descendants were sent to the Georgia penal colony, hence ""Georgia crackers."" White people had invented this name for themselves before the first slave was brought to America, although it is still in use today by mostly older blacks referring to whites. Was probably redefined in the days of American slavery by the slavemaster's ""Crack"" of the whip."
+C	Cracker Jack	Whites	Same as cracker only derived from the popcorn
+#	Cremlin	Whites	White Europeans.
+#	Crick Gypsy	Whites	White trash who wander around looking for a job. In West Viginia the only navigable areas are the valleys formed by rivers and creeks(cricks).
+C	Crisco	Whites	Crisco is a white vegetable oil product.
+#	Crizm	Whites	"Some sort of variant of ""cracker."" Unsure of origins, but have heard it used in Florida."
+C	Crudo	Whites	"Literally ""Raw"" in Spanish"
+C	Custer	Whites	Used by Native Americans. I guess it means they want to see them dead like General Custer.
+#	Da Bi Zi	Whites	"Used in China, it means ""big nose."" Da Bi Zi is the phonetic equivalent of ""tabeestu."""
+#	Da Gui	Whites	"Mandarin Chinese term meaning ""big demon""."
+C	Dandruff	Whites	Self-expanatory
+C	DeNiro	Whites	A white man who dates black women
+#	Desabrido	Whites	"Spanish slang for without color, or flavorless with no substance."
+C	Devil	Whites	Used mainly by Blacks to refer to the evil white man.
+C	Dholia	Whites	Indian for white person
+#	Ditchpig	Whites	Redneck kids who play in the ditches/streets.
+C	Ditz	Whites	"Mentally lacking, blonde haired, white women."
+C	Dog-Fucker	Whites	All bestiality porn actors are white
+#	Doozers	Whites	Used to describe white college students who do nothing but party and pull 2.0 GPAs.
+C	Douse	Whites	"Pronounced ""Doosss"". Used by British Blacks of Jamaican heritage. Thought to originate from one of the first white men to reach Jamaica, possibly a sailor"
+#	Dried Shit	Whites	Shit turns white after being left alone
+#	DWB	Whites	Down With Brown. A white female who dates black men.
+C	Egg	Whites	"White males that try to really get into East Asian culture and date Asian women. White on the outside, yellow on the inside (opposite of banana)."
+C	Elvis	Whites	"Used by blacks to describe a white person doing black things, like Elvis did with black music. Eminem is referred to as ""Elvis"" in the film ""8 Mile"""
+C	Eminem	Whites	White male who tries to act Black
+C	Esau	Whites	"Hebrew Israelites refer to whites as being the actual color of ""red"". A white person laughs, gets angry, slapped, and cries, will turn red. Also, being the direct lineage of Easu as oppose to Blacks and American Indians being the lineage of Jacob according to Genenis chp.25 vers 25 and Genesis chp. 36. Doing research of the Roman Empire, you will find that the Romans were known as the Edomites. King Herod was an Edomite and before Rome was known as Rome, it was known as the city of Edom."
+#	Etchy	Whites	"Comes from ""Sketchy"" and denotes the foreman at a jobsite (often with sketchpad in hand)"
+#	Fan Kuei	Whites	"Chinese for ""ocean ghosts"". Refers to skin color."
+K	Farang	Whites	"From the Thai word for French (farangsayt) who were among the first to colonize Southeast Asia. Generally non-derogatory, though depends on context and intention of speaker. Applies to people of non-Thai origin."
+#	Falang	Whites	Means foreigner (i.e. non-Thai) of the white race. It is very frequently used in a simple descriptive way. It's negative only if the intent of the speaker is such.
+K	Farq	Whites	"Arab word, meaning ""chicken,"" used to describe whites and light skinned arabs as in weak and fragile"
+K	Firangi	Whites	"From Arabic ""Firanji"" or ""Firangi"" in Egyptian Arabic, meaning ""European"". Corruption of ""French"" or ""Franks"". Made famous in a slyly ironic way by the ultracapitalist Ferengi on Star Trek."
+C	Firecracker	Whites	"White women who date Black men. There used to be a firecracker called a ""niggerchaser"" but today they are called simply ""chasers."""
+K	Fish-Belly	Whites	Similar color
+#	Flat-ass	Whites	"Used as reference to the flatter backsides of white people, and other non-blacks"
+#	Flat-Back	Whites	Term refers primarily to white women who unlike women of other races have flat butts and no shape.
+C	Flock of Seagulls	Whites	"Making fun of a certain person's hairdo. Derived from the 80's band that made the 1 hit, ""And I ran""."
+C	Flour Bag	Whites	"For the pale, pasty skin."
+C	Frosty	Whites	Frosty the Snowman
+#	Gabacho	Whites	"Connotes ""imperialist""; used by Mexicans and Mexican-Americans; apparently originated in Spain to refer to French."
+#	Gai-jin	Whites	"Japanese equivalent to ""Goyim,"" refers to anyone not Japanese, but especially Westerners. Actually is a shortened version of ""Gai-koku-jin"" (literally ""outside-country-person,"" the NICE way to say ""foreigner."") ""Gai-Ko,"" depending on how it's written in Japanese, can mean ""diplomacy"" (outside-mingle,) ""extroversion"" (outside-facing,) ""outer harbor"" or a Japanese name in which ""ko"" means ""happiness"""
+#	Gai-ko	Whites	"Pronounced ""guy-ko"". Derogatory way of saying gaijin which is 'foreigner' (literally outside person) in Japanese."
+#	Galleta	Whites	"Means ""cookie"" or ""cracker"" in Spanish."
+#	Gavacho	Whites	"Mexican term for white Americans. Used more commonly than the outdated ""Gringo"""
+C	Ghost	Whites	Ghosts are white.
+C	Ghoul	Whites	Ghouls are said to be pale skinned like a dead person
+C	Gilligan	Whites	Goofy white guy from Gilligan's Island.
+#	Goat Roper	Whites	Often used as a term for suburban cowboys.
+C	GOB	Whites	"Stands for Good Ol' Boy, a redneck reference"
+#	Golden Toe	Whites	Whites who don't bathe get golden toes.
+C	Gomer	Whites	White goof Gomer Pyle from the television show of the same name. A spin-off of The Andy Griffith Show.
+K	Goober	Whites	"Black racists in NYC area use it to refer to Whites. Interestingly, the goober peanut was one of the food products imported from Africa for the slaves to eat."
+K	Gora	Whites	Comes from Hindi
+#	Gorilla Head	Whites	Popular White 80s hairstyle called a 'mullet' is similar to a gorilla: short on top and long in the back. Countless small-town White folk still sport them.
+K	Goyim	Whites	"Used by Jews to describe White gentiles or non-Jews in general. Hebrew derivation from the word for nation (goy singular; goyim plural). May or may not be derogatory, depending on your point of view."
+K	Grand Dragon	Whites	Reference to the leader of the KKK.
+C	Gray	Whites	A white that tries to act black (white & black mix = gray). See: Wigger. Could also just as easily be a half black/half white child.
+#	Grayboy	Whites	See: Gray.
+#	Graygirl	Whites	See: Gray.
+K	Gringo	Whites	"This is truly only derogatory in regions of northern Mexico and in the United States where it translates to ""white foreigner."" Gringo in many other countries in Latin America really only translates as ""foreigner"" without a pejorative connotation. Is generally used to refer to all foreigners/tourists of apparently northern European descent. Some say it comes from Spanish ""griego"" (meaning Greek) which used to be used to refer to anything foreign. Others say it comes from hearing Americans sing the popular song ""Green Grow the Rushes"" (unlikely though). Yet others believe it comes from when soldiers were in South America and they all wore green outfits, and they would say, ""Green Go."" Gringa for females."
+#	Guero	Whites	Used by Latin Americans. Supposedly means blonde in northern Mexico.
+C	Guera	Whites	Supposedly means blonde in northern Mexico.
+K	Guerro	Whites	Used by Hispanic-Americans. Light skinned light haired person.
+C	Gump	Whites	"Relatively slow and ungraceful white male athletes, particularly tall white basketball players. From the title character in the movie Forrest Gump."
+#	Gurrya	Whites	"Used by the ""Bundjyma"" Aboriginal people of west-coast and central desert region of Western Australia"
+#	Gusak	Whites	Alaskan Native Dorogatry term for Caucasion
+K	Gwai-lo	Whites	"Cantonese term to refer to any Western person. Translates to 'White ghost' or 'White devil'. The first whites seen in China were sailors. The ships often left on early morning tides or during the night, causing the locals to believe they were ""ghosts"" who were seen and then disappeared."
+K	Haole	Whites	"Hawaiian: Haole is a contraction of ha (breath) and a'ole (no) meaning ""no breath"" used to described foreigners who shook hands instead of greeting nose to nose like the Hawaiians. Almost exclusively used as a derogatory word for whites after the U.S. armed takeover of the Hawaiian Monarchy."
+#	Hawaga	Whites	"Originally a Persian word for ""Lord"". Heard in Egypt. Accent on second syllable."
+#	Khawaga	Whites	"Originally a Persian word for ""Lord"". Heard in Egypt. Accent on second syllable."
+#	Hay Seed	Whites	Slang term for country-farmer-type whites (or all whites in general).
+K	Helo	Whites	Whites who try to immerse themselves in hoodlum culture.
+K	Hick	Whites	"Country dweller, rustic farmer, unsophisticated tourist. The whites that live in the country. Also, Sometimes they make a hicking noise when they are excited."
+K	Hillbilly	Whites	"Redneck, Hick and Hillbilly are all used as derogatory terms for whites."
+K	Hilljack	Whites	Same as hillbilly. Heard often in reference to folks from southern Ohio who moved from Kentucky or West Virginia.
+#	Hillwilliam	Whites	From hillbilly; upscale white trash.
+C	Holly	Whites	"Bastardized form of Haole, what Hawaiians call White people. See: Haole"
+#	Honkaloid	Whites	From a Christ Rock skit on Saturday Night Live where he bemoans lack of racist terms for whites
+#	Honkye	Whites	"Possibly comes from the term ""Honky Tonk"", which is a type of country music. Another interesting theory suggests it originated as ""Hunky"" (and ""Bohunk"") to refer to Slavic and Hungarian immigrants and eventually transformed into ""Honkey"" to refer to all White people. Might also come from the African Wolof word ""Honq"" meaning red or pink and used to describe white men. Yet another theory has it originating from white men honking their horns to call on the lounge singer/prostitute types in 1920's Harlem."
+#	Honkie	Whites	"Possibly comes from the term ""Honky Tonk"", which is a type of country music. Another interesting theory suggests it originated as ""Hunky"" (and ""Bohunk"") to refer to Slavic and Hungarian immigrants and eventually transformed into ""Honkey"" to refer to all White people. Might also come from the African Wolof word ""Honq"" meaning red or pink and used to describe white men. Yet another theory has it originating from white men honking their horns to call on the lounge singer/prostitute types in 1920's Harlem."
+#	Hoopie	Whites	"Term for southerners/poor whites who used barrel hoops as belts, term similar to hillbilly and hick"
+K	Hoosier	Whites	"Rednecks, trailer park trash."
+C	Horseface	Whites	"Elongated whites, such as Nordids, resemble equines."
+C	Howdy	Whites	Howdy Doody
+C	HP	Whites	Human Parasites. Europeans destroy every culture they encounter
+#	Imitasian	Whites	Refers to whites who try to be Asian. Imitation Asians.
+#	Incognegro	Whites	"Whites who act Black. Play off of ""incognito"""
+C	Ivory	Whites	"This is kind of an interesting term, because ""Ebony"" is considered a very good word and used by Blacks to reference themselves (some even name their children ""Ebony""). However, you'll probably never see a White person naming their kid ""Ivory"", and a magazine named ""Ivory"" solely concerning White fashion, beauty, and Superstars will never be made."
+#	Jafaken	Whites	Refers to a white guy with dredlocks
+C	Jane Goodall	Whites	White girl who prefers black men.
+C	John Deere	Whites	John Deere is a popular tractor manufacturer.
+C	John Rocker	Whites	Rednecks. Refers to John Rocker's comments about New York and how it would be something that a stupid ass redneck would say
+K	Johnny Reb	Whites	"Refers to the Rebels in the American Civil War, AKA Southerners"
+#	Kabloonuk	Whites	"Inuit (Eskimo) word for any non-Inuit. Literal translation means ""person with bushy eyebrows."""
+#	Kango	Whites	"Used for white guys who act like black guys, comes form a biscuit that was vanilla on outside choclate on inside"
+C	Keebler	Whites	Reference to Keebler Elf line of snack crackers.
+#	Khao-Khao	Whites	(pronounced: cow-cow) Thai slang referring to whites. Khao means white.
+C	Kook	Whites	Hawaiian surfers use this term towards novice white surfers
+#	Kwai-lo	Whites	"Literally meaning ""Ghost person/guy"". In Cantonese, it's ""guih lo"". Somewhat popular...used to refer to the presence of British people (whites) when China and Britan were at war, towards the end of the 19th century, and the beginning of the 20th. Can be insulting if said the right way"
+#	Lao-wai	Whites	"Applies to all foreigners in China. Literally means ""Old Outsider."""
+C	Lassie	Whites	Tefers to white people smelling like dogs when they get wet
+C	Leche	Whites	Spanish for milk; color of white skin
+C	Lice	Whites	Self-explanatory
+#	Lice-Nester	Whites	Whites are known by many to carry and host lice in their hair when they dont keep it clean
+C	Lily	Whites	From the TV Show 'The Jeffersons'
+#	Linthead	Whites	Poor working-class whites. Refers to airborne cotton lint in textile plants where low-income whites worked.
+C	Lobster	Whites	White people burn red like lobsters when they spend too long sunbathing.
+#	Lofan	Whites	"Anglo-Americans. A Chinese word, not necessarily derogatory."
+#	Lynch-monger	Whites	"Comes from Whites lynching Blacks before and around US Civil War times. ""Monger"" meaning someone who promotes this practice."
+#	MacLord	Whites	"Macintosh users, typically caucasians, are often haughty and arrogant much like English lords of Olde."
+C	Maggot	Whites	"Maggots breed from filth and when the Whites came to America, they brought with them rats and diseases therefore wiping out half of the Native American population. Hence the term ""maggots""."
+C	Marshmallow	Whites	"A traditional, middle-aged caucasian: Soft and White."
+C	Martha Stewart	Whites	"Means like a bad term for white housewife, bored crooked ass homemaker."
+K	Massa	Whites	Black Southern speech. The Negro slaves addressed their Masters in this way.
+#	Mat Saleh	Whites	Malaysian slur for caucasians.
+C	Mayflower	Whites	American whites. Reference to the ship called Mayflower.
+C	Mayonnaise	Whites	Skin color.
+C	MD	Whites	Melanin Deficient
+C	Memphis	Whites	"Dirty white trailor trash people normally resemble the population of Memphis, TN."
+#	Meshback	Whites	For Rednecks. Refers to the mesh-backed caps they wear
+C	Michelli	Whites	Commonly used to refer to Whites living in southern United States.
+C	Milk	Whites	Due to the light color of their skin
+C	Milkhead	Whites	"Very white with a big head. Can be heard in John Waters' ""Female Trouble"""
+C	Milky	Whites	Referring to their racism and white skin.
+C	Missing Tooth	Whites	Redneck whites commonly have missing teeth.
+#	Mister Charlie	Whites	"Lying, Conniving, Untrustworthy white"
+C	Moon Cricket	Whites	"The slur is also used by some Native Americans against whites: ""moon"" as in pale, and ""cricket"" as in whites have big eyes and gangly legs. Whites also make annoying sounds like crickets."
+#	Moss Eater	Whites	White trash in the Pacific Northwest.
+C	Mouse	Whites	"Used by Blacks to refer to nervous (""shook"") white people walking through the ghetto."
+K	Mud Shark	Whites	White girls who date black men.
+#	Mudskipper	Whites	A white woman who dates black men.
+#	Mulletard	Whites	Retarded white trash with a mullet.
+#	Mullethead	Whites	"Bad hair cut (short on top, long in back) rural whites sport fashionably. Could easily be shortened to just ""mullet."""
+#	Mungie Cake	Whites	White sponge cake found in Europe.
+#	Mupp	Whites	Refers to white people who are as filthy as a mop.
+K	Muppetfucker	Whites	Backwoods inbred rednecks of the U.S. south are called muppetfuckers because they look like Muppets.
+#	Musungu	Whites	Swahili word for white people
+C	N.L.B.	Whites	"Nigger Loving Bitch. Represents a woman, while not of the African race, sleeps with those who are."
+C	Neck	Whites	Shortened version of 'redneck.'
+#	Negrophiliac	Whites	"White people with an unhealthly obsession with niggers, derived from necrophiliac."
+C	Nigger	Whites	Irony
+K	Nigger Digger	Whites	A white female who dates black men.
+K	Nigger Magnet	Whites	White girl with a big ass
+C	Night-Rider	Whites	White women who date Black men.
+C	Nightlite	Whites	White people that live in Africa are brighter than others at night
+C	Nilla	Whites	"Used by white people to describe other white people, is offensive if black people say it to whites. (i.e. ""sup mah nilla?"") Mocking the fact that its offensive to blacks when whites say nigger. Reference to the coloring of vanilla flavored foods."
+C	Non	Whites	"Used by Native Americans to describe people who are ""non-native"". This can be directed at any race, but primarily used toward whites. Simply a descriptive word used from native to native."
+K	Ofay	Whites	"Used to be popular with political types who were down with their ""African Roots."" Made popular in the play ""A Raisin in the Sun."" Possibly of Creole origin meaning something similar to ""foe."""
+C	Off Beat	Whites	White people can't dance (well).
+C	Old Fig	Whites	"Figs are white cookies; used by the infamous ""Word Association"" skit on Saturday Night Live with Chevy Chase and Richard Pryor"
+K	Opie	Whites	Blacks call goofy whites this.
+K	Oquizi Ohcha	Whites	Means 'White Devil'. From Africa
+K	Otaku	Whites	A white person that tries to be Japanese in every way
+#	Oyebo	Whites	It literally means peeled skin. It is what the Yoruba people of Nigeria used to call the first Europeans they saw.
+K	Palangi	Whites	Samoan name for Caucasians
+K	Paleface	Whites	"The brim of a cowboy's hat would make an odd suntan across his face. The bottom half would be tanned dark, while the top half remained pale because it was shaded by the brim. The Native American sign for a white person was wiping the index finger across their own face along the bridge of the nose, indicating the border between dark and light skin on a cowboy's face. They came to call the white men ""pale faces""."
+C	Pancake	Whites	"Dark on the outside, white in the middle."
+C	Paris Hilton	Whites	Based off the hotel heiress who represents every negative stereotype about WASP women.
+#	Pastyface	Whites	"Used mainly by Blacks to refer to a really pale White person. The vanilla, creamy color of Whites' skin that seldom gets exposed to the sun. Derogatory in nature."
+C	Patty	Whites	Whites used to pat black people on top of thier head for good luck. Blacks reffered to whites as patty.
+K	Peckerwood	Whites	Originated in the South (pre-Civil War by the slaves). Comes from red-necked woodpecker. See: Redneck
+#	Peckin	Whites	Reminiscent of farm life and chickens pecking the ground when eating seed.
+#	Perm Sperm	Whites	"Meaning they are forever white, since they were a sperm to when they were born through their entire live they stay white like a sperm."
+C	Persuasion	Whites	"Similar sound to Caucasion; Implies their persuasive, scandalous actions and attitudes."
+#	Petrolera	Whites	Used by Hispanics against White Women that like Black Men. Comes from the word Petrolio or Petrolium in Spanish. Indicates that these women like Petrolium because them men they date are black like petrolium
+K	Pig-fucker	Whites	"One who engages in the act of pig-fucking, a favorite pass time among those hailing from rural areas of America's southern states."
+#	Pigmently-Challenged	Whites	Self-explanatory
+C	Pilgrim	Whites	"All white people come from Europe, they claim to be American, but they are not, they are pilgrims. It's a racist term because when white people realize the truth, whatever pride they have in being American will be crushed. This term is mostly used by Mexicans and Native Americans, which happen to be the real Americans, not whites."
+C	Pinewood	Whites	Pine being a whiter colored wood than most.
+C	Piney	Whites	Women who use the pine tree shaped car fresheners as perfume to remove a multitude of smells inherent to the white trash lifestyle.
+C	Pink Toe	Whites	They have pink toes
+#	Pinkaloid	Whites	Refers to skin color
+C	Pinky	Whites	Skin color closer to pink
+K	Pleb	Whites	Derivative of word 'Plebian' maning white middle class common people. Used in Australia.
+#	Po'bucker	Whites	"Corruption of West African ""Buuker"" meaning devil, boogie-man or white man. Poor white trash were referred to as ""Po'buckers""."
+C	Polar Bear	Whites	Refers to their skin tone.
+K	Pooty	Whites	"Derived from Tagalog ""puti,"" meaning ""white"""
+#	Poppin Fresh	Whites	Pillsbury dough boy
+#	Porch Honkey	Whites	White version of porch monkey.
+C	Powder	Whites	Skin color. Might be from the albino guy in the movie Powder.
+C	Powdered Donut	Whites	"See ""Egg"""
+C	Printer	Whites	Printers are generally white. So is the paper that comes out of them.
+C	Pus	Whites	Blacks refer to whites as this because they are thought to infect everything they touch
+K	Pute	Whites	"Pronounced ""poo-tee;"" Filipino-American slang from Tagalog's term for the color ""white"""
+K	PWT	Whites	Poor White Trash
+C	Rabbit	Whites	A reference to the peace sign of the 1960's being similar to rabbit ears. Or could also reference white trash who have lots of children.
+C	Raw Chicken	Whites	Middle aged white women with pot-bellies resemble raw chicken when naked.
+C	Recyclables	Whites	A polite way of saying white trash
+C	Red Beard	Whites	Used by Taiwanese (and other Asians) in reference to whites being hairy and light haired.
+K	Redneck	Whites	"Previously referred only to the rural prejudice whites, mostly farmers, who have reddish necks (or a ""farmer's tan""). However, its usage has become a lot looser and now includes any racist white. See: Peckerwood"
+#	Reverse Oreo	Whites	White slur used by blacks. Meaning white on the outside and black on the inside.
+#	Rhythmless Nation	Whites	"Refers to the fact that white people cannot dance. Janet Jackson also made an album called ""Rhythm Nation"" for people with rhythm (not white people)."
+C	Ric	Whites	White person who tries to act black. Stands for Racial Identity Crisis.
+C	Rice Cracker	Whites	"Whites who try to act Japanese. Defined as those who are obsessed with Japanese culture, including but not limited to: frequently watching/reading and having an expansive knowledge of anime and manga, frequently listening to j-pop, wanting to learn Japanese, playing copious amounts of bemani and RPGS (or just imported Japanese games), collecting Japanese merchandise, driving a rice burner, and wishing to visit frequently or even live in Japan."
+C	Rice King	Whites	White men who date Asian women.
+#	Rice-Chaser	Whites	White men who solely go after (or have a fetish for) Asian women.
+C	Ritz Cracker	Whites	A rich white person.
+C	Rock Spider	Whites	"Term used by English speaking South Africans to refer to Afrikaners. Would not be suprised if used for black people as well, but definately more commonly used towards other whites."
+C	Round-Eye	Whites	Asian derogatory term for American whites.
+C	Rube	Whites	In the same league as hick. See: Hick.
+C	Saltine	Whites	"Same color as skin. Same sentiments expressed as in ""cracker."""
+C	SAW	Whites	"Stupid Ass White. Coincidentally also the word for ""White"" in Cambodian culture or Khmer language."
+C	Serial Killer	Whites	Most serial killers are white.
+C	Serpent	Whites	See: Snake
+C	Sheep Dip	Whites	Describes White Ranchers that have sex with Sheep.
+#	Sheethead	Whites	Refers to the KKK.
+K	Shiksa	Whites	Yiddish word used mainly by Orthodox Jews to describe non-Jewish women or a Jewish woman who doesn't observe all Jewish precepts.
+#	Shit Palm	Whites	They never wash their hands when they go to the washroom
+C	Shit-Kicker	Whites	From farmers or country boys walking through the cow pastures.
+K	Skel	Whites	"White Trash. A centuries-old word that has made a recent comeback, seems to be used mainly by blue-collar whites. Originally meant the lowest form of vagrant."
+#	Skell	Whites	"White Trash. A centuries-old word that has made a recent comeback, seems to be used mainly by blue-collar whites. Originally meant the lowest form of vagrant."
+K	Skinhead	Whites	A popular white supremacist group.
+#	Slackjaw	Whites	A recessive gene cause the lower jaw to protrude outward more than the upper.
+K	Slim Shady	Whites	"From the Rapper Eminem, thought of as a white person who tries to be black."
+#	Smoke Jumper	Whites	White women who date Black men.
+C	Snake	Whites	Refers to them being sneaky and evil.
+K	Snicker Licker	Whites	Whites who date Blacks
+C	Snow	Whites	Snow is white
+C	Snowflake	Whites	"Used in the movie ""Bones"" for a black man's white woman."
+C	Snowman	Whites	Snowmen are white.
+#	Stormwatcher	Whites	Trailer trash that are forced to watch tornadoes while trapped in trailors.
+K	Stump Jumper	Whites	"Rednecks use Stump Jumper or Tree Jumper against hillbillies lower than themselves, but they also use it to point out hillbillies that commit incest- jumping the family tree."
+K	Tree Jumper	Whites	"Rednecks use Stump Jumper or Tree Jumper against hillbillies lower than themselves, but they also use it to point out hillbillies that commit incest- jumping the family tree."
+#	Suddha	Whites	"Sinhala (Sri Lankan language) word for white. Similar to ""Gora"""
+C	Swan	Whites	Slut With A Nigger (S.W.A.N.)
+K	Swine	Whites	Relates to the pink color of the pig's color. Tendency for the pig to lay in or eat anything. (Refers also to police men)
+#	Tabeetsu	Whites	"Used by Chinese. Means ""great-nosed ones""."
+C	Taco Shell	Whites	White women who sleep with Mexicans
+C	Termite	Whites	"Termites are typically white, pale, or clear."
+C	Thug	Whites	Represents white ppl/teenagers or young adults that want to be black.
+C	Tiny Tim	Whites	Reference to White people supposedly having smaller penises.
+#	Tornado Bait	Whites	Refering to trailer trash conmonly hit by tornadoes
+#	Toubob	Whites	"Toubob was the Mandika word for whites in the novel ""Roots"""
+K	TPT	Whites	"Short for ""trailer park trash."""
+C	Trailer Trash	Whites	"Similar to ""White Trash"" but only used for lower-class Whites who live in trailer parks."
+C	Trash	Whites	"Self-explanatory. Usually used as ""White trash,"" ""Poor white trash,"" or ""Trailer trash."""
+#	Tree-Looper	Whites	"Rednecks are commonly known for incest, thus 'looping' the family tree"
+C	Triscuit	Whites	White trash so bad they are worse than a cracker
+C	Trog	Whites	"Used by Police in relation to unemployed whites. Short for Troglodyte or ""cave dweller."""
+C	Turkey	Whites	Turkey is white meat
+#	Umlungu	Whites	"Zulus called whites this, meaning the white scum that forms in the surf."
+C	Uncle Daddy	Whites	Rumors of inbreeding in the Appalachians.
+C	Vamp	Whites	"Possibly the lack of melanin resembles the pale skin of a vampire. Another reason could be vampires need blood, and whites tend to look cold and in need of a blood transfusion."
+C	Vanilla	Whites	Originates from vanilla ice cream and the white pop star Vanilla Ice.
+C	Vanilla Ice	Whites	In reference to the singer Vanilla Ice.
+#	Wadjyla	Whites	"Mainly used by the ""Nyoongar"" Aboriginal people of south-west Australia. Pronounced ""wad-jah-lah."""
+K	WAM	Whites	White American Male
+#	Wankster	Whites	A white person acting as a gangster.
+C	WAP	Whites	"Means ""White American Princess"". Arrogant female whites who flaunt their money around and demand the finest things in life."
+K	Wapanese	Whites	Used to describe a white person who is obssesed with japanese culture. This would include manga/hentai/and anime.
+#	Washisho	Whites	Pronounced Wa-She-Shoo; is a typical reservation slur for Native Americans to use when talking about white people in a derogatory manner.
+#	Wasian	Whites	"Combination of ""wigger"" and ""Asian"". Refers to White people who are infatuated with Asian culture and society. Usually in reference to males."
+C	Wasp	Whites	"Stands for ""White Anglo-Saxon Protestant."" Refers to ""Pure whites."""
+C	Weaner	Whites	Short for White Beaner (like wigger). Refers to a white guy that acts like a beaner.
+#	Wegro	Whites	Same as wigger.
+C	Wet Dog	Whites	"When white people sweat/get wet, they smell like wet dogs."
+C	Whack	Whites	Combination of white and black. Whites who act black.
+C	Wheat Thin	Whites	Represents skinny white women with a tan.
+C	Whiskey Tango	Whites	White trash in the military
+C	White Chocolate	Whites	Whites who try to act like Blacks.
+K	White Devil	Whites	"This was and still is used by Black Muslims, who believe whites are spawns of the devil. Malcolm X used this slur."
+C	White Eye	Whites	Term used by Indians in the late 1800's to describe white settlers.
+C	White Out	Whites	Used by non-whites describing places uncomfortably too white
+#	Whitebread	Whites	Self-explanatory
+K	Whitetrash	Whites	Lower class whites. Self-explanatory.
+K	Whitey	Whites	Self-explanatory.
+C	Wic	Whites	'White Irish Catholic'
+K	Wigger	Whites	"Affluent suburban white kids who dress, talk and act like they were brought up in the ghetto."
+#	Wiggerette	Whites	Same as Wigger only for women.
+#	Wigglet	Whites	Young whites that think they are black.
+#	Windian	Whites	White people who try to act like they're Indian
+C	Wink	Whites	White person trying to be like or associates with Chinese.
+C	Winkle	Whites	Robert Van Winkle (aka Vanilla Ice)
+C	Won Ton	Whites	A white person who wants to be asian
+C	Wonder Bread	Whites	Wonder Bread is white.
+C	Wood	Whites	Short for Peckerwood.
+C	Wound	Whites	"Used when Native Americans and Blacks describing Whites whom they see as hurting them many times in present and past and represent an ongoing unhealed open wound, also wounds are often pink in color (the open sore) so it represents the color of many whites who look pink"
+C	WT	Whites	White Trash.
+C	WTT	Whites	White Trailer Trash
+#	Yakoo	Whites	From a Christ Rock skit on Saturday Night Live where he bemoans lack of racist terms for whites
+K	Yaku	Whites	1960's Black Panther slang. Still used today
+#	Yan Kwi Ze	Whites	"White Westerner (esp. British), often preceded by ""chow"" (stinky) or ""si"" (goddamned)."
+#	Yang Gui Zi	Whites	"White Westerner (esp. British), often preceded by ""chow"" (stinky) or ""si"" (goddamned)."
+#	Yang Guizi	Whites	"Mandarin Chinese: ""Foreign Devil"" pronounced: yahng GWAY zi"
+C	Yeehaw	Whites	Common cowboy/redneck saying.
+K	Yo Boy	Whites	White person who tries to act black.
+K	Yo Girl	Whites	White person who tries to act black.
+C	Yogurt	Whites	Same color
+C	YT	Whites	"Pronounced ""White e"" Used by blacks."
+C	Yuppie	Whites	"Young Urban Professional. Refers to a person with a well paid professional occupation and a well-to-do lifestyle. Used frequently in the 1980s. Not necessarily white, but more common amongst them."
+#	Zeeb	Whites	An alternate usage for the word wigger.
+K	Weeaboo	Whites	" Used to describe a white person who is obssesed with japanese culture. This of course, would include manga and anime."

@@ -1,0 +1,57 @@
+#	Black Dagos	Italians	Believed that some Sicilians are part Black.
+C	Bologna	Italians	"Reference to Bologna, Italy"
+C	Brown Pants	Italians	From the color of their uniforms in WW II. Said by American GIs to hide when they defecate themselves on the battlefield.
+C	Brown Shirts	Italians	From the color of their uniforms in WW II. Said by American GIs to hide when they defecate themselves on the battlefield.
+C	Burnt Pizza	Italians	Slur towards dark skinned Italians
+C	Calzone	Italians	Italian food
+K	Dago	Italians	"Slang for Italian, originally coming from Spain. ""Diego"" was a common name in Italy at the time this slang was first used. See: Wop."
+#	Dagowop	Italians	Combination of two slurs.
+C	Fonzie	Italians	"Happy Days character Arthur ""Fonzie"" Fonzarelli."
+C	Garlic Bread	Italians	Self Explanatory.
+C	Garlic Breath	Italians	They eat a lot highly spiced dishes seasoned with garlic
+C	Geep	Italians	"From Pinnochio's ""father"" Gepetto, who was Italian."
+C	Gina	Italians	Female term for Gino
+#	Ginny	Italians	"In reference to popular Italian garb Ginny T's, now more commonly known as wife beater shirts."
+C	Gino	Italians	Common Italian name A Toronto municipal politician recently got into hot water for using this slur.
+K	Ginzo	Italians	From Guinee/Guinea.
+C	Goombah	Italians	"From the Italian word ""Compare"" (pronounced 'cumpa') meaning ""a close friend."" Considered a slur when used by non-Italians to describe an Italian male. Was first used by Louis Prima who was famous for bastardizing the Italian language in his witty songs for his American audience. The Goomba is also the weakest enemy in Nintendo's Super Mario Bros. video game series."
+#	Grape-Smasher	Italians	"Smash grapes with feet to make wine, hence grape smasher"
+#	Grape-Stomper	Italians	They make wine.
+K	Grease Ball	Italians	Multiple origins. The most common being that the Italian people supposedly have an abnormally oily dermis and epidermis.
+K	Guido	Italians	Northern term referring to Italians who try to portray a mafia mentality. Feminine version is Guidette.
+C	Guinea Pig	Italians	An overweight Italian
+C	Guinea	Italians	"Pronounced ""gi-nee."" Came from ""Guinea Negro"" and originally referred to any Black or any person of mixed ancestry. This dates back to the 1740's. By the 1890s it was being applied to Italians--almost certainly because they tend to have darker skin than Anglo-Saxons/Germans. By 1911 the term began being applied to Hispanics, although the reference to Italians is the most common. Derived from Sicilian immigrants who paid in Italian currency, Guineas. Used in the film 'True Romance' as separate from WOPs from Northern Italy, and in The Godfather by a Northern Italian character when referring to Southern Italians and Sicilians. Source on origin"
+C	Ginney	Italians	"Pronounced ""gi-nee."" Came from ""Guinea Negro"" and originally referred to any Black or any person of mixed ancestry. This dates back to the 1740's. By the 1890s it was being applied to Italians--almost certainly because they tend to have darker skin than Anglo-Saxons/Germans. By 1911 the term began being applied to Hispanics, although the reference to Italians is the most common. Derived from Sicilian immigrants who paid in Italian currency, Guineas. Used in the film 'True Romance' as separate from WOPs from Northern Italy, and in The Godfather by a Northern Italian character when referring to Southern Italians and Sicilians. Source on origin"
+#	Hightalians	Italians	"Spoiled, rich, brown-noising Italians"
+C	Hothead	Italians	Self-Explanatory. Italian men are often very short tempered and hot headed
+#	I-Tie	Italians	"Old-fashioned epithet, derived from the 1st 2 syllables in ""Italian"" with a corruption of the 2nd syllable."
+#	IROC	Italians	Italian Retards Out Crusing. IROC Camaros are popular among east coast Italians.
+#	Jabonee	Italians	"What American-born Italians call immigrant Italians, as in ""He/she is a real Jabonee right off the boat. Can't even speak English."" Possibly a real Italian word bastardized by English-speaking Italian-Americans."
+#	Katzenfresser	Italians	"German slur meaning ""cat eater""."
+#	Laposta	Italians	"Italian slang for lazy person with a small dick. In some areas its used to describe someone unusually skinny, pedophilia, and I've even heard homosexual. The word has different meaning based on where its said, but it all references Italians."
+C	Luigi	Italians	"Famous Italian videogame plumber. Used to refer to tall, thin Italians"
+C	Macaroni	Italians	The famous macaroni noodle originated in Italy.
+#	Makaronifresser	Italians	"German. Fressen is impolite term for eating (people essen, but animals fressen)."
+C	Mario	Italians	Famous Italian vidoegame plumber. Used to refer to fat Italians.
+C	Meatball	Italians	Self-explanatory
+#	Mingia	Italians	In Sicilian dialect it means 'dick'.
+#	Pizza Nigger	Italians	"Italians are said to wholly enjoy pizza, as it is considered their national dish to the rest of the world."
+#	Polentone	Italians	Northern Italians because of the Polenta that they eat in the north. It came in response their use or Terrone for Southern Italians
+#	Provolone	Italians	"Italian-Americans who act ""overly Italian"" with attitude and gold chains (i.e. cheesy)"
+C	Ragu	Italians	Spaghetti sauce.
+C	Rizzo	Italians	Rizzo's pasta sauce advertises on dumpsters
+C	Salami	Italians	Italian body odor is often reminiscent of salami
+#	Spaghetti Vender	Italians	Self explanatory
+#	Spaghetti-Slurper	Italians	Popular Italian dish and method of eating said dish
+#	Spaghetti-Twister	Italians	Popular Italian dish and method of eating said dish
+#	Spaghetto	Italians	Italians who act Black
+C	Spider	Italians	Reference to a character in the film GoodFellas.
+C	Stallion	Italians	"Like in the movie Rocky, Rocky an Italian, was know as the Stallion."
+#	Terrone	Italians	"Southern Italians. Any Italian living more south than Rome, very offensive, describes living standards and cultural differences from the more European north. The Italian word ""Terra"" means land or dirt so a Terrone is one who works with the land."
+C	Tony	Italians	"Started when there was a big Italian emigration to the U.S. Their Luggage would say ""TO NY"" (New York)."
+C	Tony Soprano	Italians	Suggests that all Italians are in the mob
+#	Wallione	Italians	"In addressing a fellow Italian, but condescending when used by non-Italians"
+C	Whopper	Italians	Basically the idea of a WOP but in a more easily said slur
+#	Wonder Bread Wop	Italians	"Used by Italians to describe Italians who are more assimilated into ""North American"" culture."
+K	WOP	Italians	"High class Italian. Stands for ""With Out Papers."" Started when there was a big Italian emigration to the U.S., and many were coming in illegally (with out papers). Also could mean ""Working On Pavement"", or refer to ""guappo,"" (pronounced ""woppo"") a slang Italian (Neapolitan dialect) word meaning criminal or bully (strong person)."
+C	Zip	Italians	"Used by some Italian-Americans to refer to new Italian immigrants because of how fast they are able to speak the old language. The term was coined by National Enquirer founder Fortune Pope, Sr. and his friend Joe Bonanno in the 50's or 60's."

@@ -1,0 +1,32 @@
+C	Angie	Canadians	"English-speaking Canadians. Short for ""Anglophone"" and used in Quebec, especially for Anglophones in Quebec province itself. Also: Anglo"
+#	Bay Frog	Canadians	Hudson Bay + Frog. Specifically refers to French descendents from Quebec
+#	Cankee	Canadians	Canadian-Yankee.
+#	Cankie	Canadians	Canadian-Yankee.
+C	Canuck	Canadians	"From Johnny Canuck, emerging in 1869 as a ""younger, simpler cousin to America's Uncle Sam or Britain's John Bull."" Reborn during World War II as Canada's 'defender from the Nazi menace.' Could only be a slur if you say it the right way."
+#	Canucklehead	Canadians	Diminutive of Canuck.
+#	Canyada	Canadians	Insulting Canada as being as unimportant as our neighbors to the South (Mexico). Usually refferred to Canyada-our 51st state.
+C	Cheeser	Canadians	Used primarily in northern Washington State. Refers to Canadians who cross the border to shop for big blocks of inexpensive American Cheese.
+C	Cheesehead	Canadians	Used primarily in northern Washington State. Refers to Canadians who cross the border to shop for big blocks of inexpensive American Cheese.
+#	Dryback	Canadians	Canadian cross the border on land mostly unlike many Mexicans who do so via the Rio Grande (see Wetback)
+#	Frostback	Canadians	"A play on ""wetback"", altered to fit Canadians."
+C	Gord	Canadians	Generic Canadian name
+K	Hoser	Canadians	A lower-class white guy who drinks beer and watches hockey.
+K	Ice Nigger	Canadians	It's cold in Canada. Coined by comedian Scott Thompson from the Kids in the Hall.
+#	Iceback	Canadians	Another take on frozen Wetback. See Frostback.
+C	Mape	Canadians	Maple leaf on their flag.
+#	Maple Leaf Nigger	Canadians	Their flag has a maple leaf on it.
+#	Maple-Sucker	Canadians	Refers to Canadian people and the assumption that they consume lots of maple syrup
+#	Moosefucker	Canadians	"Tom Green, a Canadian, mocked sexual contact with a moose on his television show."
+	Nade	Canadians	"Shortened form of ""Canadian."" Nades is a 2v1 game of tennis."
+	Newfie	Canadians	Newfoundlanders. Some of the people from Newfoundland are considered to be less intelligent.
+	North Mexican	Canadians	Because Canada is on the north side of the U.S. Border
+	Pineback	Canadians	"Canadians in the United States illegally. Wetbacks have to cross a river, pinebacks deal with pine trees."
+	Puck	Canadians	Reference to their over-indulgence in the game of Hockey.
+	Puck-Chaser	Canadians	Due to mass love of hockey
+	Puckhead	Canadians	For their love of hockey.
+	Rubberhead	Canadians	Heads bounce off ice in hockey games.
+	Seal-Fucker	Canadians	"Extension of sheep-fucker, roo-fucker, etc."
+	Shoobie	Canadians	Reference to tourists from Canada who come to the shore. Also reference to any tourist.
+	Snow Bird	Canadians	The Snowbirds are a group of Canadian airforce pilots who display their flying at air shows.
+	Snow Monkey	Canadians	Lots of snow in Canada
+	Snowback	Canadians	Play on 'wet-back'.

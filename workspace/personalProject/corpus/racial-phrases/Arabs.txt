@@ -1,0 +1,116 @@
+#	Abba-Dabba	Arabs	"Used in the movie ""Betrayed"" by rural American hate group."
+C	Abdul	Arabs	Common name.
+#	Abi-Dabi	Arabs	"A mispronunciation of the capitol city of The United Arab Emarites, which is Abu-Dhabi"
+C	Ahab	Arabs	"From the song ""Ahab, the A-rab"""
+C	Aladdin	Arabs	One Thousand and One Nights
+C	Alphabet	Arabs	Many names seem to use every letter of the alphabet.
+#	Aravi	Arabs	Hebrew word for arabs
+C	Atta	Arabs	"Taken from the 9/11 terrorist who flew a plane into the World Trade Center, Mohammed Atta"
+K	Bara	Arabs	Arab spelled backwards.
+C	Batman	Arabs	Women of the Islamic faith who wear a cape(loosely) and mask similar to that of Batman.
+K	Beur	Arabs	"Verlan (French slang) for ""reube"", which is itself verlan for ""Arabe"". Usually used for children of migrants from Maghreb settled in France in the 60-70's. Not inherently derogatory."
+C	Bin Laden	Arabs	Self-explanatory
+C	BMO	Arabs	Muslim Women. Stands for Black Moving Objects - refers to the complete head-to-toe black dress of Muslim women.
+#	Bomb-Builder	Arabs	Many terrorists nowadays are Arabs.
+C	Boxcutter	Arabs	September 11th
+C	Cabbie	Arabs	"A large portion of cab drivers seem to be foreigners, mostly of Arab or Indo descent."
+#	Cairo Coon	Arabs	Variant on sand nigger.
+#	Camel Cowboy	Arabs	They ride camels like cowboys ride horses.
+#	Camel Crunch	Arabs	"From the cereal ""Captin Crunch"" only the Arabian version"
+K	Camel Jockey	Arabs	From camels being a major form of transportation in the Middle Eastern countries.
+K	Camel-Fucker	Arabs	Refers to lonely Arab shepherds.
+#	Camel-Jacker	Arabs	"A take off on Camel Jockey and Camel-Humper. This refers to the act of ""stimulating"" a camel by hand."
+#	Carpet Pilot	Arabs	Reference to Aladdin and his magic flying carpet. Also: Carpet Jockey
+#	Cave Nigger	Arabs	Osama Bin Laden reference
+#	Center Denter	Arabs	Destroying the World Trade Center
+C	Checkpoint	Arabs	They get stopped at all airport security checkpoints.
+#	Clit-Chopper	Arabs	Female circumcision
+#	Clitless	Arabs	From the practice of female circumcision in some parts of the Arab world
+#	Clit-Swiper	Arabs	Female circumcision is a common practive in some Arab countries
+C	Crunchy	Iraqis	"Used by US Marines in the second Iraq war. When the US attacked Iraq, Saddam Hussein allegedly told his troops that the American tanks were made of cardboard. So the Iraqi soldiers would jump out in front of the tanks, they would make a crunching sound."
+#	Dahiti	Iranians	Like a hillbilly or redneck; a villager or someone from the country
+#	Dees-Right	Arabs	"Arab people always ask ""Is dees right, Is dees right?"" (meaning 'is this right?')"
+#	Demi-nigger	Arabs	Somewhat lighter skin tone than Blacks.
+#	Derka Derka	Arabs	From Team America: World Police.
+#	Diaper-Head	Arabs	Same idea as Towel-head or Rag-head.
+C	Dirty Knees	Arabs	In reference to the daily Muslim prayings on their knees
+C	Double D	Arabs	Desert Darky
+K	Dune Coon	Arabs	Comes from 'coon' (Blacks) of the 'dunes' (sand dunes) in the Middle East. Also just Dunecoon
+K	Dune Nigger	Arabs	Same ideas as Doon Coon and Sand Nigger.
+#	Durka-durka	Arabs	"How English-speakers hear their language(s). From the film ""Team America: World Police"""
+#	Dusty Nuts	Arabs	It comes from Arabs living in the desert.
+C	Ewok	Arabs	"Refers to Muslim religious headdress resembling that worn by the Star Wars characters, ""Ewoks."""
+C	Fadi	Arabs	"Common Arab name, plural is Fadii (Fa-Die)."
+C	Fez	Arabs	"They wear fezes, the little hats."
+#	Fig Gobbler	Arabs	They eat figs.
+C	Firecracker	Arabs	They blow themselves up.
+K	Fremen	Arabs	"A reference to the Dune series of novels. Their nomadic lives in the desert are similar to that of Arabs. In addition, they also speak Arabic."
+C	Gimmie	Arabs	"7-11 workers, ""gimmie"" a dollar"
+#	Glass Nigger	Arabs	"If an atomic weapon were to go off, sand niggers would become glass niggers."
+#	Goat Roper	Arabs	"See Camel Jockeys, etc."
+C	Grenade	Arabs	They blow themselves up.
+C	Habibi	Arabs	"Translates in Arabic to ""Beloved"". Technically a term of affection but still sounds funny."
+#	Hucka-lucka	Arabs	Derived from the sound of them speaking (as heard by a dumb American).
+#	Hurammi	Arabs	Arabic word for thief.
+#	Iraqi Pete	Arabs	From the Staurday Night Live character played by Adam Sandler.
+K	Jacker	Arabs	Many prominent hijackings over the past 25 years were done by various Arab/Islamic fundamentalist groups.
+C	Jawa	Arabs	Sand people from Star Wars (used to refer to Arabs on South Park)
+#	Jig-Abdul	Arabs	Mid-East version of 'Jigaboo'
+#	Jihad	Arabs	"A word used by militant Muslims in reference to purging the world of infidels. Translates roughly to ""struggle""."
+#	Jihadi	Arabs	Mosslems in India have been branded after Jihad.
+#	Land Torpedo	Arabs	Car bombers.
+#	Landya	Arabs	Actually means 'cut cocks' because of the rite of circumcising followed by Muslims.
+C	Lefty	Arabs	Thieves in the Arab countries get their hand chopped off.
+C	Mocha	Arabs	Skin color (not quite black).
+C	Moor	Arabs	"For the Muslims that invaded Europe during the Middle Ages. Also used as derogatory against those of ancestry where the Moors settled (Spain, Sicily) - they are ""part Moor""."
+C	Muhammad	Arabs	Common name.
+K	Muzzie	Arabs	"A lot of Arabs are Muslims. Muslim, Muzzie."
+#	Naffer	Arabs	Naf short for North-African
+#	Ocnod	Arabs	"A bastardization of Achnad, a common Arab name."
+C	Oil Baron	Arabs	Self explanatory
+C	OPEC	Arabs	The Organization of Petrolium Exporting Countries
+K	Osama	Arabs	"Osama Bin Laden, obviously"
+C	P.L.O.	Arabs	Palestinian Liberation Organization
+#	Pajama Mamma	Arabs	Arab (and/or Muslim) women wear clothes that resemble pajamas
+#	Papa Ganoush	Arabs	"A play on the arabic food baba ganoush, an eggplant and garlic sauce which is often consumed by arabic people."
+#	Peanut Butter Brother	Arabs	Not quite White; Not Quite Black. The color of peanut butter.
+#	Pube Face	Arabs	They have pubes on their chins
+#	Q-Tip Head	Arabs	Turbans/other headdress
+C	Rab	Arabs	"Rab short for ""Arab"""
+C	Racoon	Arabs	Dark around the eyes
+K	Rag-head	Arabs	Referring to common head dressings of middle easterners.
+#	Raq-Coon	Arabs	As in Iraqi coon (see: coon)
+#	Roach-Rancher	Arabs	"Their apartments often have roaches, which they are forbidden to kill."
+#	Rock-Chucker	Arabs	They don't have guns so they throw rocks
+C	Roman Candle	Arabs	Suicide bomber who's bomb doesn't go off as planned.
+#	Rug Merchant	Arabs	Obvious
+#	Rug Pilot	Arabs	Same as Carpet Pilot
+#	Rug-Rider	Arabs	See: Rug Pilot.
+#	Sand Flea	Arabs	Parasitic sand dwellers.
+#	Sand Kisser	Arabs	"When kneeling to Mecca, Arabs bend in a position enabling them to kiss the sand."
+K	Sand Monkey	Arabs	Same as sand nigger.
+#	Sand Moolie	Arabs	"Same idea as Sand Nigger, only with Moolie."
+K	Sand Nigger	Arabs	Arabs generally live in sandy places.
+K	Sand Rat	Arabs	Self Explanatory
+#	Sand Scratcher	Arabs	Demeaning to people living in deserts
+C	Sandies	Arabs	Specifically Afghani's & Iraqi's. Used by the 82nd Airborne in 2003.
+C	Sandy	Arabs	Yet another sand reference
+#	Sandy Crockett	Arabs	Patriotic arab. Play on Davey Crockett.
+C	Shit Hand	Arabs	"Refers to the Arab custom of wiping one's butt with the left hand, rather than with toilet paper."
+C	Sleeper Cell	Arabs	Terrorism-related
+C	Slurpee	Arabs	Traditional convenience store employee.
+#	Slurpee Nigger	Arabs	"Operation of convenience stores, which sell Slurpees."
+#	Slushee-Slinger	Arabs	In reference to how many Arabians deal slushees out of their convenience stores.
+C	Snake Charmer	Arabs	"Known to frequently ""charm"" Cobra snakes."
+C	Snigger	Arabs	Short for Sand Nigger
+C	Stan	Arabs	"AfghaniSTAN, PakiSTAN, etc."
+#	Sun Goblin	Arabs	"Small, ulgly, vicious creatures of a sunny land"
+#	Sunarefa	Arabs	"Used by Russian metal band Korrozia Metalla on the song (title translates to) ""Kill The Sunarefa."" Sunarefa refers to a Soviet brand of cold medicine. I do not know if Korrozia Metalla (Corrosion of Metal) were the first to use this slang or how it came about, but it seemed very widly understood among Russian youth."
+#	Terr-ab	Arabs	Short for terrorist-Arab
+C	Terrorist	Arabs	Self explanatory.
+#	Towel-head	Arabs	Referring to a popular Muslim headdress. Also: Rag-head.
+#	Towlie	Arabs	Self explanatory
+C	Turco	Arabs	"Used primarily in Spanish-speaking countries, and South America in particular as a derogatory term for people of Arabic descent. It means ""Turk,"" a much-hated nation by other Arabic states, in Spanish."
+C	Tuskan Raider	Arabs	"Inspired by Star Wars, they are the sand people with the spears."
+#	Urban Turban	Arabs	Arab who tries to act black
+C	Zeb	Arabs	"Zeb is the Arabic word for ""dick"""

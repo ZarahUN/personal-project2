@@ -1,0 +1,125 @@
+#	Beaner Shnitzel	Mixed Races	German/Hispanic mix
+C	Bink	Mixed Races	"Black/Chinese Mix. Black person with Chinese or ""Chink"" blood"
+C	Black Bean	Mixed Races	Mexican/Black. Self Explanitory
+K	Blackanese	Mixed Races	Black/Asian mix; from a line by Chris Tucker in Rush Hour 2
+K	Blaxican	Mixed Races	"Black/Mexican mix. Pioneered by the Black/Mexican hip-hop group ""Delinquent Habits""."
+C	Blew	Mixed Races	Black/Jewish Mix.
+#	Brass Ankle	Mixed Races	Refers to a person of black and white heritage who passes for a white person. Unsure of origins.
+C	Bumblebee	Mixed Races	Black/Oriental couple or mixed child.
+C	Calf	Mixed Races	White/Black mix. A child with a white mother and black father.
+#	Canasian	Mixed Races	Canadian/Asian mix. Used in the US to describe annoying Asians that come down from Canada to shop.
+C	Caramel	Mixed Races	"Not chocolate, not vanilla, Caramel"
+#	Cascos	Mixed Races	White/Black mix. Describes the offspring of two mulattos. See: Mulatto.
+#	Caublasian	Mixed Races	"A caucasian, black, and asian person. Pronounced ""Kuh-blasian"" (example: Tiger Woods)"
+C	Chack	Mixed Races	Chinese/Black
+#	Cheese Nip	Mixed Races	White/Japanese. Mix of Cracker and Nip
+C	Chew	Mixed Races	Chinese/Jewish
+#	Chex Mex	Mixed Races	Czech / Mexican
+C	Chex Mix	Mixed Races	Chinese/Mexican
+#	Chexican	Mixed Races	Mexican/Chinese mix
+C	Chic	Mixed Races	Chinese/Mexican
+#	Chinig	Mixed Races	Chinese/Black mix. Combination of 'Chink' and 'Nigger'
+#	Chinkaboo	Mixed Races	Chinese/Black mix (Chink + Jigaboo)
+#	Chinkamo	Mixed Races	Half Chinese/Half Inuit Eskimo
+#	Chinxican	Mixed Races	Chinese/Mexican mix.
+#	Chonkey	Mixed Races	Chinese/White
+C	Chop	Mixed Races	Chinese/Italian. Chink + wop = chop.
+#	Chromey	Mixed Races	Black/Whites mix. What the old-timers called them when I was a kid fifty years ago.
+C	CJ	Mixed Races	Chinese/Jew
+C	Cookies 'n Cream	Mixed Races	Black/White
+#	Czigger	Mixed Races	Black Czechs
+#	Dexican	Mixed Races	Dutch/Mexican mix.
+C	Domino	Mixed Races	Black / White
+C	Eggplant Parmesan	Mixed Races	Black/Italian mix
+C	Flipper	Mixed Races	Fillipino/Black Mix. Combination of Flip and Nigger.
+#	Flipsican	Mixed Races	Mexican Filipino
+C	Graham Cracker	Mixed Races	White/Black mix or a light skinned black who acts white
+#	Greek-arican	Mixed Races	Puerto Rican/Greek Mix. Common racial mix in NY city.
+C	Green Bean	Mixed Races	Irish/Mexican mix
+C	Half Baked	Mixed Races	Black/White mix.
+K	Half Breed	Mixed Races	"A person who is, for example, of both Black and White ancestry."
+K	Half Cast	Mixed Races	Black/White
+#	Halfrican	Mixed Races	Black/Any other race. Represents a person that is half African. Also: Halfrican American
+#	Halfro	Mixed Races	White/Black Mixed Race
+#	Halfula	Mixed Races	"Black/White mix. Pronounced like ""Dracula"""
+#	Heebarican	Mixed Races	Jewish/Puerto Rican mix
+C	Heinz	Mixed Races	"Any mix of races. From the label on the ketchup bottle reading ""57 Varieties."""
+#	Indijew	Mixed Races	Native American/Jewish
+C	Jagger	Mixed Races	Japanese / Nigger
+#	Jewban	Mixed Races	Jewish/Cuban Mix.
+#	Jewop	Mixed Races	Jewish/Italian mix (Jew+Wop).
+#	Jewrab	Mixed Races	Jewish/Arabian mix.
+#	Jewrican	Mixed Races	Jewish/Puerto Rican mix.
+#	Jewronimo	Mixed Races	Jew/Native American mix (Geronimo)
+K	Jewxican	Mixed Races	Jewish/Mexican mix.
+#	Jigabrew	Mixed Races	Black/Jew mix (Jigaboo and Hebrew)
+C	Jigger	Mixed Races	Jewish/Black mix. Jew + Nigger.
+#	Jink	Mixed Races	Jewish/Chinese.
+C	Juban	Mixed Races	Jewish/Cuban
+C	Kink	Mixed Races	"Half Jew, half Chinese (kike + chink)"
+C	Latte	Mixed Races	White and usually Mexican due to color of skin being similar to the coffee drink.
+#	McChigger	Mixed Races	Irish/Chinese/African American mix
+#	McKraut	Mixed Races	German/Irish person. Used in the Godfather trilogy.
+#	McSpic	Mixed Races	Mixed race of Irish and Hispanics
+#	McWop	Mixed Races	"Irish/Italian, Mick and Wop, play on common Irish last names."
+#	Mexicoon	Mixed Races	Mexican/Black mix.
+#	Mexijew	Mixed Races	Mexican/Jewish mix.
+#	Meximese	Mixed Races	Mexican/Vietnamese
+C	Milano	Mixed Races	Black/White mix. In reference to the cookie.
+K	Mongrel	Mixed Races	"When dogs of two different breeds, breed. The offspring is called a mongrel breed"
+C	Mud	Mixed Races	"Black/White mix, or white women who date black men"
+#	Mullato	Mixed Races	"Black/White mix, usually. The Spanish ""Mullato"" translates to ""like a mule."" Could refer to any mixed breed."
+C	Mutt	Mixed Races	Any mix of races. The regular use of 'mutt' refers to dogs of mixed breed.
+C	Newspaper	Mixed Races	Newspapers are Black & White.
+#	Nigdu	Mixed Races	"Nigger + Hindu. Half black, half Indian. Also an Indian trying to act black."
+#	Niggerican	Mixed Races	Black/Puerto Rican mix.
+#	Nigook	Mixed Races	Nigger + gook. Self explanatory.
+C	Nike	Mixed Races	Nigger + Kike = Nike
+C	Ninky	Mixed Races	Black/White mix. See Carlton or Zebra. It can be both.
+#	Niptai	Mixed Races	Japanese/Thailandese
+#	Octoroon	Mixed Races	A person who is 1/8th Black. Originated by the Spanish in the 14th/15th century as they were very exact in their racial classifications to determine a person's worth in society.
+#	Osrouge	Mixed Races	Native American/Black mix. Rouge means 'Red' in French.
+#	Pakoniggy	Mixed Races	Pakistani/Black mix.
+#	Pikajew	Mixed Races	A Jewish Asian.
+#	Pinky Poop	Mixed Races	Vietnamese/Black mix. For when Black soldiers had kids with Vietnamese women.
+C	Pinto	Mixed Races	White/Native American mix. Pinto horses are white and brown.
+#	Pizzabagel	Mixed Races	Italian/Jewish mix. Popular in New York as Italian and Jewish neighborhoods grew together.
+#	Polarican	Mixed Races	Polish/Puerto Rican mix.
+#	Polexican	Mixed Races	Polish/Mexican mix.
+#	Portajew	Mixed Races	Puerto (Porta) Rican/Jewish mix.
+#	Portawop	Mixed Races	Portuguese/Italian mix
+#	Puerto Grecan	Mixed Races	Puerto Rican/Greek Mix. Common racial mix in NY city.
+C	Puke	Mixed Races	Polish/Ukrainian
+#	Race-Traitor	Mixed Races	White/Any other race mix. Term used by whites for any person of mixed race or who marries a non-white..
+#	Racial Slurry	Mixed Races	Self-Explanatory
+#	Rasta Fazoul	Mixed Races	Jamaican/Italian. Pasta Fazoul mixed with Rastafarian.
+C	Rice Cracker	Mixed Races	Asian/White mix
+C	Roo	Mixed Races	Russian Jew
+C	Scap	Mixed Races	Scottish/Japanese mix.
+C	Skunk	Mixed Races	White/Black mix
+C	Soggy Cracker	Mixed Races	White/Mexican. Wetback and Cracker.
+C	Soup	Mixed Races	A person who has many different races in his blood.
+#	Spegro	Mixed Races	Spanish/Black mix.
+C	Spew	Mixed Races	Spanish/Jewish mix.
+#	Spickaboo	Mixed Races	Mexican/Black mix. Derived from 'Spic' and 'Jigaboo.'
+#	Spicracker	Mixed Races	Hispanic/White mix.
+#	Spicy Cracker	Mixed Races	White/Mexican mix
+#	Spigger	Mixed Races	Hispanics/Black mix. Combination of 'Spic' and 'Nigger.'
+C	Spike	Mixed Races	"Jewish and Hispanic, Spic + Kike = Spike"
+C	Spink	Mixed Races	Spanish/Chinese mix. Combination of 'Spic' and 'Chink.'
+#	Spizzician	Mixed Races	"Hispanic/Guatemalan mix. Pronounced ""spizzz-ik-ien."""
+C	Swap	Mixed Races	Italian/Mexican. Spic + Wop
+C	Swirlie	Mixed Races	Black/White mix.
+C	Tiger	Mixed Races	Thai/Black. Thai + nigger. An equivalent to eggplant. Originating from Tiger Woods racial heritage.
+C	Trisket	Mixed Races	Mexican/White; A brown cracker.
+C	TWO-TONE	Mixed Races	Self Explanatory
+C	Vinegar	Mixed Races	Black/Vietnamese. (Vi-nigger)
+#	WetBlack	Mixed Races	Mexican/Black mix
+#	Wexican	Mixed Races	White/Mexican mix.
+C	White-wash	Mixed Races	"To be White-washed is to lose all culture after coming to the United States; also ""bleached."""
+#	Won Ton Parmesan	Mixed Races	Asian/Italian mix
+#	Wopalock	Mixed Races	Italian/Polish mix -- Wop + Polock
+#	Wopski	Mixed Races	Italian/Polish mix
+#	Yape	Mixed Races	"Condensed form of Yard Ape. Applies towards Blacks or Mexicans. Blacks sit out in the yard to keep cool. Mexicans are gardeners, thus always in the yard as well."
+#	Zambo	Mixed Races	Indian/African mix.
+C	Zebra	Mixed Races	Black/White mix. Relates the colors of a person's parents to the colors of a zebra's stripes.

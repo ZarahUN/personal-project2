@@ -1,0 +1,80 @@
+C	Apple	Native Americans	Used by Native Americans as derogatory for other Native Americans who are red on the outside but white on the inside.
+C	BFI	Native Americans	"The ""Big Fucking Indian"" at the back of the bar you dont want to piss off."
+C	Big Red	Native Americans	A fat native person. Refference to the gum with the same name.
+C	Blackout	Native Americans	A stereo type of American Indians referencing their prevalence to excessive alcohol consumption.
+#	Blanket-Ass	Native Americans	From when the US Government gave tribes blankets.. I guess to make up for killing so many of them. The blankets were also rumored to be infested with smallpox.
+#	Bow Bender	Native Americans	Indians shot bows.
+C	Buck	Native Americans	"The male equivalent of ""squaw"""
+#	Buffalo Jockey	Native Americans	Self-explanatory.
+#	Bushnigger	Native Americans	Self-explanatory.
+C	Casino	Native Americans	In reference to the many casinos popping up on Indian reservations all over America
+#	Cherry Nigger	Native Americans	Color of their skin.
+K	Chief	Native Americans	Self-explanatory.
+C	Chug	Native Americans	Refers to alcoholism in Native Americans. They chug it back.
+K	Cochise	Native Americans	An Apache chief who killed many a white man
+#	Cowboy-Killer	Native Americans	They killed many a cowboy.
+C	Crow	Native Americans	Used against other then Crows. Crows were scouts for the American Military or considered tradors by other Native Americans.
+C	Diesel	Native Americans	"Rhyming slang, diesel engine = injun"
+#	Dirt-Worshipper	Native Americans	"Made popular by HBO's ""Deadwood"""
+K	Eskimo	Native Americans	"Eskimo was once acceptable in Canada, and still is almost anywhere else. It means ""raw meat eater."" Eskimo orginated from southern Indian tribes describing the northern Inuit, whom they were constantly fighting. Inuit take offence to being called Eskimos, despite the fact that they do eat raw meat."
+C	FBI	Native Americans	Full Blooded Indian. Used in the movie Thunderheart. Not really a slur.
+C	Feather	Native Americans	"Used to differentiate Indians from India (""Dots"") from those from America (""Feathers"")."
+#	Featherhead	Native Americans	Comes from Native American tribes that wore feathered headdresses.
+#	Fort Injun	Native Americans	A term used to represent the [traitor?] Indians who hid behind the safety of the forts.
+#	Fort Indian	Native Americans	A term used to represent the [traitor?] Indians who hid behind the safety of the forts.
+#	Gas Huffer	Native Americans	"A large number of Native Americans, particularly those living in northwest Canada/Alaska, are said to be addicted to inhalants."
+C	Gasbag	Native Americans	Some Natives are commonly prone to 'huffing' gas out of a plastic bag.
+#	Glonni	Native Americans	Navajo for drunk. Extremely offensive to anyone who speaks Navajo.
+#	Gut-Eater	Native Americans	"They eat stomach lining (tripe) of deer, buffalo, etc. Also after the newly-arrived whites killed all the buffalo they would take every thing but the guts. So all the plains Indians had to eat was guts."
+#	Half-a-gas-can	Native Americans	"Comes from the name ""Athabaskan"", an Alaskan Indian group."
+#	Hatchet-Packer	Native Americans	They are always carrying their hatchets
+C	Huff	Native Americans	They huff gas to get high as they can't afford real drugs
+K	Indian	Native Americans	"Indians come from India, not North/South America. Offensive because original American settlers from Europe completely misnamed them."
+C	Init	Native Americans	"Sioux Indians. Init is a actual word the Sioux like to use. We like to say this is ""rez talk"" so eventually it fit to call them Inits."
+K	Injun	Native Americans	Pioneer-related term dates back to the 19th century during the Western Expansion. Probably comes from country people who could not pronounce the word Indian correctly.
+C	Jig	Native Americans	"In Canada, they do a dance called a jig or jigging."
+C	John Redcorn	Native Americans	The Native Americans character on the animated show King of the Hill is named John Redcorn
+k	Ki Yi	Native Americans	Rhymes with 'pie pie'. The sounds made in old western movies by the Indians.
+#	Klooch	Native Americans	Common slur used for Alaskan Indians.
+C	Knee Jerk	Native Americans	Subset of Native American indicating person who was at Wounded Knee incident in South Dakota in the '70s; Member of A.I.M. (American Indian Movement)
+#	Kukolokod	Native Americans	"From the Beatles song where there is a verse ""I am the walrus, kuko loko chu"". Walrus live in Alaska."
+#	Maize-Muncher	Native Americans	Natives are known for there love of corn.
+C	Mascot	Native Americans	Their likeness is often mascots for sports teams
+#	Mohow	Native Americans	Indians have Mohawks & Pow wows.
+C	Muck	Native Americans	"Short for ""Muckleshoot"", one of the most stereotypical and despised tribes of the Pacific Northwest"
+C	Nate	Native Americans	Shortened. Could probably be used on any native peoples.
+#	Neechee	Native Americans	Love of Lychee fruit.
+C	Nit	Native Americans	"Chivington ordered him men: ""kill and scalp all, big and little; nits make lice"" just before the Sand Creek massacre in 1864. This was an explination as to why troops were ordered to kill Indian children."
+C	Pow Wow	Native Americans	Their calls
+#	Prairie Nigger	Native Americans	"Where Natives originate, or were sent"
+#	Pretendian	Native Americans	"Native Americans who claim to be pure, but are just mixed-breeds. I suppose this could refer to any mixed -ian race."
+#	Prigger	Native Canadians	"Prairie nigger. They are called priggers because they resemble America's Black population, living in ghettos of poverty and violence with the highest crime rate in Canada. Prigger usually means a native aboriginal in Alberta, Saskatchewan, or Manitoba, the 3 prairie provinces. It can also be used to describe aboriginals from other parts of Canada but is mainly suited to the prairie provinces only."
+C	Radish	Native Americans	"Red on the outside, white on the inside."
+C	Red	Native Americans	Skin color.
+K	Red Nigger	Native Americans	Self-explanatory.
+K	Redskin	Native Americans	"The term Redskin, came from two places, the skin color, then the cruel torture of skinning Native Americans for a bounty. Since their skin was red they started saying ""red skins."""
+#	Salmon Cruncher	Native Americans	Salmon is the main part of the diet in many northern villages.
+#	Salmon Nigger	Native Americans	Salmon was a primary food source for Northwestern Native Americans.
+C	Savage	Native Americans	Americans commonly called Native Americans by this name in the 1800s.
+C	Scalper	Native Americans	Based on the Native American practice of scalping enemies.
+K	Seal-Clubber	Native Americans	Clubbing of seals for the fur and meat
+#	Semihole	Native Americans	Referring to the Seminole tribe.
+#	Siwash	Native Americans	"Originates from the French word Sauvage which means ""savage"""
+#	Smoke-Signal	Native Americans	Many American Indians communicated by using smoke signals.
+#	Spruce Monkey	Native Americans	Spruce forests
+#	Squanto	Native Americans	Name of a Native American who helped the English colonists in Massachusetts develop agricultural techniques and served as an interpreter between the colonists and the Wampanoag.
+#	Squaw	Native Americans	"Refers to Native American women. Usually thought to refer to a woman's vagina, but this is fairly controversial."
+#	Squaw Hopper	Native Americans	"Usually associated with natives, but also used for anyone in a relationship with a native female"
+#	Tee-Pee Creeper	Native Americans	Some live in tee-pees.
+#	Timber Nigger	Native Americans	Similar to Prairie Nigger.
+#	Tipi Tom	Native Americans	Combination if Tee-pee living and tom-tom usage.
+#	Tomahawk-Chucker	Native Americans	Self-explanatory.
+#	Tomahonky	Native Americans	Normally refers to whites with a Native American heritage. Combo of tomahawk + honky
+K	Tonto	Native Americans	"Native American character from The Lone Ranger. Spanish for ""Idiot"""
+#	Trail Nigger	Native Americans	Self Explanatory
+#	Tundra Nigger	Native Americans	"same as prarie nigger, but Eskimos are a different species of animal than Indians."
+#	Wagon-Burner	Native Americans	They burnt wagons
+C	Wahoo	Native Americans	"War Cry, there was also a famous Native American wrestler named Wahoo McDaniel in the 80's."
+C	War Whoop	Native Americans	Refers to the traditional Native American war cry.
+#	WOPaho	Native Americans	"Any person claiming to be part Navaho Indian, but are without papers or pedigree showing it. Similar To Wigger In Some Respects. A couple of Kootenai Indians in my home town called some people this once, and I heard it as a boy. Naturally, I asked... ""You know, there's always someone claimng to be part Navaho, but they have no papers..."""
+C	Yazzie	Native Americans	Common last name among Navajos which is used in the derogatorily by whites.

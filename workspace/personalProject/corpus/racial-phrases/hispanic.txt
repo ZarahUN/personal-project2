@@ -1,0 +1,85 @@
+C	Amigo	Hispanics	Self-explanatory.
+C	Ban	Hispanics	CuBANS. See also: Can
+#	Bean Bandit	Hispanics	They eat beans.
+#	Bean Burrito	Hispanics	Common Hispanic food is bean burritos and the coloring of the beans is similar to the coloring of their skin.
+#	Beanbag	Hispanics	Another slur based on the Hispanics consumption of beans
+C	Beaner	Hispanics	Because they are known to have a lot of beans in their diet and are also hired many times to pick beans for (sometimes less than) minimum wage.
+#	Beaner Ball	Hispanics	Soccer is quite popular in Mexico and South America.
+#	Beaniard	Hispanics	Refers to the Spanish origin "Spaniard" mixed "Bean", with a commom food in many Mexican dishes.
+#	Berry Picker	Hispanics	Refers to Hispanics who would work berry fields in California, specifically illegal immigrants, as their employer didn't have to pay them as much.
+#	Border Bunny	Hispanics	Hopping the border to get into America.
+K	Border Nigger	Hispanics	See Border Bunny.
+K	Border-Hopper	Hispanics	Same as Border Bunny. Border-Jumper too.
+C	Burrito	Hispanics	Comes from the old adage you are what you eat. Also burrito-head, burrito-brain, etc.
+K	Cabezita Negra	Hispanics	What whites in Argentina call mestizo people who are darker and poorer. It means Little Black Head; Most of the Argentinians from european heritage either have blonde or light colored hair.
+C	Can	Hispanics	MexiCANS, Puerto RiCANS
+C	Car Thief	Hispanics	Based on the stereotype that Hispanics steal cars
+C	Cham	Hispanics	CHicano AMerican.
+C	Cheap Labor	Hispanics	Because minimum wage only applies to U.S. citizens.
+C	Cheddar	Hispanics	Hispanics who are frequently in the welfare line getting "government cheese."
+C	Cherry Picker	Hispanics	Hispanics are often limited to low paying jobs, such as picking fruit, which includes but is not limited to cherries.
+C	Chico	Hispanics	Spanish for 'little boy'
+K	Chilango	Hispanics	Specifically Mexico City inhabitants. People from Mexico's provinces use it as an insult denoting a lazy, tricky, cheating person from the big city. Seen on bumper stickers: "Haz Patria, Mata Un Chilango" (Make Mexico great, kill a Chilango).
+C	Chili	Hispanics	They tend to eat lots of chili peppers.
+K	Chili-Shitter	Hispanics	Self-explanatory.
+K	Cholo	Hispanics	Of uncertain origin. Commonly denotes Hispanic gangster types (in the U.S., not in Mexico)
+K	Chunga	Hispanics	Hispanic girls who dress and act Black. No idea why[?]
+C	Coat	Hispanics	Instead of showering, they put on a new coat of cologne.
+C	Coke Camel	Hispanics	Drug trafficking.
+C	Dozer	Hispanics	They always work on in the field of construction, thats were Bull "Dozer" comes into play.
+C	Drywaller	Hispanics	Hispanics do a lot of construction work and are usually paid very little or nothing.
+C	Dumb Wet	Hispanics	Variation of Wet-Back, as used on an episode of X-Files.
+C	Ese	Hispanics	Pronounced "s-a." Roughly translates to "dude." Offensively used by races other than Hispanics.
+C	Fake Mexican	Hispanics	Used to describe those who have lost the language, culture, etc. of Mexico.
+C	Fidel	Hispanics	Reference to the infamous Cuban dictator Fidel Castro.
+C	Fruit-Picker	Hispanics	The Mexicans who cross the border often pick fruit, usually for pennies an hour. Often, when it is time to give the illegal aliens their meager wages, the plantation owner calls the border patrol to send them back.
+#	Garden Gnome	Hispanics	They do all the gardening for rich white people
+C	Gardner	Hispanics	Hispanics do most of the hired gardening.
+C	Goya	Hispanics	Probably the most popular and most mainstream Latin food company in the world
+#	Gravelbellies	Hispanics	Crawling across border on their bellies.
+#	Hispandex	Hispanics	Don't know if Hispanics are known for wearing Spandex, but it sounds funny anyway.
+#	Hot Footer	Hispanics	Ones that can't swim across the border. See: Wet-Back.
+C	Housekeeping	Hispanics	Many hotel housekeepers are Hispanic.
+C	Juan Valdez	Hispanics	The guy from the Colombian coffee can.
+#	Lao-Mo	Hispanics	Chinese. Mo is the first chinese character of Moxige (Mexico) and also happened to mean "Old Ink"
+#	Latrino	Hispanics	Combination of "Latino" and "Latrine."
+C	Leafblower	Hispanics	Many Hispanics are involved with landscaping, and sometimes carry leafblowers
+C	Loby	Hispanics	Armenian word for "beans". Hispanics are known to have a lot of beans in their diet.
+C	Lowrider	Hispanics	Refers to lowriders. The tricked out, custom cars Hispanic gang members often drive.
+K	Mestizo	Hispanics	Specifically, Spanish/Native American mixed breed. Not polite, but not taboo either. From the Spanish word for "mixed".
+#	Mojado	Hispanics	Means 'wet' or 'dunked' in Spanish. See Mojo
+C	Mojo	Hispanics	Normally used among Hispanics towards other Hispanics. "Mojo" derives from "mojado" meaning "wet" i.e. wet-backs. Mojados are Mexican citizens while pochos are Mexican-Americans.
+C	Montana	Hispanics	Derived from the movie "Scarface" which stars a cuban immigrant druglord named "Tony Montana", slur usually said with a Spanish accent
+C	Mule	Hispanics	Hispanics transport drugs.
+C	Nacho	Hispanics	Based on the popular snack.
+K	Naco	Hispanics	Native Mexicans. Used as an insult by city dwellers on indigenous, small town inhabitants or vulgar people even from the big city.
+C	Nethead	Hispanics	Chicano slur used in L.A. From Mexican boys wearing thin nets to cover their hair.
+C	New York Met	Hispanics	There are a lot of Hispanics on the Mets.
+C	Orange Picker	Hispanics	From all the Hispanics that work in the agriculture industry in California.
+C	Paragraph	Hispanics	Referring to hispanic children. 'Not quite an essay (see ese), but a paragraph.'
+#	Pepperbelly	Hispanics	They eat a lot of peppers. Refrence to their love for spicy foods.
+#	Petrolero	Hispanics	Hispanics Who Are Attracted To Blacks. Means "Oil Drillers".
+#	Po-Bean	Hispanics	Short for Poor Beaner.
+C	Pocho	Hispanics	Chicano derogatory term referring to Hispanics who can't speak Spanish. Used by Hispanics. May technically only refer to Portuguese people.
+C	Pollo	Hispanics	The U.S. Border Patrol uses this term to refer to illegal aliens. Pollo means chicken in Spanish. Agents call the illegals Pollos on their service radios.
+C	Ref	Hispanics	Many people use it in Southern Florida referring to the latins (mainly Cubans) that come to South Florida and don't speak English well
+#	Rico Suave	Hispanics	The 80's singer/rapper of the same name.
+C	River-Crosser	Hispanics	Self-explanatory.
+C	Sanchez	Hispanics	Common Hispanic name
+#	Scratch-Back	Hispanics	Mexicans (illegals) who crawl under fences, getting their backs scratched up in the process, to get into America.
+#	Sexican	Hispanics	Refers to how fast the Mexican-American population is increasing.
+C	Spanglish	Hispanics	Spanish-Americans; English-speaking Hispanics, also the language they speak.
+C	Spec	Hispanics	Baby Spic. See: Spic.
+C	Speed Demon	Hispanics	Amphetamines are popular among Hispanics.
+K	Spic	Hispanics	Short for Hispanic. Might also be acronym of SPanish, Indian, and Colored, coming from the mixed breeds that resulted from the union of Spanish colonists, Indian natives, and Black (colored) slaves. From the OED. spic A. n. a. A contemptuous and offensive name for a Spanish-speaking native of Central or South America or the Caribbean; a spiggoty. - It dates back (in print) to at least 1913. However, I understand it first applied to Italian immigrants in the late 1800s - More information: 1938 Amer. Speech XIII. 311/1 "Spiggoty" originated in Panama during Construction Days, and is assumed to be a corruption of 'spikee de' in the sentence 'No spikee de English'
+C	Spic and Span	Hispanics	Self Explanatory
+K	SpicNic	Hispanics	Hispanics who pull over on the side of a main highway, pop the hood on their car, set up the volleyball net, sit on thier coolers and have a picnic.
+#	Spivic	Hispanics	Often referred to Hispanics that drive Honda Civics
+C	Taco	Hispanics	Because they eat tacos.
+#	Taco Bender	Hispanics	Because they eat tacos.
+K	Taco Nigger	Hispanics	Because they eat tacos.
+C	Tamale	Hispanics	A common latin American food.
+#	Tomato Picker	Hispanics	Hispanics pick tomatoes.
+X	W.O.G.	Hispanics	Those who worked on the suez canal project would wear a uniform which had Working On Government (project) on it. Typically used to describe people who arent white.
+C	Wab	Hispanics	Short for Wet-Back. See: Wet-Back.
+K	Yick	Jewish/Hispanic	Yiddish combined with Spic

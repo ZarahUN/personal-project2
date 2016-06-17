@@ -1,0 +1,116 @@
+C	AMF	Jews	"Short for ""Arbeit Macht Frei"" (Work Brings Freedom) which was on the gates of the concentration camp Auswitz"
+#	Bagel-Dog	Jews	"From Kosher ""bagel dogs"" - a Kosher sausage inside of a bagel."
+#	Bar Code	Jews	"Jewish prisoners were tattooed with a number on their arm while in concentration camps. While the bar code was not invented(or at least patended) until after the war, this is a slur in common, although incorrect, usage."
+C	Beanie	Jews	Referring to the yarmulke.
+C	Beastie Boy	Jews	"Jews who act Black, like the Jewish rap group The Beastie Boys."
+#	Bible-Shortener	Jews	"Seen on a Conan O'Brien sketch ""Rednecks' Favorite Euphemisms for Jews,"" backwards refers to the difference between the Christian Bible and the Jewish one. The Christian Bible includes the ""New Testament"" whereas the Jewish Bible does not."
+C	Big Nose	Jews	Refers to how Jews are said to have large noses.
+C	Bones	Jews	"Reference to the holocaust when Jews were often worked so hard, they were turned into a mere pile of bones."
+C	Brew	Jews	"Short for ""Hebrew""."
+#	Bronx Indian	Jews	"Probably not derogatory, possibly self-referential. Most likely from sometime between the turn of the century and the early sixties. I have only found one reference to it, but I believe it is most likely from the fact that in the first half of the twentieth century, for a period almost fifty percent of the Bronx was Jewish, thus they were seemingly like the native population of the Bronx."
+C	Bun	Jews	"As in ""bun in the oven."""
+C	Burger	Jews	"Many of their names end it ""Burg"""
+C	Campers	Jews	WWII reference and the propensity of Jewish parents to send their children to summer camps.
+C	Canadian Goose	Jews	"Joe Kennedy used this term in public to refer to Jews without anyone knowing he was doing so. Refers to Jews being loud, pesty and foreign (as the geese are in Massachusetts), and having big noses"
+C	Cashew	Jews	"Catholic Jews. Mainly, the children of a Jew and a Catholic. Originated from a standup routine by Jack Carter in the 60s"
+#	Christ Killer	Jews	See: Jesus Killer.
+#	Circle-K	Jews	Circle K appears on kosher food labels
+#	Cliptip	Jews	Circumcision reference.
+C	Crikey	Jews	"A corrupted version of ""Christ Killer"""
+#	Dead Sea Pedestrian	Jews	See: Red Sea Pedestrian.
+C	Dial	Jews	"During WWII, the Nazis would make soap out of the fat of the burned Jews (Dial is a brand of soap). This story is said to be true, and also said to be merely war propaganda."
+K	Dreidl	Jews	Jewish toy
+#	Easy-Bake Nigger	Jews	WWII reference.
+#	Falasha	Jews	Ethiopian Jews. A derogotory nickname. The proper name is Bet-Yisrael
+C	Firewood	Jews	WWII Holocaust reference. 'Nazi Firewood' to be more specific.
+#	Four By Two	Jews	"Cockney rhyming slang ""four by two"" = Jew."
+C	Gargamel	Jews	"Refers to greedy, money centered nature of Jews. Reference from Smurfs cartoon."
+#	Gatemaster	Jews	Some say they are destined for hell.
+#	German Candle	Jews	Nazi's incinerated many Jews during WW2
+#	German Oven Mitt	Jews	WWII.
+C	Gew	Jews	A German Jew. Pronounced like 'goo'.
+C	Gingerbread Man	Jews	Reference to the practices of the former state of Germany.
+C	Goldberg	Jews	Common Jewish name. Also has slight money-related reference.
+C	Goldie	Jews	Jews had to wear gold stars of david during WW2
+#	Half-Dick	Jews	Circumcision reference.
+C	Hanah	Jews	"Popular Jewish name for girls, pronounced like the chanu in Chanukah"
+K	Hebe	Jews	Short for Hebrew.
+K	Heeb	Jews	Short for Hebrew.
+K	Hebro	Jews	"Black Jews. Combination of ""Hebrew"" and ""bro,"" or ""Hebrew"" and ""Negro."""
+#	Hickory-Smoked	Jews	WWII.
+#	Himey	Jews	"Most noteworthy usage by Rev. Jesse Jackson calling New York ""himey town."" Also: heime, heimey"
+#	Hooknose	Jews	In recognition of a common Hebrew facial characteristic.
+#	Horvitz	Jews	Last name of famous Jewish con-artist/criminal. Refers to Jews who complain about low-paying jobs.
+C	Hot Pocket	Jews	Quick easy thing to cook in an oven.
+#	Hymie	Jews	"Common name: Chaim, pronounced (roughly) hy-EEM. Jesse Jackson once referred to New York City as ""Hymie-town."""
+#	Ikey-Mo	Jews	"Abbreviation of ""Isaac Moses""."
+C	Interesting	Jews	"Used by some upper-class Whites, especially females, when discussing men. ""He's a nice guy. Is He...interesting?"""
+C	Isaac	Jews	"Used by Errol Flynn in a 1933 letter to German intelligence agent Hermann Erben. Assumes that ""Isaac"" and all of its other incarnations are common names among Jews."
+C	JAP	Jews	"Stands for ""Jewish-American Princess"". Related to the familiar 'Yenta'. Origins in Philip Roth's short story ""Goodbye Columbus."""
+#	Jesus Killer	Jews	Christians in the times of WWII when the Jews were most hated used this slur as a reason to hate Jews.
+K	Jew	Jews	Short for Jewish. Not really a slur but could be if you say it the right way.
+#	Jew Jew Bee	Jews	Theres a type of candy called JuJu
+#	Jew Yorker	Jews	Due to high incidence of Jews in NY
+#	Jew-Bag	Jews	Reference to being cheap.
+#	Jewbacca	Jews	Hairy Jews. In reference to the hairy creature Chewbacca from the Star Wars movies.
+#	Jewbling	Jews	Small/young Jews.
+#	Jewbrew	Jews	Hebrew combined with Jew
+#	Jewbu	Jews	A former person of the Jewish faith who has switched to Buddhism(apparently there are many).
+K	Jewess	Jews	"Mix of Jew and Princess, as the teenage girls are often treated like. Not any more a slur than Jew is."
+#	Jewgaboo	Jews	A Jewish person that acts or tries to act like a black person or is half black.
+#	Jewlet	Jews	Female Teenage Jews. Heard frequently in NY.
+#	Jewmaican	Jews	A Jewish person that acts Jamaican or Rastafarian or is half Jamaican.
+#	Jewpac	Jews	Twist on Tupac Shakur's name.
+#	Jewpidity	Jews	Jewish + stupidity.
+#	JUBU	Jews	"Jewish people attempting to act black. From the clothing marketed towards black people, FUBU."
+K	Kike	Jews	"Originates from the word 'keikl', in Yiddish, which means 'circle', the reason being that the first Jewish immigrants in America, who were unable to sign their names, signed with a circle instead of a cross."
+#	Kosher Konsumer	Jews	They only eat kosher food
+#	Koshie	Jews	As in kosher
+C	Lamp Shade	Jews	The Nazis had lamp shades made from Jewish skin
+#	Matza-Gobbler	Jews	Matza is Jewish un-levened bread
+C	Matzah	Jews	Refers to the Jewish food matzah balls
+#	Mockey	Jews	"Jews ""mocked"" Jesus at his death."
+#	Morta Cristo	Jews	Italian for 'Christ-killer.'
+C	Moses	Jews	Famous Jew who led his people out of Egypt.
+C	Mosquito	Jews	"Jews tend have long noses, similar to a mosquito."
+#	Nickel Nose	Jews	Money and Facial characteristic.
+#	Oven Magnet	Jews	Attracted to the inside of ovens.
+C	Oven-Baked	Jews	World War II reference.
+#	Oven-Dweller	Jews	World War II reference.
+#	Palm Beacher	Jews	Elderly Jews in Palm Beach County Florida deadlocked the election for 2 months.
+#	Penny Chaser	Jews	"The old ""Jews are cheap"" thing."
+C	Penny-Pincher	Jews	Cheapness
+C	Pinocchio	Jews	Pinocchio's nose corrolates with that of a stereotypical Jew.
+C	Pizza	Jews	Both go in the oven.
+C	Popular Science	Jews	Experiments performed on the Jews during WW2
+C	Porky	Jews	The Old Testament forbids them to eat pork
+#	Red Sea Pedestrian	Jews	"Moses led the Israelites across the Red Sea from Egypt. Heard in Monty Python's ""Life of Brian."""
+C	Scooby Doo	Jews	Rhyming slang for 'Jew'.
+C	Seinfeld	Jews	Probably one of the most famous Jews.
+#	Self-Chosen	Jews	In reference to their moniker 'chosen people of God.'
+C	Sheeny	Jews	"From Yiddish ""shaine"" or German ""schon"" meaning ""beautiful""."
+#	Sheister	Jews	"Like a shyster lawyer. One who carries on any business, especially legal business, in a mean and dishonest way."
+#	Shnozzle	Jews	"They have large noses, or ""shnozzes."""
+#	Shonnicker	Jews	Early 20th century American
+K	Shylock	Jews	"Comes from Shakespeare's ""The Merchant of Venice."""
+C	Six Pointer	Jews	Six points on the star of David
+#	Six-nose	Jews	"Jews have hooked or ""six shaped"" nose"
+#	Snipcock	Jews	"Henry Ford used it, reference to circumcision"
+C	Snow Bird	Jews	"Refers to old Jewish retirees who transplant themselves to Florida. Although they move to the sunshine state, they stay indoors thus retaing their white color."
+C	Snowflake	Jews	When they would burn the Jews and the ashes would come out the smoke stacks. (See Schiendler's List)
+C	Special Meal	Jews	"When a Jewish person gets a meal on a plane, it's from the kosher menu and a special meal not offered to regular passengers"
+C	Stein	Jews	Common name
+C	Toucan Sam	Jews	"Toucans have large, protruding beaks"
+#	Wandering Jew	Jews	"The jews wandered the desert for 40 years after crossing the red sea to get out of egypt, before reaching the holy-land."
+#	Wej	Jews	Jew spelled backwards.
+K	Yahoodi	Jews	The word 'Jew' in Arabic.
+C	Yenta	Jews	Know-it-all Jewish women. Not really a slur.
+#	Yid	Jews	The Yiddish connection
+#	Yid-Lid	Jews	"Yid = Yiddish, lid = Yarmulke."
+#	Yiddiot	Jews	Yiddish and Idiot combined (stupid jew)
+#	Yitze	Jews	"Name for Jews. Also Yitze Braun, Yitze Braud"
+C	Yom	Jews	From the holiday Yom Kippur
+#	Zhid	Jews	"Russian-language version of ""Jew"" or ""yid"". Only considered a derogatory term close to ""kike"" in Orthodox Christian countries.. in others it simply means ""Jew."""
+#	Zhidan	Jews	"Romanian word for jew, dirty jew, or cheap jew"
+K	Zionist	Jews	Jews are typically Zionist in political nature. The ultimate goal being to take over Palestine. Also: Zog
+K	Zog	Jews	"Zionist Occupation Government - Written near the body of murdered radio talk show host Allen Burg in Denver, Co."
